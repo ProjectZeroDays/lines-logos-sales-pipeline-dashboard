@@ -25,7 +25,7 @@
 
 Court floors and logos · Vinyl graphics · Murals and painting · Parking lot touchups
 
-</div>-
+</div>
 
 ## Overview
 

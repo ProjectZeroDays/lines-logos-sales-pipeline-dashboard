@@ -2,9 +2,9 @@
   <img src="Logos/LinesAndLogos_Icon.png" alt="Lines & Logos icon" width="220" />
 </p>
 
-<h1 align="center">Lines &amp; Logos, LLC.</h1>
+<h1 align="center">Lines &amp; Logos</h1>
 
-<p align="center"><em>── Images that make a really BIG impression ──</em></p>
+<p align="center"><em></em></p>
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### BUILT TO MAKE EVERY SURFACE STAND OUT
+### ── Images that make a really BIG impression ──
 
 Court floors and logos · Vinyl graphics · Murals and painting · Parking lot touchups
 

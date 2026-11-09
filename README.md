@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logos/LinesAndLogos_4K_Transparent.png" alt="Lines & Logos" width="720" />
+</p>
+
 # Lines & Logos
 
 <div align="center">

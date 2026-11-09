@@ -1,0 +1,11 @@
+{
+  "robots": "index",
+  "siteName": "Taskade",
+  "pageTitle": "Sales Pipeline Dashboard — Built with Taskade",
+  "watermark": "none",
+  "description": "A living app built with Taskade Genesis. One prompt, one app. Projects remember, agents learn, and workflows move.",
+  "darkThemeColor": "",
+  "lightThemeColor": "",
+  "useCustomColors": false,
+  "siteTwitterHandle": "@taskade"
+}

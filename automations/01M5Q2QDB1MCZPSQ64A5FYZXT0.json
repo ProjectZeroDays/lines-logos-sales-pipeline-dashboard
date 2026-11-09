@@ -1,0 +1,8 @@
+{
+  "version": "2",
+  "flowTitle": "Research Similar Local Prospects",
+  "trigger": {
+    "type": "EMPTY"
+  },
+  "actions": []
+}

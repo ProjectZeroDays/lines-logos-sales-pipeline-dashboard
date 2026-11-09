@@ -1,0 +1,887 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "e8e53a4a-6e12-445f-aa80-9451ef612625",
+        "text": {
+          "ops": [
+            {
+              "insert": "Approved Work Library"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": []
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@jobpub": {
+            "id": "/attributes/@jobpub",
+            "fieldPath": "/attributes/@jobpub",
+            "rank": "z"
+          },
+          "/attributes/@clpubl": {
+            "id": "/attributes/@clpubl",
+            "fieldPath": "/attributes/@clpubl",
+            "rank": "zV"
+          },
+          "/attributes/@pubdat": {
+            "id": "/attributes/@pubdat",
+            "fieldPath": "/attributes/@pubdat",
+            "rank": "zk"
+          },
+          "/attributes/@publoc": {
+            "id": "/attributes/@publoc",
+            "fieldPath": "/attributes/@publoc",
+            "rank": "zs"
+          },
+          "/attributes/@puburl": {
+            "id": "/attributes/@puburl",
+            "fieldPath": "/attributes/@puburl",
+            "rank": "zw"
+          },
+          "/attributes/@pubtyp": {
+            "id": "/attributes/@pubtyp",
+            "fieldPath": "/attributes/@pubtyp",
+            "rank": "zy"
+          },
+          "/attributes/@pubref": {
+            "id": "/attributes/@pubref",
+            "fieldPath": "/attributes/@pubref",
+            "rank": "zz"
+          },
+          "/attributes/@pubname": {
+            "id": "/attributes/@pubname",
+            "fieldPath": "/attributes/@pubname",
+            "rank": "zzV"
+          },
+          "/attributes/@pubcontact": {
+            "id": "/attributes/@pubcontact",
+            "fieldPath": "/attributes/@pubcontact",
+            "rank": "zzk"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@jobpub": {
+            "id": "/attributes/@jobpub",
+            "fieldPath": "/attributes/@jobpub",
+            "rank": "z"
+          },
+          "/attributes/@clpubl": {
+            "id": "/attributes/@clpubl",
+            "fieldPath": "/attributes/@clpubl",
+            "rank": "zV"
+          },
+          "/attributes/@pubdat": {
+            "id": "/attributes/@pubdat",
+            "fieldPath": "/attributes/@pubdat",
+            "rank": "zk"
+          },
+          "/attributes/@publoc": {
+            "id": "/attributes/@publoc",
+            "fieldPath": "/attributes/@publoc",
+            "rank": "zs"
+          },
+          "/attributes/@puburl": {
+            "id": "/attributes/@puburl",
+            "fieldPath": "/attributes/@puburl",
+            "rank": "zw"
+          },
+          "/attributes/@pubtyp": {
+            "id": "/attributes/@pubtyp",
+            "fieldPath": "/attributes/@pubtyp",
+            "rank": "zy"
+          },
+          "/attributes/@pubref": {
+            "id": "/attributes/@pubref",
+            "fieldPath": "/attributes/@pubref",
+            "rank": "zz"
+          },
+          "/attributes/@pubname": {
+            "id": "/attributes/@pubname",
+            "fieldPath": "/attributes/@pubname",
+            "rank": "zzV"
+          },
+          "/attributes/@pubcontact": {
+            "id": "/attributes/@pubcontact",
+            "fieldPath": "/attributes/@pubcontact",
+            "rank": "zzk"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@jobpub": {
+            "id": "/attributes/@jobpub",
+            "fieldPath": "/attributes/@jobpub",
+            "rank": "z"
+          },
+          "/attributes/@clpubl": {
+            "id": "/attributes/@clpubl",
+            "fieldPath": "/attributes/@clpubl",
+            "rank": "zV"
+          },
+          "/attributes/@pubdat": {
+            "id": "/attributes/@pubdat",
+            "fieldPath": "/attributes/@pubdat",
+            "rank": "zk"
+          },
+          "/attributes/@publoc": {
+            "id": "/attributes/@publoc",
+            "fieldPath": "/attributes/@publoc",
+            "rank": "zs"
+          },
+          "/attributes/@puburl": {
+            "id": "/attributes/@puburl",
+            "fieldPath": "/attributes/@puburl",
+            "rank": "zw"
+          },
+          "/attributes/@pubtyp": {
+            "id": "/attributes/@pubtyp",
+            "fieldPath": "/attributes/@pubtyp",
+            "rank": "zy"
+          },
+          "/attributes/@pubref": {
+            "id": "/attributes/@pubref",
+            "fieldPath": "/attributes/@pubref",
+            "rank": "zz"
+          },
+          "/attributes/@pubname": {
+            "id": "/attributes/@pubname",
+            "fieldPath": "/attributes/@pubname",
+            "rank": "zzV"
+          },
+          "/attributes/@pubcontact": {
+            "id": "/attributes/@pubcontact",
+            "fieldPath": "/attributes/@pubcontact",
+            "rank": "zzk"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@jobpub": {
+            "id": "/attributes/@jobpub",
+            "fieldPath": "/attributes/@jobpub",
+            "rank": "z"
+          },
+          "/attributes/@clpubl": {
+            "id": "/attributes/@clpubl",
+            "fieldPath": "/attributes/@clpubl",
+            "rank": "zV"
+          },
+          "/attributes/@pubdat": {
+            "id": "/attributes/@pubdat",
+            "fieldPath": "/attributes/@pubdat",
+            "rank": "zk"
+          },
+          "/attributes/@publoc": {
+            "id": "/attributes/@publoc",
+            "fieldPath": "/attributes/@publoc",
+            "rank": "zs"
+          },
+          "/attributes/@puburl": {
+            "id": "/attributes/@puburl",
+            "fieldPath": "/attributes/@puburl",
+            "rank": "zw"
+          },
+          "/attributes/@pubtyp": {
+            "id": "/attributes/@pubtyp",
+            "fieldPath": "/attributes/@pubtyp",
+            "rank": "zy"
+          },
+          "/attributes/@pubref": {
+            "id": "/attributes/@pubref",
+            "fieldPath": "/attributes/@pubref",
+            "rank": "zz"
+          },
+          "/attributes/@pubname": {
+            "id": "/attributes/@pubname",
+            "fieldPath": "/attributes/@pubname",
+            "rank": "zzV"
+          },
+          "/attributes/@pubcontact": {
+            "id": "/attributes/@pubcontact",
+            "fieldPath": "/attributes/@pubcontact",
+            "rank": "zzk"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@jobpub": {
+            "id": "/attributes/@jobpub",
+            "fieldPath": "/attributes/@jobpub",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@clpubl": {
+            "id": "/attributes/@clpubl",
+            "fieldPath": "/attributes/@clpubl",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@pubdat": {
+            "id": "/attributes/@pubdat",
+            "fieldPath": "/attributes/@pubdat",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@publoc": {
+            "id": "/attributes/@publoc",
+            "fieldPath": "/attributes/@publoc",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@puburl": {
+            "id": "/attributes/@puburl",
+            "fieldPath": "/attributes/@puburl",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@pubtyp": {
+            "id": "/attributes/@pubtyp",
+            "fieldPath": "/attributes/@pubtyp",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@pubref": {
+            "id": "/attributes/@pubref",
+            "fieldPath": "/attributes/@pubref",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@pubname": {
+            "id": "/attributes/@pubname",
+            "fieldPath": "/attributes/@pubname",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@pubcontact": {
+            "id": "/attributes/@pubcontact",
+            "fieldPath": "/attributes/@pubcontact",
+            "rank": "zzk",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@jobpub": {
+            "id": "/attributes/@jobpub",
+            "fieldPath": "/attributes/@jobpub",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@clpubl": {
+            "id": "/attributes/@clpubl",
+            "fieldPath": "/attributes/@clpubl",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@pubdat": {
+            "id": "/attributes/@pubdat",
+            "fieldPath": "/attributes/@pubdat",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@publoc": {
+            "id": "/attributes/@publoc",
+            "fieldPath": "/attributes/@publoc",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@puburl": {
+            "id": "/attributes/@puburl",
+            "fieldPath": "/attributes/@puburl",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@pubtyp": {
+            "id": "/attributes/@pubtyp",
+            "fieldPath": "/attributes/@pubtyp",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@pubref": {
+            "id": "/attributes/@pubref",
+            "fieldPath": "/attributes/@pubref",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@pubname": {
+            "id": "/attributes/@pubname",
+            "fieldPath": "/attributes/@pubname",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@pubcontact": {
+            "id": "/attributes/@pubcontact",
+            "fieldPath": "/attributes/@pubcontact",
+            "rank": "zzk",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@jobpub": {
+        "type": "string",
+        "displayName": "Job Name"
+      },
+      "@pubcontact": {
+        "type": "string",
+        "displayName": "Approved Reference Contact"
+      },
+      "@publoc": {
+        "type": "string",
+        "displayName": "Location"
+      },
+      "@pubname": {
+        "type": "string",
+        "displayName": "Approved Reference Name"
+      },
+      "@pubtyp": {
+        "type": "Select",
+        "displayName": "Media Type",
+        "options": {
+          "photo": {
+            "id": "photo",
+            "name": "Photos",
+            "color": "#06b6d4",
+            "rank": "0"
+          },
+          "video": {
+            "id": "video",
+            "name": "Video",
+            "color": "#8b5cf6",
+            "rank": "1"
+          },
+          "mixed": {
+            "id": "mixed",
+            "name": "Photos and video",
+            "color": "#10b981",
+            "rank": "2"
+          }
+        }
+      },
+      "@puburl": {
+        "type": "string",
+        "displayName": "Approved Album URL"
+      },
+      "@pubref": {
+        "type": "Select",
+        "displayName": "Reference Available",
+        "options": {
+          "yes": {
+            "id": "yes",
+            "name": "Yes, approved customer reference",
+            "color": "#10b981",
+            "rank": "0"
+          },
+          "no": {
+            "id": "no",
+            "name": "No reference contact",
+            "color": "#64748b",
+            "rank": "1"
+          }
+        }
+      },
+      "@clpubl": {
+        "type": "string",
+        "displayName": "Client Display Name"
+      },
+      "@pubdat": {
+        "type": "DateTime",
+        "title": "Completed Date"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🌟"
+    }
+  }
+}

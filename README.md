@@ -4,7 +4,6 @@
 
 <div align="center">
 
-![Lines & Logos]
 ![Sports Courts](https://img.shields.io/badge/Sports_Courts-Basketball%20%7C%20Volleyball%20%7C%20Tennis%20%7C%20Pickleball-17324D?style=for-the-badge)
 ![Court Logos](https://img.shields.io/badge/Court_Logos-Custom%20Design-8B6E3F?style=for-the-badge)
 ![Vinyl Graphics](https://img.shields.io/badge/Vinyl_Graphics-Floors%20%7C%20Stickers%20%7C%20Fleet-34495E?style=for-the-badge)

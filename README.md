@@ -19,9 +19,9 @@
 
 <div align="center">
 
-<h1 align="center">Lines &amp; Logos</h1>
+# Lines &amp; Logos
 
-### ── Images that make a really BIG impression ──
+## ── Images that make a really BIG impression ──
 
 Court floors and logos · Vinyl graphics · Murals and painting · Parking lot touchups
 

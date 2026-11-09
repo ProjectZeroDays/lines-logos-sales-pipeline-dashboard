@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logos/LinesAndLogos_Icon.png" alt="Lines & Logos icon" width="220" />
+  <img src="Logos/LinesAndLogos_Icon.png" alt="Lines & Logos icon" width="440" />
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 Court floors and logos · Vinyl graphics · Murals and painting · Parking lot touchups
 
-</div>
+</div>-
 
 ## Overview
 

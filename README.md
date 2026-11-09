@@ -2,7 +2,7 @@
   <img src="Logos/LinesAndLogos_Icon.png" alt="Lines & Logos icon" width="220" />
 </p>
 
-<h1 align="center">Lines &amp; Logos</h1>
+<h1 align="center">Lines &amp; Logos, LLC.</h1>
 
 <p align="center"><em>Precision surfaces. Distinctive branding. Professional finish.</em></p>
 

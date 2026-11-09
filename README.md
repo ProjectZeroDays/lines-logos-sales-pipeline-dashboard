@@ -2,13 +2,9 @@
   <img src="Logos/LinesAndLogos_Icon.png" alt="Lines & Logos icon" width="220" />
 </p>
 
-<h1 align="center">Lines &amp; Logos</h1>
-
-<p align="center"><em></em></p>
-
 <div align="center">
 
-![Lines & Logos](https://camo.githubusercontent.com/741c54845b429251379f652691722f9455846f3e0eabcdf207d4320a02b9cc56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e65732d2532362d4c6f676f732d3046313732413f6c6f676f3d7061696e746272757368266c6f676f436f6c6f723d666666666666)
+![Lines & Logos](https://camo.githubusercontent.com/741c54845b429251379f652691722f9455846f3e0eabcdf207d4320a02b9cc56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e65732d2532362d4c6f676f732d3046313732413f6c6f676f3d7061696e746272757368266c6f676f436f6c6f723d6)
 ![Sports Courts](https://img.shields.io/badge/Sports_Courts-Basketball%20%7C%20Volleyball%20%7C%20Tennis%20%7C%20Pickleball-17324D?style=for-the-badge)
 ![Court Logos](https://img.shields.io/badge/Court_Logos-Custom%20Design-8B6E3F?style=for-the-badge)
 ![Vinyl Graphics](https://img.shields.io/badge/Vinyl_Graphics-Floors%20%7C%20Stickers%20%7C%20Fleet-34495E?style=for-the-badge)
@@ -23,6 +19,10 @@
 ---
 
 <div align="center">
+
+<h1 align="center">Lines &amp; Logos</h1>
+
+<p align="center"><em></em></p>
 
 ### ── Images that make a really BIG impression ──
 

@@ -21,8 +21,6 @@
 
 <h1 align="center">Lines &amp; Logos</h1>
 
-<p align="center"><em></em></p>
-
 ### ── Images that make a really BIG impression ──
 
 Court floors and logos · Vinyl graphics · Murals and painting · Parking lot touchups

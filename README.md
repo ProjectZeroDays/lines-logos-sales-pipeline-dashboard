@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logos/LinesAndLogos_Icon.png" alt="Lines & Logos icon" width="440" />
+  <img src="Logos/LinesAndLogos_Icon.png" alt="Lines & Logos icon" width="660" />
 </p>
 
 <div align="center">

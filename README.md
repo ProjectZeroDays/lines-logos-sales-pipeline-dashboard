@@ -20,8 +20,7 @@
 <div align="center">
 
 # Lines &amp; Logos
-<br>
-── Images that make a really BIG impression ──
+## ── Images that make a really BIG impression ──
 
 </div>
 

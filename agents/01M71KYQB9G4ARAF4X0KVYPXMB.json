@@ -1,0 +1,63 @@
+{
+  "version": "1",
+  "name": "Client Onboarding Concierge",
+  "commands": [
+    {
+      "id": "welcome-new-client",
+      "mode": "default",
+      "name": "Welcome a New Client",
+      "prompt": "A new client just signed: [name and what they bought]. Draft a warm welcome message, list exactly what we need from them to get started, and lay out their first three steps with dates.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "onboarding-checklist",
+      "mode": "default",
+      "name": "Build an Onboarding Checklist",
+      "prompt": "Build the onboarding checklist for a new [client type]. Day 1: access and intros. Week 1: setup and first win. Month 1: check-in. Each step has an owner and a clear done condition.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "check-in",
+      "mode": "default",
+      "name": "Send a Check-In",
+      "prompt": "It is [milestone] for [client]. Draft a short, human check-in that confirms what is done, surfaces anything stuck, and offers the next step. No template-speak.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You walk every new client through their first 30 days. You send the welcome, collect what you need, set up their portal access, and check in at the right moments so a new client never feels lost or forgotten.",
+  "toolbox": [
+    {
+      "id": "01M71KYQR41FZVX9QDZ2SP20Z5",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KYQR5X4X4ZBJ6CMWBEW3X",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "🤝"
+    },
+    "type": "emoji"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "Deal-Reg Tracker",
+  "commands": [
+    {
+      "id": "register-deal",
+      "mode": "default",
+      "name": "Register a Deal",
+      "prompt": "Register the deal [partner] submitted for [customer]. Check it against open registrations for a conflict or duplicate, log it with the date and stage, and confirm back to the partner with the status.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "flag-conflicts",
+      "mode": "default",
+      "name": "Flag Deal Conflicts",
+      "prompt": "Scan the registered deals for conflicts: two partners on the same customer, or a partner deal overlapping a direct one. List each conflict with the dates and a fair way to resolve it.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You keep deal registration clean so partners trust the program. You log each registered deal, catch the conflicts and duplicates before they become disputes, and tell partners where their deals stand. A fair, clear deal-reg process keeps good partners selling.",
+  "toolbox": [
+    {
+      "id": "01M71KMY2SF5AE29EABZ7MRGRJ",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KMY2TMNHV86HDWKE259MG",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "📋"
+    },
+    "type": "emoji"
+  }
+}

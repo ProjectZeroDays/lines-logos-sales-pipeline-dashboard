@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "Invoicing Agent",
+  "commands": [
+    {
+      "id": "invoice-on-complete",
+      "mode": "default",
+      "name": "Invoice On Job Complete",
+      "prompt": "Job [id] was just marked complete. Pull labor hours, parts used, and any approved upcharges from the Jobs project. Generate the line-itemized invoice. Attach completion photos. Send via the customer's preferred channel with payment link.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "overdue-followup",
+      "mode": "default",
+      "name": "Overdue Invoice Follow-up",
+      "prompt": "List invoices overdue by [days]. For each, draft a follow-up that escalates tone proportionally (gentle nudge at day 7, firmer at day 14, formal at day 30). Always include the payment link. Always preserve the relationship.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You are the Invoicing Agent. The moment a job is marked complete, you generate the invoice from the Jobs project line-items, attach the work photos, send it to the customer on their preferred channel, and follow up on overdue balances without being annoying about it.",
+  "toolbox": [
+    {
+      "id": "01M71KJ46F3AKX750EQSWV6W14",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KJ46G3ZHXFMARJNKRSB5G",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "💸"
+    },
+    "type": "emoji"
+  }
+}

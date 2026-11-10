@@ -4,11 +4,14 @@
 
 <div align="center">
 
-![Sports Courts](https://img.shields.io/badge/%F0%9F%8F%80_Sports_Courts-Basketball%20%7C%20Volleyball%20%7C%20Tennis%20%7C%20Pickleball-17324D?style=for-the-badge)
-![Court Logos](https://img.shields.io/badge/%F0%9F%8E%A8_Court_Logos-Custom%20Design-8B6E3F?style=for-the-badge)
-![Vinyl Graphics](https://img.shields.io/badge/%F0%9F%AA%A7_Vinyl_Graphics-Floors%20%7C%20Stickers%20%7C%20Fleet-34495E?style=for-the-badge)
-![Painting](https://img.shields.io/badge/%F0%9F%96%8C%EF%B8%8F_Painting-Murals%20%7C%20Homes%20%7C%20Parking-5B4636?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/%F0%9F%93%8A_Project-Sales%20Pipeline%20Dashboard-1F2937?style=for-the-badge)
+![Basketball Courts](https://img.shields.io/badge/%F0%9F%8F%80_Basketball_Courts-Court%20Floors%20%26%20Logos-17324D?style=flat-square)
+![Volleyball Courts](https://img.shields.io/badge/%F0%9F%8F%90_Volleyball_Courts-Court%20Floors%20%26%20Logos-244A68?style=flat-square)
+![Tennis Courts](https://img.shields.io/badge/%F0%9F%8E%BE_Tennis_Courts-Court%20Surfaces-355B78?style=flat-square)
+![Pickleball Courts](https://img.shields.io/badge/%F0%9F%8F%93_Pickleball_Courts-Court%20Surfaces-476C83?style=flat-square)
+![Court Logos](https://img.shields.io/badge/%F0%9F%8E%A8_Court_Logos-Custom%20Design-8B6E3F?style=flat-square)
+![Vinyl Graphics](https://img.shields.io/badge/%F0%9F%AA%A7_Vinyl_Graphics-Floors%20%7C%20Stickers%20%7C%20Fleet-34495E?style=flat-square)
+![Painting](https://img.shields.io/badge/%F0%9F%96%8C%EF%B8%8F_Painting-Murals%20%7C%20Homes%20%7C%20Parking-5B4636?style=flat-square)
+![Sales Pipeline Dashboard](https://img.shields.io/badge/%F0%9F%93%8A_Sales_Pipeline-Dashboard-1F2937?style=flat-square)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-98.6%25-3178C6?logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1.4%25-663399?logo=css&logoColor=white)

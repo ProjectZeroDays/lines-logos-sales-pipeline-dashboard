@@ -20,7 +20,9 @@
 <div align="center">
 
 # Lines &amp; Logos
+
 ── Images that make a really BIG impression ──
+
 Court floors and logos · Vinyl graphics · Murals and painting · Parking lot touchups
 
 </div>

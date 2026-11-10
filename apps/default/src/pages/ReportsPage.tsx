@@ -5,8 +5,10 @@ import { DollarSign, Share2, Target, TrendingUp, Users } from 'lucide-react';
 import { useLiveNodes } from '@/hooks/use-live-nodes';
 import { getFieldValue, getFieldNumber, getTitle } from '@/lib/genesis-data';
 import { LINES_LOGOS_PROJECTS } from '@/lib/lines-logos-data';
-import { calculateStageMetrics, calculateWinRate, formatPercent } from '@/lib/sales-utils';
-import type { Deal, StageMetrics } from '@/types/sales';
+import { calculateStageMetrics, calculateConversionRates, calculateWinRate, formatPercent, STAGE_CONFIG } from '@/lib/sales-utils';
+import type { Deal } from '@/types/sales';
+import { ConversionFunnel } from '@/components/ConversionFunnel';
+import { VelocityChart } from '@/components/VelocityChart';
 
 const SOURCE_CONFIG = {
   inbound: { label: 'Inbound', chart: 1 },
@@ -71,7 +73,19 @@ export default function ReportsPage() {
   const deals = useMemo(() => dealRows.map((d) => d.deal), [dealRows]);
 
   const stageMetrics = useMemo(() => calculateStageMetrics(deals), [deals]);
+  const conversions = useMemo(() => calculateConversionRates(deals), [deals]);
   const winRate = useMemo(() => calculateWinRate(deals), [deals]);
+
+  const topOpen = useMemo(() =>
+    deals.filter((d) => d.stage !== 'closed-won' && d.stage !== 'closed-lost')
+      .sort((a, b) => b.value - a.value)
+      .slice(0, 5),
+    [deals],
+  );
+
+  const openDeals = deals.filter((d) => d.stage !== 'closed-won' && d.stage !== 'closed-lost');
+  const closedWon = deals.filter((d) => d.stage === 'closed-won').length;
+  const closedLost = deals.filter((d) => d.stage === 'closed-lost').length;
 
   const totalDeals = deals.length;
   const totalValue = deals.reduce((sum, d) => sum + d.value, 0);
@@ -128,6 +142,11 @@ export default function ReportsPage() {
         <MetricCard title="Win rate" value={formatPercent(winRate)} subtitle="Won ÷ closed deals" icon={Target} />
         <MetricCard title="Avg deal size" value={currency(avgDealSize)} subtitle="Total ÷ deal count" icon={Share2} />
       </div>
+
+      <section className="grid grid-cols-1 gap-5 lg:grid-cols-2">
+        <ConversionFunnel conversions={conversions} />
+        <VelocityChart stages={stageMetrics} />
+      </section>
 
       <section className="grid gap-5 lg:grid-cols-2">
         <section aria-labelledby="source-heading" className="rounded-2xl border border-white/10 bg-white/5 backdrop-blur-lg p-5 sm:p-6 shadow-lg shadow-black/40">
@@ -265,6 +284,40 @@ export default function ReportsPage() {
             </div>
           ))}
         </div>
+      </section>
+
+      <section aria-labelledby="open-deals-heading" className="overflow-hidden rounded-2xl border border-white/10 bg-white/5 backdrop-blur-lg shadow-lg shadow-black/40">
+        <div className="flex items-center justify-between gap-3 border-b border-white/10 p-5 sm:p-6">
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-[.18em] text-white/45">Biggest opportunities</p>
+            <h2 id="open-deals-heading" className="mt-1 text-lg font-semibold">Top open deals by value</h2>
+          </div>
+          <div className="rounded-full border border-cyan-200/15 bg-cyan-200/[.05] px-3 py-1.5 text-xs text-cyan-50/80">
+            {openDeals.length} open · {closedWon} won · {closedLost} lost
+          </div>
+        </div>
+        {topOpen.length === 0 ? (
+          <p className="p-7 text-center text-sm text-white/60">No open deals — everything in the pipeline has been closed.</p>
+        ) : (
+          <div className="divide-y divide-white/8">
+            {topOpen.map((deal) => {
+              const stageLabel = STAGE_CONFIG[deal.stage as keyof typeof STAGE_CONFIG]?.label ?? deal.stage;
+              return (
+                <article key={deal.id} className="grid gap-4 p-5 md:grid-cols-[minmax(0,1fr)_170px_190px] md:items-center">
+                  <div className="min-w-0">
+                    <p className="truncate font-medium text-white">{deal.title}</p>
+                    <p className="mt-1 truncate text-sm text-white/55">{[deal.company, deal.contact].filter(Boolean).join(' · ') || 'No contact details yet'}</p>
+                  </div>
+                  <span className="inline-flex w-fit rounded-full border border-cyan-200/20 bg-cyan-200/[.06] px-3 py-1 text-xs text-cyan-100">{stageLabel}</span>
+                  <div className="md:text-right">
+                    <p className="tabular-nums font-semibold">{currency(deal.value)}</p>
+                    <p className="mt-1 text-xs text-white/45">{formatPercent(deal.probability * 100)} probability</p>
+                  </div>
+                </article>
+              );
+            })}
+          </div>
+        )}
       </section>
 
       <section className="grid gap-4 md:grid-cols-3">

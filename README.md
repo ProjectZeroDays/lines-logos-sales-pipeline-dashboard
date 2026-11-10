@@ -63,6 +63,7 @@ The dashboard supports day-to-day sales and job management, including:
 
 - Dashboard interface for business operations
 - Lead and opportunity tracking
+- Business-intelligence analytics: pipeline-by-source, win-rate-by-source, monthly trend, conversion funnel, top-open-deals view
 - Sales funnel visualizations
 - Estimation workflows for service projects
 - Responsive layout for desktop and mobile

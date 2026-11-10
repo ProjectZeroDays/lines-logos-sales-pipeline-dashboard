@@ -23,7 +23,6 @@
 <div align="center">
 
 # Lines &amp; Logos
-## Images that make a really BIG impression
 
 </div>
 

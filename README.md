@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logos/LinesAndLogos_4K_Transparent.png" alt="Lines & Logos icon" width="660" />
+  <img src="logo/LinesAndLogos_4K_Transparent.png" alt="Lines & Logos icon" width="660" />
 </p>
 
 <div align="center">
@@ -90,7 +90,7 @@ Open the local development URL shown in the terminal.
 
 ```text
 .
-├── Logos/                 # Brand and logo assets
+├── logo/                  # Brand and logo assets
 ├── agents/
 ├── apps/
 │   └── default/

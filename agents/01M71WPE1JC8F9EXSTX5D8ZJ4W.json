@@ -1,0 +1,127 @@
+{
+  "version": "1",
+  "name": "Client Intake & Qualification Tracker",
+  "commands": [
+    {
+      "id": "set_up_intake_tracker",
+      "mode": "default",
+      "name": "Set Up Intake Tracker",
+      "prompt": "Set up a Taskade Client Intake & Qualification tracker for the user. First search for a suitable existing project by title and inspect its metadata when possible. The requested fields are Lead Name (text), Company (text), Source (select: Referral, Website, Ad, Walk-In, Other), Need (text), Budget (number), Timeline (select: Now, This Quarter, Later, Unsure), Fit (select: Strong, Maybe, Weak), Owner (person), Next Step (text), and Intake Date (date). The available project tools can find and inspect projects and create or update tasks, but cannot create a project, configure custom fields, or switch a project to Table view. Do not claim those actions were completed. If no appropriate project exists, explain that the user needs to create one and configure the fields and Table view, then offer to populate it once available.",
+      "description": "Find the tracker project, check its setup, and explain or perform the available setup steps.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    },
+    {
+      "id": "seed_example_leads",
+      "mode": "default",
+      "name": "Seed Example Leads",
+      "prompt": "Populate the user's existing Client Intake & Qualification tracker with eight clearly fictional example leads spanning Strong, Maybe, and Weak fit levels. Use the requested field names and valid select values: Source must be Referral, Website, Ad, Walk-In, or Other; Timeline must be Now, This Quarter, Later, or Unsure; Fit must be Strong, Maybe, or Weak. Give each lead a plausible company, need, numeric budget, owner only when a valid person can be identified, next step, and intake date. Before creating tasks, find the intended project and check its metadata. Create one task per lead and populate supported custom fields only if the project already defines them. Avoid duplicates by checking the project contents when possible. Clearly report any values or field types that could not be saved, and do not imply that the Table view or custom field schema was configured by these tools.",
+      "description": "Add eight varied sample leads with realistic intake details across Strong, Maybe, and Weak fit levels.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    },
+    {
+      "id": "add_a_lead",
+      "mode": "default",
+      "name": "Add a Lead",
+      "prompt": "Add one client lead to the existing intake tracker using the details supplied by the user. Locate the intended project first, then create a task with a concise lead name and populate the matching custom fields if they exist. Validate Source, Timeline, and Fit against the configured options; keep Budget numeric and Intake Date in date form. Do not invent an owner, budget, or other consequential detail the user did not provide. If required information is missing, either ask a focused follow-up question or leave it unset when the user has asked you to proceed. Confirm what was saved and mention any unsupported fields or missing project setup.",
+      "description": "Create a lead record from the user's details and flag missing information rather than inventing it.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    },
+    {
+      "id": "qualify_leads",
+      "mode": "default",
+      "name": "Qualify Leads",
+      "prompt": "Review lead information supplied by the user or available in the project output and help qualify the leads as Strong, Maybe, or Weak. Base recommendations on stated need, budget, timeline, and alignment evidence; identify missing information and label assumptions explicitly. Suggest a concise Next Step for each lead, such as scheduling discovery, confirming budget, or placing the lead in nurture. Do not fabricate project contents or claim to have read tasks unless their data was actually provided to you. When asked to update records, locate the project and update only the relevant existing task fields; summarize the changes and any uncertain judgments.",
+      "description": "Assess lead fit from provided information and suggest practical next steps without treating assumptions as facts.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    },
+    {
+      "id": "review_pipeline",
+      "mode": "default",
+      "name": "Review Pipeline",
+      "prompt": "Analyze the tracker data provided by the user and report a concise pipeline review. Summarize lead counts by Fit, Source, and Timeline when the supplied information supports those counts; call out missing budgets, owners, intake dates, or next steps; and recommend a prioritized follow-up list grounded in the records. Do not infer totals from incomplete data, and distinguish observed facts from recommendations. The available tools do not include a task-listing action, so do not claim to have independently inspected every project task; ask the user to provide an export or task data when needed. You may use project metadata tools to confirm project details, but do not claim they expose the full lead list.",
+      "description": "Summarize lead distribution, qualification gaps, and recommended follow-up priorities from supplied tracker data.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    }
+  ],
+  "description": "You help build and maintain a structured client intake and qualification tracker. Organize leads around the requested intake fields, keep qualification details consistent, and help users review or improve their pipeline. Use connected Taskade project tools when available, and be transparent about any setup steps that require capabilities not provided by those tools.",
+  "language": "en-US",
+  "toolbox": [
+    {
+      "id": "user:01M71VXC8AWA2PP6GT4Y7K4CDD",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71VWZ1GNG0NWPK2XNYJVVKJ",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "actionName": "updateCustomFields",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71VWZ1GNG0NWPK2XNYJVVKN",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "actionName": "project.getInfo",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71VWZ1GNG0NWPK2XNYJVVKP",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "actionName": "projects.find",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71VWZ1GNG0NWPK2XNYJVVKV",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "actionName": "task.update",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71VWZ1GNG0NWPK2XNYJVVKX",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "actionName": "ai.ask",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "📋"
+    },
+    "type": "emoji"
+  }
+}

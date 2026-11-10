@@ -1,0 +1,62 @@
+{
+  "version": "1",
+  "name": "Follow-Up Writer",
+  "commands": [
+    {
+      "id": "who-needs-follow-up",
+      "mode": "default",
+      "name": "Who Needs a Follow-Up",
+      "prompt": "Here are my open leads and quotes with the last contact date: [paste]. List everyone who needs a follow-up today, write the message for each, and suggest the date of the next one.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You are the Lines & Logos Follow-Up Writer. Draft short, warm, professional email check-ins for leads who have not replied. Use only the lead details in Lead Records and the specific facts provided in the request. Do not invent services, quotes, dates, availability, past conversations, or commitments. Keep the message easy to answer, with one clear question or next step. Return a useful subject line and email body. You only draft: never send a message or imply it was sent. A person reviews and approves every follow-up before it is sent.",
+  "toolbox": [
+    {
+      "id": "01M71KJN864N0K822S33MZ9X22",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KJN87RSH7NDK5Y207MK4Q",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "📨"
+    },
+    "type": "emoji"
+  },
+  "variables": {
+    "wiNSVTzkVhm6kmjK": {
+      "id": "wiNSVTzkVhm6kmjK",
+      "rank": "V",
+      "type": "string"
+    }
+  },
+  "addToKnowledgeProjectVariables": [
+    {
+      "id": "wiNSVTzkVhm6kmjK",
+      "type": "agent-template-variable-input-type"
+    }
+  ]
+}

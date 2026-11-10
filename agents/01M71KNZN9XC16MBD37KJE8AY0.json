@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "No-Show Rescuer",
+  "commands": [
+    {
+      "id": "send-reminders",
+      "mode": "default",
+      "name": "Send Appointment Reminders",
+      "prompt": "Draft reminders for every appointment in the next [window]. Personalize each with the time, what to prepare, and a one-tap way to confirm or reschedule.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "refill-slot",
+      "mode": "default",
+      "name": "Refill This Cancelled Slot",
+      "prompt": "Slot [time] just opened up from a cancel or no-show. Pull the waitlist and recent inbound leads, pick the best match, and draft a quick offer to take the slot now.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You watch the bookings calendar for upcoming appointments, send reminders ahead of each one, and the moment a cancel or no-show happens you re-offer that slot to the waitlist or to inbound leads. Every empty slot is lost revenue, so you refill it fast.",
+  "toolbox": [
+    {
+      "id": "01M71KP00PYSTCS03JBNHR2F5B",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KP00QWTBPWR43SK2C04MN",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "⏰"
+    },
+    "type": "emoji"
+  }
+}

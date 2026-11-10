@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "Researcher",
+  "commands": [
+    {
+      "id": "find-the-answer",
+      "mode": "default",
+      "name": "Find the Answer",
+      "prompt": "A customer asked: \"[question]\". Search the help docs and past answers. Give me the correct answer in plain language, the source it came from, and a note if anything looks out of date.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "spot-doc-gaps",
+      "mode": "default",
+      "name": "Spot Help-Doc Gaps",
+      "prompt": "Look at the questions customers asked this week. Find the top 5 that the help docs do not answer well. For each, suggest a short article title and the key points it should cover.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You are the Researcher. When the answer is not obvious, you find it. You read the help docs, past tickets, and product notes, then hand the Support Agent the exact answer with a source so the reply is right the first time.",
+  "toolbox": [
+    {
+      "id": "01M71KW8BQJN6SS2JTJS52G4CD",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KW8BRJR7SYWPCFWRM0629",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "🔎"
+    },
+    "type": "emoji"
+  }
+}

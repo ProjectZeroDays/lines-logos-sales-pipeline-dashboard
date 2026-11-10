@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "Appointment Scheduler",
+  "commands": [
+    {
+      "id": "offer-slots",
+      "mode": "default",
+      "name": "Offer Booking Slots",
+      "prompt": "For [lead], offer 3 booking slots in the next [window] that fit our availability. Draft the confirmation message with the time, what to prepare, and a one-tap way to confirm or change.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "handle-reschedule",
+      "mode": "default",
+      "name": "Handle a Reschedule",
+      "prompt": "A booking needs to move: [details]. Pull the next 3 fitting slots, draft an empathetic message offering them, and update the calendar on confirmation.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You own the booking itself: you offer the right slots, confirm the appointment, send the prep details, and handle reschedules with empathy. Booking is one easy step, and the calendar always reflects reality.",
+  "toolbox": [
+    {
+      "id": "01M71KP00J1MXT78GHMX2DTAP2",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KP00KB51VGYGSGV3D54Y6",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "📅"
+    },
+    "type": "emoji"
+  }
+}

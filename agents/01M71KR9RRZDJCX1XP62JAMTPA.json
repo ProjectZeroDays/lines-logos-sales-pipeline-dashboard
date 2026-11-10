@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "Win-Back Specialist",
+  "commands": [
+    {
+      "id": "find-lapsed-donors",
+      "mode": "default",
+      "name": "Find Lapsed Donors",
+      "prompt": "List donors who have lapsed or gone quiet, sorted by lifetime giving. For each: when they last gave, how much, and what they cared about so we can re-engage them well.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "draft-reengagement",
+      "mode": "default",
+      "name": "Draft a Re-Engagement Appeal",
+      "prompt": "For [donor], draft a 3-step re-engagement sequence: a we-miss-you note, then the specific impact their past gift created, then a clear ask. Warm, honest, and grateful throughout.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You scan the donor projects for lapsed and dormant supporters, then draft a graduated re-engagement sequence (we-miss-you, then the impact they helped create, then a specific ask) tailored to each donor's history. You bring lapsed supporters back to the mission.",
+  "toolbox": [
+    {
+      "id": "01M71KR9HW0D5JJVSJASX383S5",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KR9HWH8AQ9SEEWCTQ9B5W",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "💝"
+    },
+    "type": "emoji"
+  }
+}

@@ -1,0 +1,4592 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "9580d279-801d-46ee-baae-a4a45c0fb13f",
+        "text": {
+          "ops": [
+            {
+              "insert": "Investor Data Room"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "3a7cc3b7-f995-4a0d-8de6-dc81166f1bcc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Objective: Organize key company, product, financial, and market information for investor diligence."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@oGndx"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@YiJt5"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@mOzR7"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "125171af-b7fd-48b5-96f0-86bea21f1e09",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Note: Replace placeholder content with current, verified information before sharing. #investor-relations"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@oGndx"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@YiJt5"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@LxMRz"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0bd77eb0-5393-441a-8b25-5d2aa25d8833",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Company Overview"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@oGndx"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@fXfxK"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@mOzR7"
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "e31459f3-964b-4c35-84d7-b9bb69a34604",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Company name: [Company Name]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@oGndx"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@TbHJk"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "76162793-befe-4c5d-b94e-75c673c2bfaf",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "One-line description: [What the company does and for whom]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@oGndx"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@TbHJk"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ab3e1a1b-8f1d-4b5a-b261-511b088dcf2a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Mission: [Company mission]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@oGndx"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@TbHJk"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2c2d5e1d-4ed2-4d11-b8a7-af9a5a75b0b6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Founded: [Month, Year]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@oGndx"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@TbHJk"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fc374cdd-1c6c-437b-b791-ca79d31659e1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Headquarters: [City, Country]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@oGndx"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@TbHJk"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "11fcba30-58df-47c6-a0d4-7a65693bf5ad",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Legal entity: [Entity name and jurisdiction]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@oGndx"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@TbHJk"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9ead6716-5694-4dbc-ac73-493b84c6435a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Stage: [Pre-seed / Seed / Series A / Other]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@oGndx"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@TbHJk"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1beb1186-6d49-431d-a7b2-ba9b44d8b436",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Fundraising status: [Not fundraising / Currently raising / Round details]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@oGndx"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@TbHJk"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3e5d59bf-00e3-4c3c-b63a-56ba98df2803",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key documents:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@oGndx"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@5taDx"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "adb703b0-7932-4fd1-b211-ca89c1012664",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Company deck: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@oGndx"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f47e72c3-d7ec-4bde-985e-f282e1a73e7c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Incorporation documents: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@oGndx"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a21cdf0f-a908-44d2-8092-9b1bd4208654",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Company overview: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@oGndx"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "3f4b2b13-d244-4e53-a30b-3b142ae12da0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Team"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@n6XP9"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@fXfxK"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@mOzR7"
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "0fff45ff-eabd-41b4-a5f0-b25de2bd0e4c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Founders and leadership #team"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@n6XP9"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@E8CO5"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "518349ac-5474-42e0-a94f-fc7c92a4f1ef",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Name] — [Role] — [Short bio and relevant experience]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@n6XP9"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@E8CO5"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "fbeeb32c-465a-470f-9bac-b92fb8eb5544",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Name] — [Role] — [Short bio and relevant experience]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@n6XP9"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@E8CO5"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d68844e4-93be-4596-97b3-76e1ecef32a0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Team size: [Number of employees and contractors]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@n6XP9"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@E8CO5"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "62755d45-7fed-412c-ab9c-d0b0fd167cd2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Hiring priorities: [Roles or capabilities to add]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@n6XP9"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@E8CO5"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "56d10c78-735b-4ed8-92cc-a6785bd94033",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key documents:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@n6XP9"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@5taDx"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "11abedd7-08fe-421c-94d1-66b58b15ee82",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Founder and leadership bios: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@n6XP9"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b102b4e1-495a-4c4e-8de5-c3b86f0b78e9",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Organization chart: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@n6XP9"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a20dc93f-d936-4a7c-ae72-bb5918084045",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Product"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@xRjj0"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@fXfxK"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@mOzR7"
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "42a22bcc-8667-42f9-be53-2333caf937ad",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Product summary: [What the product does and the problem it solves]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@xRjj0"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@UzJR3"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "038487fb-b9a9-4fc2-91b4-e121e0a6837f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Target users: [Primary customer or user segments]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@xRjj0"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@UzJR3"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "be65f76a-c3c0-463a-9d2e-b15b1866beaa",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Core features:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@xRjj0"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@UzJR3"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "6d5502a4-c616-4967-96c4-01b35917aad3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Feature 1]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@xRjj0"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@UzJR3"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "dbc8f25a-13ec-4262-a74a-d75704a5a3c3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Feature 2]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@xRjj0"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@UzJR3"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ec991d45-a1cb-4403-911a-6d3d3b0031c1",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Feature 3]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@xRjj0"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@UzJR3"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "076b4056-c39e-4150-ae9c-35bbd6ee5144",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Technology and intellectual property: [Architecture, proprietary technology, patents, or other relevant details]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@xRjj0"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@UzJR3"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2d6d402e-6ac7-4751-b14a-f1f0a7d05e5c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Product status: [Idea / Prototype / Beta / Launched]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@xRjj0"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@UzJR3"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "28b9189f-14f3-4d18-a9b8-4b840740562a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key documents:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@xRjj0"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@5taDx"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "650c9585-8d3c-49ae-a05a-2ff5024e2feb",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Product demo: [Link]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@xRjj0"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "8ea47982-dd34-489c-81e8-213a7bb0a8aa",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Product screenshots or overview: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@xRjj0"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "18494848-40e9-4380-9daa-1e62023f6484",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Technical architecture: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@xRjj0"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "2b61cc8f-0d2f-4150-9416-00def621e185",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Traction"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@BtU1i"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@fXfxK"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@mOzR7"
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "afb68cee-8409-46d4-bf62-11554cefabd7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Reporting period: [Month and year]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@BtU1i"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "07ce54a0-9bba-4c9c-920a-8736975a448d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "MRR: [$ amount] — [Month-over-month growth]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@BtU1i"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "971fa8bf-5b70-43b0-8a7f-3540fdc788da",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Churn: [Monthly logo churn and/or revenue churn]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@BtU1i"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "27574048-04b1-4abc-988a-14cde334d167",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Runway: [Number of months at current burn rate]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@BtU1i"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cf59ae7f-40ad-485c-ab8d-f90989d05a7d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Additional metrics:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@BtU1i"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "73a6fbad-d8ce-4bb8-82af-bbe41f8e2dc5",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Customers: [Number]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@BtU1i"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@kUjDX"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b5e4e177-054b-43b1-963f-11188787d202",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "ARR: [$ amount]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@BtU1i"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@kUjDX"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "3da8fe02-24fa-4aff-b1fb-3ed972b5fd2f",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Net revenue retention: [Percentage or N/A]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@BtU1i"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@kUjDX"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "1b75b071-7a82-4b2a-bde3-b4f0b37db962",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Burn rate: [$ amount per month]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@BtU1i"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@kUjDX"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "15787d29-2f2b-407b-9cbf-181c6f7a858b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Metric definitions and data sources: [Notes on calculation and source systems]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@BtU1i"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d99fd6d7-e5db-4374-a8d3-397164792629",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key documents:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@BtU1i"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@5taDx"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "aaa5b0b7-11f5-4c75-8325-c2dc3ed09f13",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Monthly KPI dashboard: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@BtU1i"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b5b253a2-3036-435e-a3c9-87947fc41f14",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Revenue and churn detail: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@BtU1i"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4e1c4799-2568-48f6-bb08-8353f844082f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cap Table"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@R_mph"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@fXfxK"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@mOzR7"
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "790dc89d-9393-4d9e-b3f5-f1e0ec99664d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "As of: [Date]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@R_mph"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@6WetC"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1a18e992-acbe-40f2-a225-e067317cc1ce",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Fully diluted shares: [Number]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@R_mph"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@6WetC"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8c59f34e-2b43-4875-b23c-405f1846d77b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ownership summary:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@R_mph"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@6WetC"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "454cbeff-4809-40eb-a097-05c0dd71b77e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Founders: [Names and ownership percentages]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@R_mph"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@6WetC"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "df843366-ed41-466d-b96f-c60f2e1e9b6c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Employees and option pool: [Percentage]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@R_mph"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@6WetC"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a78de69b-10d8-4b32-9fd1-7a17bdfeebbd",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Investors: [Names and ownership percentages]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@R_mph"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@6WetC"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a0cdf7ac-2f94-4477-8776-feaf10209b0b",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Other holders: [Details]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@R_mph"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@6WetC"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "0192d7cc-a33e-4c98-abe3-ebb6e9464004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Outstanding securities: [Options, SAFEs, notes, warrants, or none]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@R_mph"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@6WetC"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5bcb51d0-ff90-4535-97b2-a6468e87a093",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key documents:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@R_mph"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@5taDx"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "9f577c92-de8d-4d9c-828d-08104f71163b",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Current cap table: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@R_mph"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "dc19fdd8-39bc-430a-b0ab-2b280d1b977a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Financing documents: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@R_mph"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2781af69-4706-41d0-80df-80612669764a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Option plan documents: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@R_mph"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b521c844-98b1-49fc-8066-58227c1d7b64",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Customer Interviews"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@XfQAb"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@fXfxK"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@mOzR7"
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "9af14189-bddb-4d93-94c1-e0eac0ce98bb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Research period: [Date range]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@XfQAb"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@8TiyC"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "43d38972-d00e-451b-9926-8bf1295ff494",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Interview count: [Number]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@XfQAb"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@8TiyC"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "007af928-6d5f-46de-ad81-9129f555f105",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Target customer profile: [Description]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@XfQAb"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@8TiyC"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4b13c1c4-d7c4-414f-b651-3845e669ffaf",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key findings:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@XfQAb"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@8TiyC"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "9377618c-5e4a-4e29-85c1-b9d794f0cfdc",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Pain points: [Summary]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@XfQAb"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@8TiyC"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "84eb9506-cbc9-4e21-a9f5-25dc70d09db5",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Current alternatives: [Summary]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@XfQAb"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@8TiyC"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2437a836-a544-4989-b4ae-c5e0839d2403",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Buying triggers: [Summary]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@XfQAb"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@8TiyC"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d2b60ce1-ae6d-4acb-befa-a25107e17737",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Common objections: [Summary]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@XfQAb"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@8TiyC"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "fdfc304b-7489-4e05-b187-a3bdd1dcad50",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Interview records:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@XfQAb"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@8TiyC"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "be96bd47-b899-4d12-b480-5ca397ff7baa",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Customer or segment] — [Date] — [Key takeaway] — [Notes link]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@XfQAb"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@8TiyC"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "b30ca171-6989-47e6-947b-e21c454a2ac9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key documents:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@XfQAb"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@5taDx"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "4370f2c7-1f4b-486e-b9fb-f7021430bad8",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Interview notes and recordings: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@XfQAb"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "57c58677-4203-4b56-bebf-ca055a36832b",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Research synthesis: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@XfQAb"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "3c6a5fad-f582-485f-88ec-04d49605a095",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Financial Model"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@dyr-4"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@fXfxK"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@mOzR7"
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "3d77278f-f43f-49d2-ab4d-a50dee853a74",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Model period: [Start date–end date]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@dyr-4"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8874f914-6557-415b-963a-42d55c0fc820",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Revenue assumptions: [Pricing, customer growth, expansion, and conversion assumptions]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@dyr-4"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c6012833-00e5-4482-a336-d2270413633b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cost assumptions: [Hiring, infrastructure, sales, marketing, and operating costs]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@dyr-4"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8c6861b2-55db-4df5-9d7d-a72bf2768da5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key outputs:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@dyr-4"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "82993216-22d2-43d8-a729-2f3dd9b4e9bc",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Revenue: [Forecast]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@dyr-4"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@kUjDX"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "1d7b8ce2-e9fd-4937-92d6-f50f61344538",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Gross margin: [Forecast]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@dyr-4"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@kUjDX"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "faac6e59-e97f-46ea-bcaf-59c813954033",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Operating expenses: [Forecast]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@dyr-4"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@kUjDX"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "cd80a3d5-da75-43bb-9efe-93595dab0761",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Cash balance: [Forecast]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@dyr-4"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@kUjDX"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2bfdb472-d5d6-470b-8312-626fb8e6fbf1",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Break-even estimate: [Date or assumptions]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@dyr-4"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@kUjDX"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "e6642518-451b-4dcb-b2e9-4a4a12d713b3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Scenario planning: [Base / upside / downside assumptions]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@dyr-4"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@kUjDX"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "981da31f-b0e7-4737-83e1-6a9b1a253345",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key documents:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@dyr-4"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@5taDx"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "2758dc17-dae4-4469-b312-6c48838716e9",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Financial model: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@dyr-4"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b9bdbd97-0f19-48df-82e6-b69c6e69292d",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Historical financial statements: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@dyr-4"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d1422edb-eee5-465f-b30e-48883f1d4622",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Budget and actuals: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@dyr-4"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4497cc2d-de9d-4119-bf5e-3b517c534597",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Roadmap"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jhhmw": {
+                "type": "Select",
+                "optionId": "@6JcjX"
+              },
+              "@J038z": {
+                "type": "Select",
+                "optionId": "@fXfxK"
+              },
+              "@1uvBx": {
+                "type": "Select",
+                "optionId": "@mOzR7"
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "id": "bea39f2d-d8f1-4457-b962-c92b5ea96a6b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Planning period: [Quarter or date range]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@6JcjX"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@RuTED"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1b4719da-6baf-4a70-b9de-cdd77c21384d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Current priorities:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@6JcjX"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@RuTED"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "4796c2ad-c958-4920-b5f9-6da40b421714",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Initiative] — [Owner] — [Target date]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "number",
+                      "children": "number"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@6JcjX"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@RuTED"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "12ead417-818a-4d8c-b578-6468df1ab6b4",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Initiative] — [Owner] — [Target date]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "number",
+                      "children": "number"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@6JcjX"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@RuTED"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f84aafce-129a-4b61-ab2d-479fd5bdd9d7",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Initiative] — [Owner] — [Target date]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "number",
+                      "children": "number"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@6JcjX"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@RuTED"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "30f57291-6f6a-420d-977f-38fd0d11f4b2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Milestones:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@6JcjX"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@RuTED"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "1b5cc20a-364b-4bd0-94f5-2bad6938c5c8",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Product or business milestone] — [Target date]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@6JcjX"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@RuTED"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b5d0560b-7b85-44af-a510-ec1ad4cd32ef",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Product or business milestone] — [Target date]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@6JcjX"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@RuTED"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "4549a6c1-6802-4a23-82be-4f7d52c36c4d",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[Product or business milestone] — [Target date]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@6JcjX"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@RuTED"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "5f82da23-1e62-4a4f-af12-ce6d1af29189",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Dependencies and risks: [Key dependencies, assumptions, or risks]"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@6JcjX"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@RuTED"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@LxMRz"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "036c20a1-903b-4d83-94bc-7e06e7767ab6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key documents:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@jhhmw": {
+                    "type": "Select",
+                    "optionId": "@6JcjX"
+                  },
+                  "@J038z": {
+                    "type": "Select",
+                    "optionId": "@5taDx"
+                  },
+                  "@1uvBx": {
+                    "type": "Select",
+                    "optionId": "@mOzR7"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "652c1b0d-1ff4-4b62-b5df-7992f697086e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Detailed roadmap: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@6JcjX"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ec8e25ab-5907-49ab-9d6b-2b6e38612e52",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Prioritization notes: [Link or file]"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": "checkbox"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@jhhmw": {
+                        "type": "Select",
+                        "optionId": "@6JcjX"
+                      },
+                      "@J038z": {
+                        "type": "Select",
+                        "optionId": "@5taDx"
+                      },
+                      "@1uvBx": {
+                        "type": "Select",
+                        "optionId": "@LxMRz"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "1c0a6726-4cc9-4f94-924d-8c5dadc99447": {
+            "id": "1c0a6726-4cc9-4f94-924d-8c5dadc99447",
+            "fieldPath": "/attributes/@jhhmw",
+            "rank": "z"
+          },
+          "9b4d96ba-8e5e-427a-9941-c226d32608c1": {
+            "id": "9b4d96ba-8e5e-427a-9941-c226d32608c1",
+            "fieldPath": "/attributes/@J038z",
+            "rank": "zV"
+          },
+          "bd84640b-fda2-422a-ba4a-5e25659a0571": {
+            "id": "bd84640b-fda2-422a-ba4a-5e25659a0571",
+            "fieldPath": "/attributes/@1uvBx",
+            "rank": "zk"
+          }
+        }
+      },
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "18f5e7ab-6d2f-45b8-9203-1c2948d206b3": {
+            "id": "18f5e7ab-6d2f-45b8-9203-1c2948d206b3",
+            "fieldPath": "/attributes/@jhhmw",
+            "rank": "V"
+          },
+          "99a6d0bf-a805-499b-9059-d75bcd352b0b": {
+            "id": "99a6d0bf-a805-499b-9059-d75bcd352b0b",
+            "fieldPath": "/attributes/@J038z",
+            "rank": "k"
+          },
+          "416d068a-136f-433d-a8e7-d047d0aecc11": {
+            "id": "416d068a-136f-433d-a8e7-d047d0aecc11",
+            "fieldPath": "/attributes/@1uvBx",
+            "rank": "s"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "ce2ecc25-1a96-48a2-9e08-4c1a89d08d0f": {
+            "id": "ce2ecc25-1a96-48a2-9e08-4c1a89d08d0f",
+            "fieldPath": "/attributes/@jhhmw",
+            "rank": "V"
+          },
+          "9ced02ab-4e18-4fe9-9d79-5898992043b2": {
+            "id": "9ced02ab-4e18-4fe9-9d79-5898992043b2",
+            "fieldPath": "/attributes/@J038z",
+            "rank": "k"
+          },
+          "14ac6c1e-2e8c-46d7-ae56-0d280164168c": {
+            "id": "14ac6c1e-2e8c-46d7-ae56-0d280164168c",
+            "fieldPath": "/attributes/@1uvBx",
+            "rank": "s"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "73d29b3c-c6cf-4d7b-ad11-b5338f45e4d6": {
+            "id": "73d29b3c-c6cf-4d7b-ad11-b5338f45e4d6",
+            "fieldPath": "/attributes/@jhhmw",
+            "rank": "V"
+          },
+          "539bba80-ab4b-46de-b5eb-50addbd2fadd": {
+            "id": "539bba80-ab4b-46de-b5eb-50addbd2fadd",
+            "fieldPath": "/attributes/@J038z",
+            "rank": "k"
+          },
+          "5a058939-618d-400a-ac6e-732fe0980a7b": {
+            "id": "5a058939-618d-400a-ac6e-732fe0980a7b",
+            "fieldPath": "/attributes/@1uvBx",
+            "rank": "s"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "7c8846b9-5424-4dfa-937d-570411712c51": {
+            "id": "7c8846b9-5424-4dfa-937d-570411712c51",
+            "fieldPath": "/attributes/@jhhmw",
+            "rank": "V"
+          },
+          "4497b6bb-25b7-467c-ab56-57792ab2d074": {
+            "id": "4497b6bb-25b7-467c-ab56-57792ab2d074",
+            "fieldPath": "/attributes/@J038z",
+            "rank": "k"
+          },
+          "7b48d1bd-5b06-4704-a4f1-b799e1e1e3e4": {
+            "id": "7b48d1bd-5b06-4704-a4f1-b799e1e1e3e4",
+            "fieldPath": "/attributes/@1uvBx",
+            "rank": "s"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "f439dbf5-a2f3-48ec-b2e8-38f76fadb58d": {
+            "id": "f439dbf5-a2f3-48ec-b2e8-38f76fadb58d",
+            "fieldPath": "/attributes/@jhhmw",
+            "rank": "z"
+          },
+          "a5749fd4-8669-4abd-a193-12dd44d345ba": {
+            "id": "a5749fd4-8669-4abd-a193-12dd44d345ba",
+            "fieldPath": "/attributes/@J038z",
+            "rank": "zV"
+          },
+          "e6433207-5d4f-4867-850e-51a24319e693": {
+            "id": "e6433207-5d4f-4867-850e-51a24319e693",
+            "fieldPath": "/attributes/@1uvBx",
+            "rank": "zk"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@jhhmw": {
+        "type": "Select",
+        "displayName": "Section",
+        "description": "Diligence topic section indicated by the row context in the text.",
+        "options": {
+          "@oGndx": {
+            "id": "@oGndx",
+            "name": "Company Overview",
+            "rank": "1",
+            "description": "Company identity and fundraising details.",
+            "color": "#475569"
+          },
+          "@n6XP9": {
+            "id": "@n6XP9",
+            "name": "Team",
+            "rank": "2",
+            "description": "Founders, leadership, team size, and hiring.",
+            "color": "#0369A1"
+          },
+          "@xRjj0": {
+            "id": "@xRjj0",
+            "name": "Product",
+            "rank": "3",
+            "description": "Product capabilities, users, technology, and status.",
+            "color": "#7C3AED"
+          },
+          "@BtU1i": {
+            "id": "@BtU1i",
+            "name": "Traction",
+            "rank": "4",
+            "description": "Performance metrics and traction evidence.",
+            "color": "#15803D"
+          },
+          "@R_mph": {
+            "id": "@R_mph",
+            "name": "Cap Table",
+            "rank": "5",
+            "description": "Ownership and securities information.",
+            "color": "#B45309"
+          },
+          "@XfQAb": {
+            "id": "@XfQAb",
+            "name": "Customer Interviews",
+            "rank": "6",
+            "description": "Customer research and interview findings.",
+            "color": "#BE123C"
+          },
+          "@dyr-4": {
+            "id": "@dyr-4",
+            "name": "Financial Model",
+            "rank": "7",
+            "description": "Financial assumptions, forecasts, and model documents.",
+            "color": "#0F766E"
+          },
+          "@6JcjX": {
+            "id": "@6JcjX",
+            "name": "Roadmap",
+            "rank": "8",
+            "description": "Priorities, milestones, dependencies, and risks.",
+            "color": "#4D7C0F"
+          }
+        }
+      },
+      "@J038z": {
+        "type": "Select",
+        "displayName": "EntryKind",
+        "description": "Kind of content described by each row, derived from its wording and format.",
+        "options": {
+          "@fXfxK": {
+            "id": "@fXfxK",
+            "name": "Section heading",
+            "rank": "1",
+            "description": "A heading that names a diligence section.",
+            "color": "#334155"
+          },
+          "@YiJt5": {
+            "id": "@YiJt5",
+            "name": "Instruction or note",
+            "rank": "2",
+            "description": "An objective, note, or guidance statement.",
+            "color": "#2563EB"
+          },
+          "@TbHJk": {
+            "id": "@TbHJk",
+            "name": "Company detail",
+            "rank": "3",
+            "description": "A company identity or fundraising field.",
+            "color": "#0891B2"
+          },
+          "@E8CO5": {
+            "id": "@E8CO5",
+            "name": "Team detail",
+            "rank": "4",
+            "description": "A people, team size, or hiring field.",
+            "color": "#7C3AED"
+          },
+          "@UzJR3": {
+            "id": "@UzJR3",
+            "name": "Product detail",
+            "rank": "5",
+            "description": "A product, feature, or technology field.",
+            "color": "#4F46E5"
+          },
+          "@kUjDX": {
+            "id": "@kUjDX",
+            "name": "Metric or financial detail",
+            "rank": "6",
+            "description": "A traction metric, financial assumption, or forecast.",
+            "color": "#16A34A"
+          },
+          "@6WetC": {
+            "id": "@6WetC",
+            "name": "Ownership detail",
+            "rank": "7",
+            "description": "A cap table, holder, or securities field.",
+            "color": "#D97706"
+          },
+          "@8TiyC": {
+            "id": "@8TiyC",
+            "name": "Research detail",
+            "rank": "8",
+            "description": "Customer interview research or findings.",
+            "color": "#DB2777"
+          },
+          "@RuTED": {
+            "id": "@RuTED",
+            "name": "Roadmap detail",
+            "rank": "9",
+            "description": "A priority, milestone, dependency, or risk.",
+            "color": "#65A30D"
+          },
+          "@5taDx": {
+            "id": "@5taDx",
+            "name": "Document reference",
+            "rank": "10",
+            "description": "A key document, link, file, or supporting record.",
+            "color": "#64748B"
+          }
+        }
+      },
+      "@1uvBx": {
+        "type": "Select",
+        "displayName": "PlaceholderState",
+        "description": "Whether the text contains explicit bracketed placeholder content to be replaced or filled in.",
+        "options": {
+          "@LxMRz": {
+            "id": "@LxMRz",
+            "name": "Placeholder present",
+            "rank": "1",
+            "description": "Text includes bracketed fill-in content.",
+            "color": "#D97706"
+          },
+          "@mOzR7": {
+            "id": "@mOzR7",
+            "name": "No placeholder",
+            "rank": "2",
+            "description": "Text does not include bracketed fill-in content.",
+            "color": "#15803D"
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📐"
+    },
+    "coverImageType": "background"
+  }
+}

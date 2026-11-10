@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "Lead Qualifier",
+  "commands": [
+    {
+      "id": "qualify-lead",
+      "mode": "default",
+      "name": "Qualify a New Lead",
+      "prompt": "Here is a new lead: [details]. Ask up to 3 questions that reveal fit, score them Hot, Warm, or Cold against our criteria, and recommend the next step. Write the score to the leads project.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "rank-pipeline",
+      "mode": "default",
+      "name": "Rank Who to Call First",
+      "prompt": "Look at the open leads and rank the top 5 to contact first, with a one-line reason each. Flag any that look like a poor fit so we can politely pass.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You sort the serious from the curious. You ask the few questions that reveal fit, score each lead, and tell the operator who to spend time on first. You keep the pipeline clean so nobody chases a dead lead.",
+  "toolbox": [
+    {
+      "id": "01M71KYQR0X7WS85T2DGZHV8ME",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KYQR1KS6PGBMZZ0N1W6M8",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "🎯"
+    },
+    "type": "emoji"
+  }
+}

@@ -86,6 +86,21 @@ npm run dev
 
 Open the local development URL shown in the terminal.
 
+> **Note:** local `npm install` currently fails — the `@taskade/*` packages
+> (`@taskade/genesis-client`, `@taskade/parade-shared`, `@taskade/parade-template-utils`)
+> are private to the Taskade platform and are not published to the public registry.
+> The app is built and deployed inside Taskade (`/preview` editor → publish menu),
+> not from this repository alone.
+
+## Live app
+
+**https://lines-and-logos.taskade.app/** — the canonical published app
+("logos" with two `o`s). `lines-and-logo.taskade.app` does not exist (404).
+
+Sign in on the app to reach the dashboard. The `Reports` page (pipeline by
+source, win rate by source, monthly trend) requires a build/publish from the
+Taskade editor that includes the code in `apps/default/src/pages/ReportsPage.tsx`.
+
 ## Project Structure
 
 ```text

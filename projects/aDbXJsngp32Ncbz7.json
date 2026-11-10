@@ -1,0 +1,2117 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "9c1e08de-8048-4f58-bd47-bd0308556ed8",
+        "text": {
+          "ops": [
+            {
+              "insert": "Hiring Pipeline Board"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "915d740b-78ce-498f-9479-3c5b265bf722",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Sourced"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "29f9037f-15cf-4ea5-8d27-428a41c9249a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Candidate:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Maya Chen"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@Pb0Zz": {
+                    "type": "Select",
+                    "optionId": "@xVQX1"
+                  },
+                  "@F-CD-": {
+                    "type": "Select",
+                    "optionId": "@rBrrB"
+                  },
+                  "@H042S": {
+                    "type": "Select",
+                    "optionId": "@hb0f3"
+                  },
+                  "@cKV05": "Maya Chen"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "d31b707c-f581-4f43-965c-21e65afe574c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Senior Product Designer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "546ac0bc-f98f-4008-b252-b1e5ac16f238",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Alex Rivera"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "7a487e99-e5e4-4dab-b3cc-6234f1b19848",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-04"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c40c2694-d323-4316-a2d2-52c515198a87",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: —"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e9216ae5-2efe-452f-9dbd-b9c2d1e52207",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Referred by a team member; portfolio review pending."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "801c9815-ca4e-4d59-94df-e0c8026cbfae",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Candidate:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Jordan Patel"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@Pb0Zz": {
+                    "type": "Select",
+                    "optionId": "@xVQX1"
+                  },
+                  "@F-CD-": {
+                    "type": "Select",
+                    "optionId": "@UAbpp"
+                  },
+                  "@H042S": {
+                    "type": "Select",
+                    "optionId": "@EU4WV"
+                  },
+                  "@cKV05": "Jordan Patel"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "8f40c7ec-2c5f-4d5d-817a-b14e10d87b41",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Backend Engineer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "0aafacda-ac46-40cf-a63e-fde22adb3562",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Sam Lee"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "51c915ab-c563-406f-a5fb-fea1416e8766",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-06"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "fcd121cc-bda8-481d-8050-230c77d49365",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: —"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "fbb85d15-68a4-44ac-99ac-b8c49e3176cd",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Strong match from sourcing; outreach sent."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e008c70c-6bb3-4387-9f83-be2739c3ede1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Screen"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "9ea633f4-9795-4b31-acf1-8070a26b7b8b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Candidate:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Priya Nair"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@Pb0Zz": {
+                    "type": "Select",
+                    "optionId": "@-xj21"
+                  },
+                  "@F-CD-": {
+                    "type": "Select",
+                    "optionId": "@dCb7W"
+                  },
+                  "@H042S": {
+                    "type": "Select",
+                    "optionId": "@hb0f3"
+                  },
+                  "@cKV05": "Priya Nair"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "1e5dcced-906e-4b9f-a8b2-858f4c4c45c6",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Product Marketing Manager"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "fdb38dd8-9f6b-416d-99a3-23e1ad46db2a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Alex Rivera"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "768acd1f-f02f-4936-b49b-de75446e08fd",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-07"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "6687040c-92ee-4a93-986a-1ee41a4d3282",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: —"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "76f7ff85-2924-4c9c-aea5-578acc44aa98",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Recruiter screen scheduled; confirm compensation expectations."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "430352a6-7bae-461a-b749-03cc001ac3d8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Candidate:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Ethan Brooks"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@Pb0Zz": {
+                    "type": "Select",
+                    "optionId": "@-xj21"
+                  },
+                  "@F-CD-": {
+                    "type": "Select",
+                    "optionId": "@UAbpp"
+                  },
+                  "@H042S": {
+                    "type": "Select",
+                    "optionId": "@EU4WV"
+                  },
+                  "@cKV05": "Ethan Brooks"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "3df59980-f451-427b-b910-6582cdd50e8b",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Backend Engineer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "8c623c52-b617-43cd-9153-74f87e670b52",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Sam Lee"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "cd42fd0b-aa8e-4a17-b149-a628dae24bf7",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-05"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "32732371-d8ce-464d-87d2-cadc0be03d19",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: —"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a8935962-28d8-4676-b8dc-9adaea14c367",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Completed initial call; technical experience looks relevant."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "74162de8-74ba-4bf8-8b60-b6d0188fcf0d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "On-Site Loop"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "76715182-1465-47f2-8448-a2d7675620be",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Candidate:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Sofia Alvarez"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@Pb0Zz": {
+                    "type": "Select",
+                    "optionId": "@NvC9O"
+                  },
+                  "@F-CD-": {
+                    "type": "Select",
+                    "optionId": "@rBrrB"
+                  },
+                  "@H042S": {
+                    "type": "Select",
+                    "optionId": "@hb0f3"
+                  },
+                  "@cKV05": "Sofia Alvarez"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "1bf3c143-e526-4f2d-8614-57f01201a2cd",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Senior Product Designer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "907e522f-1c08-4821-b187-0f291388d475",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Alex Rivera"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d0dd1858-cebc-462c-ace1-40e36c0a80b1",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-08"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "cf8c30ca-1060-48f0-89a4-5324590cd4fb",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-03-14"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "6662f7a1-5e60-4910-b20f-1c8c78c3667e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Portfolio presentation and cross-functional interviews confirmed."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "5e0f9198-31e1-4b63-adde-05b2c99f6af5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Candidate:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Noah Kim"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@Pb0Zz": {
+                    "type": "Select",
+                    "optionId": "@NvC9O"
+                  },
+                  "@F-CD-": {
+                    "type": "Select",
+                    "optionId": "@UAbpp"
+                  },
+                  "@H042S": {
+                    "type": "Select",
+                    "optionId": "@EU4WV"
+                  },
+                  "@cKV05": "Noah Kim"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "1a601385-fccb-41d0-b6ac-60059fe360d6",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Backend Engineer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d069b429-5fee-4d6f-a479-2dce2be5ba93",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Sam Lee"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d705c87d-1f45-4545-be8f-8d1d129f569a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-07"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "3065a182-5428-4251-9d88-7e9fd371f065",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-03-12"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d5230e49-f495-42a6-a50e-79e0f8e7736a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Interview panel aligned; share prep materials."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "f18c8a4e-3c31-4f1a-8b4b-a7dff3dc7434",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Offer Out"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "51fcf6c0-1fbc-4f5e-b2fb-e36b7d2136f7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Candidate:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Amara Okafor"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@Pb0Zz": {
+                    "type": "Select",
+                    "optionId": "@9tqzZ"
+                  },
+                  "@F-CD-": {
+                    "type": "Select",
+                    "optionId": "@dCb7W"
+                  },
+                  "@H042S": {
+                    "type": "Select",
+                    "optionId": "@hb0f3"
+                  },
+                  "@cKV05": "Amara Okafor"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "658ea058-2e34-4352-b42b-11e035fb448d",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Product Marketing Manager"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2e73a7ed-a03e-4c02-8389-1dee2bf1ba9e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Alex Rivera"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f3de2b0b-4065-4704-8edd-b09f230fc514",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-08"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "12275fe2-ccad-488d-8097-06cca0649e44",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-03-03"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "28cda05f-037f-49de-9d06-846e18338ea1",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Offer sent; follow up on decision timeline."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "7d1556db-79ed-42f5-849a-aa0127ad7813",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Hired"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c6738e44-3124-42d3-9b45-debe58a473cc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Candidate:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Lucas Martin"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": true,
+                "attributes": {
+                  "@Pb0Zz": {
+                    "type": "Select",
+                    "optionId": "@TKPCY"
+                  },
+                  "@F-CD-": {
+                    "type": "Select",
+                    "optionId": "@UAbpp"
+                  },
+                  "@H042S": {
+                    "type": "Select",
+                    "optionId": "@EU4WV"
+                  },
+                  "@cKV05": "Lucas Martin"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "68ade435-ebab-403c-a5e0-b7f748bfff60",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Backend Engineer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2ad81443-d482-4cf2-912b-5855cd01d4d1",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Sam Lee"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2c81c66e-af57-4287-81cb-c74e3772cc35",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-06"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "00b3bda1-2ccb-4233-934a-38209d88abfe",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-02-26"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3982985-3fdd-46c5-a386-179b7aa07e14",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Offer accepted; onboarding begins 2025-03-24."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "087e299c-d1b5-4938-bcf6-9959f6616039",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Passed"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c3194d75-4a01-40a4-88a2-d8415344d812",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Candidate:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Grace Wilson"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": true,
+                "attributes": {
+                  "@Pb0Zz": {
+                    "type": "Select",
+                    "optionId": "@qWZwa"
+                  },
+                  "@F-CD-": {
+                    "type": "Select",
+                    "optionId": "@rBrrB"
+                  },
+                  "@H042S": {
+                    "type": "Select",
+                    "optionId": "@hb0f3"
+                  },
+                  "@cKV05": "Grace Wilson"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "2e1aca71-ee33-43f6-8922-fd48abff1f8b",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Senior Product Designer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ae53df5e-c989-47df-bdd8-42df4c13c046",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Alex Rivera"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d9947d42-3cdb-4783-b0ad-691558fe483c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-01"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "faf58dc1-f67c-4554-86f7-04b0e494b9c4",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-02-25"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ad744a73-e6a7-4ad3-9881-db4184706cbf",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Strong portfolio, but role requirements were not the right fit."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "1f5e9d4d-be51-41e8-ba09-42624a62320b": {
+            "id": "1f5e9d4d-be51-41e8-ba09-42624a62320b",
+            "fieldPath": "/attributes/@Pb0Zz",
+            "rank": "z"
+          },
+          "cd6d7c9e-64ea-443b-b106-708ae88ef1ac": {
+            "id": "cd6d7c9e-64ea-443b-b106-708ae88ef1ac",
+            "fieldPath": "/attributes/@F-CD-",
+            "rank": "zV"
+          },
+          "d4b724da-a1e2-4683-9f37-dfb36be4e293": {
+            "id": "d4b724da-a1e2-4683-9f37-dfb36be4e293",
+            "fieldPath": "/attributes/@H042S",
+            "rank": "zk"
+          },
+          "67700a91-865f-4faa-8f1c-96fcf037db46": {
+            "id": "67700a91-865f-4faa-8f1c-96fcf037db46",
+            "fieldPath": "/attributes/@cKV05",
+            "rank": "zs"
+          }
+        }
+      },
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "5fdbcc6c-9965-4069-9eef-e2ae576453aa": {
+            "id": "5fdbcc6c-9965-4069-9eef-e2ae576453aa",
+            "fieldPath": "/attributes/@Pb0Zz",
+            "rank": "V"
+          },
+          "79a7ed33-aa12-4750-ba57-5d8110ded759": {
+            "id": "79a7ed33-aa12-4750-ba57-5d8110ded759",
+            "fieldPath": "/attributes/@F-CD-",
+            "rank": "k"
+          },
+          "2d079f0c-4195-4843-9441-e456580d008b": {
+            "id": "2d079f0c-4195-4843-9441-e456580d008b",
+            "fieldPath": "/attributes/@H042S",
+            "rank": "s"
+          },
+          "c0038296-2013-4c55-a2b7-8cd890935b28": {
+            "id": "c0038296-2013-4c55-a2b7-8cd890935b28",
+            "fieldPath": "/attributes/@cKV05",
+            "rank": "w"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "107bbbf4-481d-4fee-ae60-021afc384dd5": {
+            "id": "107bbbf4-481d-4fee-ae60-021afc384dd5",
+            "fieldPath": "/attributes/@Pb0Zz",
+            "rank": "V"
+          },
+          "788e10ce-2809-481a-9d52-8bf45434b3ac": {
+            "id": "788e10ce-2809-481a-9d52-8bf45434b3ac",
+            "fieldPath": "/attributes/@F-CD-",
+            "rank": "k"
+          },
+          "f5fdee31-1e2b-4106-940d-94101bf82b22": {
+            "id": "f5fdee31-1e2b-4106-940d-94101bf82b22",
+            "fieldPath": "/attributes/@H042S",
+            "rank": "s"
+          },
+          "ba7c77a8-300c-4f82-914a-72fb5025dc33": {
+            "id": "ba7c77a8-300c-4f82-914a-72fb5025dc33",
+            "fieldPath": "/attributes/@cKV05",
+            "rank": "w"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "1e02bb7f-1c18-4114-a258-9ab1f01473c6": {
+            "id": "1e02bb7f-1c18-4114-a258-9ab1f01473c6",
+            "fieldPath": "/attributes/@Pb0Zz",
+            "rank": "V"
+          },
+          "8acc9ca7-9d79-4e88-967a-f6c871d1eed4": {
+            "id": "8acc9ca7-9d79-4e88-967a-f6c871d1eed4",
+            "fieldPath": "/attributes/@F-CD-",
+            "rank": "k"
+          },
+          "9240ff64-c865-4ca3-af65-d2a718c35999": {
+            "id": "9240ff64-c865-4ca3-af65-d2a718c35999",
+            "fieldPath": "/attributes/@H042S",
+            "rank": "s"
+          },
+          "4cbe091e-f3b0-400a-8c46-1cb1deab11cc": {
+            "id": "4cbe091e-f3b0-400a-8c46-1cb1deab11cc",
+            "fieldPath": "/attributes/@cKV05",
+            "rank": "w"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "faa2d814-cca8-49a9-bb22-129ece3da981": {
+            "id": "faa2d814-cca8-49a9-bb22-129ece3da981",
+            "fieldPath": "/attributes/@Pb0Zz",
+            "rank": "V"
+          },
+          "3e84e4e4-9617-4d62-8ff1-ea2a9825c53e": {
+            "id": "3e84e4e4-9617-4d62-8ff1-ea2a9825c53e",
+            "fieldPath": "/attributes/@F-CD-",
+            "rank": "k"
+          },
+          "e4d974e9-8133-4beb-9768-c036928dca1a": {
+            "id": "e4d974e9-8133-4beb-9768-c036928dca1a",
+            "fieldPath": "/attributes/@H042S",
+            "rank": "s"
+          },
+          "8160cab7-e13a-4da6-9820-3b8de706401e": {
+            "id": "8160cab7-e13a-4da6-9820-3b8de706401e",
+            "fieldPath": "/attributes/@cKV05",
+            "rank": "w"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "a49defcf-e11b-4777-bd5b-035d80d53cc8": {
+            "id": "a49defcf-e11b-4777-bd5b-035d80d53cc8",
+            "fieldPath": "/attributes/@Pb0Zz",
+            "rank": "z"
+          },
+          "e03d0c92-5975-4809-8e93-689420b6a17e": {
+            "id": "e03d0c92-5975-4809-8e93-689420b6a17e",
+            "fieldPath": "/attributes/@F-CD-",
+            "rank": "zV"
+          },
+          "9374e656-7ef4-4dc2-aab8-b31f5ff10d7f": {
+            "id": "9374e656-7ef4-4dc2-aab8-b31f5ff10d7f",
+            "fieldPath": "/attributes/@H042S",
+            "rank": "zk"
+          },
+          "489cb733-0429-4326-a7c1-3d5433367f1e": {
+            "id": "489cb733-0429-4326-a7c1-3d5433367f1e",
+            "fieldPath": "/attributes/@cKV05",
+            "rank": "zs"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@Pb0Zz": {
+        "type": "Select",
+        "displayName": "PipelineStage",
+        "description": "Recruiting pipeline stage indicated by the section heading associated with each candidate.",
+        "options": {
+          "@xVQX1": {
+            "id": "@xVQX1",
+            "name": "Sourced",
+            "rank": "1",
+            "description": "Candidate is in the sourced stage.",
+            "color": "#6B7280"
+          },
+          "@-xj21": {
+            "id": "@-xj21",
+            "name": "Screen",
+            "rank": "2",
+            "description": "Candidate is in the screen stage.",
+            "color": "#2563EB"
+          },
+          "@NvC9O": {
+            "id": "@NvC9O",
+            "name": "On-Site Loop",
+            "rank": "3",
+            "description": "Candidate is in the on-site loop stage.",
+            "color": "#7C3AED"
+          },
+          "@9tqzZ": {
+            "id": "@9tqzZ",
+            "name": "Offer Out",
+            "rank": "4",
+            "description": "Candidate has an offer out.",
+            "color": "#D97706"
+          },
+          "@TKPCY": {
+            "id": "@TKPCY",
+            "name": "Hired",
+            "rank": "5",
+            "description": "Candidate is hired.",
+            "color": "#059669"
+          },
+          "@qWZwa": {
+            "id": "@qWZwa",
+            "name": "Passed",
+            "rank": "6",
+            "description": "Candidate was passed.",
+            "color": "#DC2626"
+          }
+        }
+      },
+      "@F-CD-": {
+        "type": "Select",
+        "displayName": "Role",
+        "description": "Role named for each candidate in the table text.",
+        "options": {
+          "@rBrrB": {
+            "id": "@rBrrB",
+            "name": "Senior Product Designer",
+            "rank": "1",
+            "description": "Senior Product Designer role.",
+            "color": "#1D4ED8"
+          },
+          "@UAbpp": {
+            "id": "@UAbpp",
+            "name": "Backend Engineer",
+            "rank": "2",
+            "description": "Backend Engineer role.",
+            "color": "#0F766E"
+          },
+          "@dCb7W": {
+            "id": "@dCb7W",
+            "name": "Product Marketing Manager",
+            "rank": "3",
+            "description": "Product Marketing Manager role.",
+            "color": "#9333EA"
+          }
+        }
+      },
+      "@H042S": {
+        "type": "Select",
+        "displayName": "Recruiter",
+        "description": "Recruiter named for each candidate in the table text.",
+        "options": {
+          "@hb0f3": {
+            "id": "@hb0f3",
+            "name": "Alex Rivera",
+            "rank": "1",
+            "description": "Candidate's recruiter is Alex Rivera.",
+            "color": "#B45309"
+          },
+          "@EU4WV": {
+            "id": "@EU4WV",
+            "name": "Sam Lee",
+            "rank": "2",
+            "description": "Candidate's recruiter is Sam Lee.",
+            "color": "#0369A1"
+          }
+        }
+      },
+      "@cKV05": {
+        "type": "string",
+        "displayName": "CandidateName",
+        "description": "Candidate's name as stated in the table text."
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "board",
+    "avatar": {
+      "type": "emoji",
+      "value": "🎓"
+    },
+    "coverImageType": "background"
+  }
+}

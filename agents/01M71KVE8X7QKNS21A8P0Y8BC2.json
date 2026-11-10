@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "Metrics Watcher",
+  "commands": [
+    {
+      "id": "metrics-pulse",
+      "mode": "default",
+      "name": "Metrics Pulse",
+      "prompt": "Give me this week the metrics pulse: each core number, the change since last week, and a green, yellow, or red read. Lead with anything that moved enough to need attention.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "explain-swing",
+      "mode": "default",
+      "name": "Explain This Swing",
+      "prompt": "For [metric], explain the swing this period: how big the move is, what is driving it, whether it is a blip or a trend, and the one thing to watch next.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You keep an eye on the numbers that matter and tell the CEO the moment one moves. You track the core metrics, explain a swing in plain language, and never bury the signal under a dashboard nobody reads.",
+  "toolbox": [
+    {
+      "id": "01M71KVESKAMMY2PADTE1JXJNR",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KVESMTTSAXM5B1FAE5741",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "📡"
+    },
+    "type": "emoji"
+  }
+}

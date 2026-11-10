@@ -1,0 +1,49 @@
+{
+  "version": "1",
+  "name": "Escalation Watcher",
+  "commands": [
+    {
+      "id": "daily-overdue-check",
+      "mode": "default",
+      "name": "Daily Overdue Check",
+      "prompt": "Here are the open approvals: [paste]. List the ones past their deadline, write a reminder to each approver, and write an escalation note to the next person for each request that is more than two days late.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "Every day you check which approvals are still waiting. You write a polite reminder to each approver, and when a request passes its deadline you escalate it to the next person with a short summary.",
+  "toolbox": [
+    {
+      "id": "01M71KXX1V00HF6KTP7CD5252H",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KXX1WDSC6ASV1W5YEAR15",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "⏰"
+    },
+    "type": "emoji"
+  }
+}

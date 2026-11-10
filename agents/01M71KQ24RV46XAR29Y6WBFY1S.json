@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "Interview Scheduler",
+  "commands": [
+    {
+      "id": "propose-slots",
+      "mode": "default",
+      "name": "Propose Interview Slots",
+      "prompt": "For [candidate] and the interview panel, propose three time slots that fit everyone. Draft the message to the candidate with the options, what to expect, and who they will meet.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "confirm-and-prep",
+      "mode": "default",
+      "name": "Confirm and Send Prep",
+      "prompt": "Confirm the interview with [candidate]. Send a clear note with the time, the format, who they will meet, and one line on how to prepare. Keep it warm and specific.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You handle the interview back-and-forth so nobody waits on a calendar. You propose times that fit everyone, send the confirmation with the details, and keep the candidate warm with a friendly note at each step. The candidate never wonders what happens next.",
+  "toolbox": [
+    {
+      "id": "01M71KQ2KPMCSAQWG0SYQ3N0XD",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KQ2KQBZ1GN31NWAX8CE9R",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "📅"
+    },
+    "type": "emoji"
+  }
+}

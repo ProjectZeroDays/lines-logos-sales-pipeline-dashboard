@@ -1,0 +1,2124 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "462331b9-6160-4660-abb9-45fcc8652aff",
+        "text": {
+          "ops": [
+            {
+              "insert": "Hiring Pipeline Board"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "4707c19f-6369-4080-a011-495d5383a59a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Sourced"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "4337a94d-b2ce-418e-bba3-76ec33fc71d1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Maya Chen — Senior Product Designer #Design"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@TgnSz"
+                  },
+                  "@d9ulH": "Maya Chen",
+                  "@9aCMJ": "#Design",
+                  "@3kncl": "Referred by a current team member; portfolio review pending."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "fb916424-b38c-467c-bcb8-869cc513f6ee",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Senior Product Designer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "1dae308c-33ad-429d-af2a-e6e4cd15d3c3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Jordan Lee"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "77d3c768-fbac-41e6-8c4b-c4acae8249fe",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-06"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "48c51153-18d2-4a97-bd7a-d6a0fe9dc23e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: —"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "70bc86d9-e944-40cc-ae78-1eb97f049779",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Referred by a current team member; portfolio review pending."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "67fc1514-c8fa-412c-9057-63d3b39599f5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Luis Romero — Backend Engineer #Engineering"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@TgnSz"
+                  },
+                  "@d9ulH": "Luis Romero",
+                  "@9aCMJ": "#Engineering",
+                  "@3kncl": "Strong infrastructure background; initial outreach sent."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "1cfc8e01-109b-4b9b-a05a-d222db834bb3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Backend Engineer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "4b9ef7a9-5f21-4072-954f-237f9e7e9bde",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Priya Shah"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "daa9cc72-56ce-453c-b351-08aa23a30404",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-04"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "bd8c2181-446e-4d99-9f81-c9e5cf47b9e7",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: —"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6a2bc65-b609-4cb8-b068-e8f2c863f087",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Strong infrastructure background; initial outreach sent."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "cb7ce7bd-fcd1-4eb1-98e6-06b275aa437a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Screen"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c028cfe1-8994-4f34-916a-6f48cd0e4b79",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Aisha Patel — Product Marketing Manager #Marketing"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@Z3dXM"
+                  },
+                  "@d9ulH": "Aisha Patel",
+                  "@9aCMJ": "#Marketing",
+                  "@3kncl": "Recruiter screen scheduled; confirm launch experience."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f39df03f-c0a5-4c3d-8a2b-f31a711456b9",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Product Marketing Manager"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "65656252-1f07-4a86-aade-2baada8fc2c7",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Jordan Lee"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "72f08d9a-7131-4591-90b3-e851824b4752",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-07"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "3872d5b3-a81a-43e1-9bd3-55b9aad17f9b",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: —"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "0ab74c17-927c-49df-8d58-4ffb210d79c4",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Recruiter screen scheduled; confirm launch experience."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "88f6c989-41b3-4f9e-9627-b8ad89e84b21",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Noah Williams — Data Analyst #Data"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@Z3dXM"
+                  },
+                  "@d9ulH": "Noah Williams",
+                  "@9aCMJ": "#Data",
+                  "@3kncl": "Completed application review; waiting on screen availability."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "ffc9074d-2d9d-42c4-a023-32135193be5c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Data Analyst"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2b4e3b12-a677-48bb-9722-5da7a1f093e4",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Morgan Brooks"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "0deb6106-5827-4102-b634-a8ab21184f4c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-05"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "34b03aae-9bf2-4d75-9a8c-2f1643a40409",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: —"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "7aac981e-6c23-4172-bdc5-f85bc8410079",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Completed application review; waiting on screen availability."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d97ad2e3-6845-4c9e-8d0d-6a9958ff6b22",
+            "text": {
+              "ops": [
+                {
+                  "insert": "On-Site Loop"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "bbc4369f-690c-44f7-ab26-f03c2309e96e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Elena García — Staff Software Engineer #Engineering"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@XiqWg"
+                  },
+                  "@d9ulH": "Elena García",
+                  "@9aCMJ": "#Engineering",
+                  "@3kncl": "Panel confirmed; share interview prep and agenda."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "2cdd5d79-446d-4ff1-aa83-50cc8d941c97",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Staff Software Engineer"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "5f66bceb-c6d3-4400-a692-e774899c4057",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Priya Shah"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2bf64f6b-1977-4e0a-bf62-76a7c63abd0d",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-08"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "61479918-f3e2-4e1d-bb00-e8817c8809b6",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-03-13"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "85752bec-0f1f-4fe8-a9f6-a17306d8fa32",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Panel confirmed; share interview prep and agenda."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "802c4ff9-60ff-44bd-a9ce-900408b17489",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Theo Martin — UX Researcher #Research"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@XiqWg"
+                  },
+                  "@d9ulH": "Theo Martin",
+                  "@9aCMJ": "#Research",
+                  "@3kncl": "Loop plan finalized; gather interviewer feedback afterward."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f0bebf5c-86fb-4319-a5e4-f1fb26229d08",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: UX Researcher"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "df249ebd-78db-420b-a8e5-6ead8b6bd00d",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Morgan Brooks"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b12cbc6c-1ba4-42b7-add4-2b3e8e984842",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-07"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c967262c-437a-42ff-b3a5-48596410a884",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-03-12"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "0a9809ae-d58f-40a6-97fe-274ed60d9e72",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Loop plan finalized; gather interviewer feedback afterward."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4153dccf-7468-419e-b43b-f3e52729f537",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Offer Out"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e7a7d47a-ccb9-4a8d-b349-1f17caa63d15",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Olivia Kim — Account Executive #Sales"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@5Kogd"
+                  },
+                  "@d9ulH": "Olivia Kim",
+                  "@9aCMJ": "#Sales",
+                  "@3kncl": "Offer sent; candidate reviewing compensation details."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b10b0153-e553-4f94-9592-2a9cfbc0de71",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Account Executive"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "128ba47a-ff30-4eb3-adc3-c67849444c12",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Jordan Lee"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "035372ae-b913-4bac-9855-401a9fc578ad",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-08"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "75b3b2a7-1edd-4033-a444-f537358b3c60",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-03-03"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "bb0b084e-3a7b-467e-af4f-44dd6557834f",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Offer sent; candidate reviewing compensation details."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "26420bfd-e60b-4149-bcae-57465146e7fd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Hired"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c468ff52-b54e-4915-866d-0d9eea0da2c0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Samir Gupta — Customer Success Manager #CustomerSuccess"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": true,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@3vDk4"
+                  },
+                  "@d9ulH": "Samir Gupta",
+                  "@9aCMJ": "#CustomerSuccess",
+                  "@3kncl": "Offer accepted; start date confirmed for 2025-03-24."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "da7fee3f-4ec2-406e-a3d5-7f331377cfe4",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Customer Success Manager"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "62d45565-6638-48c4-b390-58d04884cb0f",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Morgan Brooks"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "4d0b626d-8c1c-4577-a9cf-60bf6ec1061e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-06"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "15b6065f-07e0-46a7-a201-f01dcfa8f5f3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-02-26"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d9e0e1e6-4d7c-470f-8cf6-b440b61c76ee",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Offer accepted; start date confirmed for 2025-03-24."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d883cf3b-7db3-4398-ae98-a7db663c3135",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Passed"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "31359d4e-e9df-4746-8d39-689ac3cbd6a4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Riley Thompson — People Operations Specialist #People"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": true,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@nctP-"
+                  },
+                  "@d9ulH": "Riley Thompson",
+                  "@9aCMJ": "#People",
+                  "@3kncl": "Strong interview, but role scope did not align with candidate goals."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "74676c67-8d59-441e-9868-0ca3211a749e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: People Operations Specialist"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "3e826fa2-6e78-4768-8657-1d75675aa480",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Priya Shah"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "78f7d9f3-73ad-42e9-b846-e68c5d8b78ce",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-03-01"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a79cbdf1-3af3-4cb0-bcb2-8417dc4831e8",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: 2025-02-25"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "4dbd2e09-6ec8-4731-b1a8-c001e71357d9",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Strong interview, but role scope did not align with candidate goals."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "143ced45-877f-4500-899b-7cd0b81b644f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ben Okafor — Product Manager #Product"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": "checkbox"
+                },
+                "collapsed": false,
+                "completed": true,
+                "attributes": {
+                  "@UnhC1": {
+                    "type": "Select",
+                    "optionId": "@nctP-"
+                  },
+                  "@d9ulH": "Ben Okafor",
+                  "@9aCMJ": "#Product",
+                  "@3kncl": "Closed after recruiter screen; experience below current role requirements."
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "80b718ee-b013-4836-8a1f-e7dde04cec06",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Role: Product Manager"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "75633595-c2a8-4fe8-9a5a-29ce1c78cd45",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recruiter: Jordan Lee"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "caff50cf-c9a8-4e55-8f6c-2db1de7d6eb0",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Last Touch: 2025-02-28"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "dba7c6ca-d444-467d-826c-536b8b9b3a48",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Loop Date: —"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "8968975f-f680-4295-9ec5-c90780deb641",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stage Notes: Closed after recruiter screen; experience below current role requirements."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "cdca0483-914d-49de-ab93-0a2aaae0a9ae": {
+            "id": "cdca0483-914d-49de-ab93-0a2aaae0a9ae",
+            "fieldPath": "/attributes/@UnhC1",
+            "rank": "z"
+          },
+          "e2c0c8d8-4142-4c0e-aa0a-60a25eadcbbc": {
+            "id": "e2c0c8d8-4142-4c0e-aa0a-60a25eadcbbc",
+            "fieldPath": "/attributes/@d9ulH",
+            "rank": "zV"
+          },
+          "97ce3171-d9e1-4762-acb1-74c6ef359935": {
+            "id": "97ce3171-d9e1-4762-acb1-74c6ef359935",
+            "fieldPath": "/attributes/@9aCMJ",
+            "rank": "zk"
+          },
+          "8cd17cab-2c18-4390-ac35-2f36050e983f": {
+            "id": "8cd17cab-2c18-4390-ac35-2f36050e983f",
+            "fieldPath": "/attributes/@3kncl",
+            "rank": "zs"
+          }
+        }
+      },
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "08ffc034-d433-432f-ba4c-30a82e488f92": {
+            "id": "08ffc034-d433-432f-ba4c-30a82e488f92",
+            "fieldPath": "/attributes/@UnhC1",
+            "rank": "V"
+          },
+          "e60ba4a9-6391-4c13-a4b7-ab60eb598389": {
+            "id": "e60ba4a9-6391-4c13-a4b7-ab60eb598389",
+            "fieldPath": "/attributes/@d9ulH",
+            "rank": "k"
+          },
+          "e223b692-39d6-4d5a-8e6e-da732ca42363": {
+            "id": "e223b692-39d6-4d5a-8e6e-da732ca42363",
+            "fieldPath": "/attributes/@9aCMJ",
+            "rank": "s"
+          },
+          "8ff09ed7-60ab-4f68-9822-f504b58f4de4": {
+            "id": "8ff09ed7-60ab-4f68-9822-f504b58f4de4",
+            "fieldPath": "/attributes/@3kncl",
+            "rank": "w"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "4bb92cae-e9c7-4dc5-8d94-32376d18ecec": {
+            "id": "4bb92cae-e9c7-4dc5-8d94-32376d18ecec",
+            "fieldPath": "/attributes/@UnhC1",
+            "rank": "V"
+          },
+          "0359830c-a01c-453c-bf99-df72d799e3c3": {
+            "id": "0359830c-a01c-453c-bf99-df72d799e3c3",
+            "fieldPath": "/attributes/@d9ulH",
+            "rank": "k"
+          },
+          "d53148e8-4a0a-44fc-a63b-59d2203dd760": {
+            "id": "d53148e8-4a0a-44fc-a63b-59d2203dd760",
+            "fieldPath": "/attributes/@9aCMJ",
+            "rank": "s"
+          },
+          "510fff17-74a5-4f42-9abf-2b0645be6b35": {
+            "id": "510fff17-74a5-4f42-9abf-2b0645be6b35",
+            "fieldPath": "/attributes/@3kncl",
+            "rank": "w"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "0c57eb06-7071-4e98-b126-a4f553b27072": {
+            "id": "0c57eb06-7071-4e98-b126-a4f553b27072",
+            "fieldPath": "/attributes/@UnhC1",
+            "rank": "V"
+          },
+          "f8f2fdeb-efae-4dc6-93cf-84c37e1d73fc": {
+            "id": "f8f2fdeb-efae-4dc6-93cf-84c37e1d73fc",
+            "fieldPath": "/attributes/@d9ulH",
+            "rank": "k"
+          },
+          "e1679fde-b17f-4e11-b564-211afa9ef523": {
+            "id": "e1679fde-b17f-4e11-b564-211afa9ef523",
+            "fieldPath": "/attributes/@9aCMJ",
+            "rank": "s"
+          },
+          "a38955a0-8e2a-433f-82ad-229e55347e95": {
+            "id": "a38955a0-8e2a-433f-82ad-229e55347e95",
+            "fieldPath": "/attributes/@3kncl",
+            "rank": "w"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "9330b1dd-36ad-494c-96ee-093ed490d26a": {
+            "id": "9330b1dd-36ad-494c-96ee-093ed490d26a",
+            "fieldPath": "/attributes/@UnhC1",
+            "rank": "V"
+          },
+          "f03a0685-c20d-4f14-8d87-2877df8c57f1": {
+            "id": "f03a0685-c20d-4f14-8d87-2877df8c57f1",
+            "fieldPath": "/attributes/@d9ulH",
+            "rank": "k"
+          },
+          "9c22b75e-8898-48f8-aa99-37423e590d96": {
+            "id": "9c22b75e-8898-48f8-aa99-37423e590d96",
+            "fieldPath": "/attributes/@9aCMJ",
+            "rank": "s"
+          },
+          "0286f0ca-c952-4cbb-a604-31e41eddd0f5": {
+            "id": "0286f0ca-c952-4cbb-a604-31e41eddd0f5",
+            "fieldPath": "/attributes/@3kncl",
+            "rank": "w"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "f0d28456-6276-4b11-8c12-782f2cc04c09": {
+            "id": "f0d28456-6276-4b11-8c12-782f2cc04c09",
+            "fieldPath": "/attributes/@UnhC1",
+            "rank": "z"
+          },
+          "b3d9f664-931a-468f-a552-5db2aecf4827": {
+            "id": "b3d9f664-931a-468f-a552-5db2aecf4827",
+            "fieldPath": "/attributes/@d9ulH",
+            "rank": "zV"
+          },
+          "38683199-a8f4-4e75-bdc0-699e938b07e7": {
+            "id": "38683199-a8f4-4e75-bdc0-699e938b07e7",
+            "fieldPath": "/attributes/@9aCMJ",
+            "rank": "zk"
+          },
+          "5ba5671c-fcec-4e8c-912e-151adf3c029c": {
+            "id": "5ba5671c-fcec-4e8c-912e-151adf3c029c",
+            "fieldPath": "/attributes/@3kncl",
+            "rank": "zs"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@UnhC1": {
+        "type": "Select",
+        "displayName": "RecruitingStage",
+        "description": "Pipeline stage headings shown for candidate records.",
+        "options": {
+          "@TgnSz": {
+            "id": "@TgnSz",
+            "name": "Sourced",
+            "rank": "1",
+            "description": "Candidate appears under Sourced.",
+            "color": "#5B8DEF"
+          },
+          "@Z3dXM": {
+            "id": "@Z3dXM",
+            "name": "Screen",
+            "rank": "2",
+            "description": "Candidate appears under Screen.",
+            "color": "#8A63D2"
+          },
+          "@XiqWg": {
+            "id": "@XiqWg",
+            "name": "On-Site Loop",
+            "rank": "3",
+            "description": "Candidate appears under On-Site Loop.",
+            "color": "#D98E32"
+          },
+          "@5Kogd": {
+            "id": "@5Kogd",
+            "name": "Offer Out",
+            "rank": "4",
+            "description": "Candidate appears under Offer Out.",
+            "color": "#2E9D68"
+          },
+          "@3vDk4": {
+            "id": "@3vDk4",
+            "name": "Hired",
+            "rank": "5",
+            "description": "Candidate appears under Hired.",
+            "color": "#258A83"
+          },
+          "@nctP-": {
+            "id": "@nctP-",
+            "name": "Passed",
+            "rank": "6",
+            "description": "Candidate appears under Passed.",
+            "color": "#C65353"
+          }
+        }
+      },
+      "@d9ulH": {
+        "type": "string",
+        "displayName": "CandidateName",
+        "description": "Candidate's name stated in the checkbox text."
+      },
+      "@9aCMJ": {
+        "type": "string",
+        "displayName": "DepartmentTag",
+        "description": "Department hashtag included with the candidate entry, such as #Design or #Engineering."
+      },
+      "@3kncl": {
+        "type": "string",
+        "displayName": "StageNotes",
+        "description": "Stage-specific notes provided for each candidate."
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "board",
+    "avatar": {
+      "type": "emoji",
+      "value": "📧"
+    },
+    "coverImageType": "background"
+  }
+}

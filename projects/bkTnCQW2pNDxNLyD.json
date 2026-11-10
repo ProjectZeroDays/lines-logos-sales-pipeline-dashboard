@@ -1,0 +1,1079 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "f60fcaac-ee85-4d17-8655-f0123991e0e6",
+        "text": {
+          "ops": [
+            {
+              "insert": "Staff Shift Schedule"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "fee10487-7cee-4f9b-b4c9-c7acfb3e04a5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Custom Fields"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "631e462b-244d-4e2f-b4c1-0f1caa5fc154",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Staff",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " — Person"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4a2ee433-c5d0-45af-9bc3-5ccd28b12b89",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Role",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " — Text"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e5fb2555-b4e9-4188-9e1d-ea748fa5de74",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Date",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " — Date"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "00033eba-ee12-492f-b92b-a56fb880729f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Shift",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " — Select: Morning, Afternoon, Evening, Night"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8f099743-374b-4067-aef9-fa29ea53bd08",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Start Time",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " — Text"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6df03150-53b6-4347-a2d3-38b06cbcd9c2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "End Time",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " — Text"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bbaede4d-cd69-4768-a7c3-e2993275deab",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Location",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " — Text"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "31a3925b-eec1-4874-a90e-15454bcef350",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Status",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " — Select: Scheduled, Confirmed, Swapped, Time-Off"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "17c3c2ea-b5c7-41fa-a35b-bbde80b5d130",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Notes",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " — Text"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "68f82b62-22a9-4623-8b8c-e15fd33b100f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Example Week: April 13–19, 2026"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "79858ead-64c1-418e-85aa-6c7a6fd44184",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Staff Role Date Shift Start Time End Time Location Status Notes"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2f88eef3-01e5-4153-a03b-020135285973",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Alex Morgan Floor Associate 2026-04-13 Morning 7:00 AM 3:00 PM Main Store Confirmed Opening shift"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@ySZSU": {
+                    "type": "Select",
+                    "optionId": "@4iKz7"
+                  },
+                  "@YeVhB": {
+                    "type": "Select",
+                    "optionId": "@bWWye"
+                  },
+                  "@AqVLL": {
+                    "type": "Select",
+                    "optionId": "@v_rlL"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "64521a7c-d99d-4a74-8c83-51df954c9c53",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Jordan Lee Shift Supervisor 2026-04-14 Afternoon 12:00 PM 8:00 PM Main Store Scheduled Oversee handoff"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@ySZSU": {
+                    "type": "Select",
+                    "optionId": "@HBhwN"
+                  },
+                  "@YeVhB": {
+                    "type": "Select",
+                    "optionId": "@bWWye"
+                  },
+                  "@AqVLL": {
+                    "type": "Select",
+                    "optionId": "@RnLhi"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ef504174-51f4-484e-a176-9c457535c11a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sam Rivera Stock Associate 2026-04-15 Night 10:00 PM 6:00 AM Warehouse Scheduled Inventory count"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@ySZSU": {
+                    "type": "Select",
+                    "optionId": "@4r7Zi"
+                  },
+                  "@YeVhB": {
+                    "type": "Select",
+                    "optionId": "@LaENf"
+                  },
+                  "@AqVLL": {
+                    "type": "Select",
+                    "optionId": "@hBEFM"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "672dc1d7-7854-4002-a92b-d371d3e209f4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Taylor Chen Customer Support 2026-04-16 Evening 2:00 PM 10:00 PM Main Store Swapped Covering for Casey"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@ySZSU": {
+                    "type": "Select",
+                    "optionId": "@Dbzi_"
+                  },
+                  "@YeVhB": {
+                    "type": "Select",
+                    "optionId": "@bWWye"
+                  },
+                  "@AqVLL": {
+                    "type": "Select",
+                    "optionId": "@zdJ1h"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "955fcf95-1fce-400a-81d2-28e6b84cb2be",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Casey Patel Floor Associate 2026-04-17 Morning 8:00 AM 4:00 PM Main Store Confirmed —"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@ySZSU": {
+                    "type": "Select",
+                    "optionId": "@4iKz7"
+                  },
+                  "@YeVhB": {
+                    "type": "Select",
+                    "optionId": "@bWWye"
+                  },
+                  "@AqVLL": {
+                    "type": "Select",
+                    "optionId": "@v_rlL"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f5af7bd2-7787-48d2-bc12-a0d1197312db",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Morgan Blake Shift Supervisor 2026-04-18 Afternoon 1:00 PM 9:00 PM Main Store Scheduled Weekend lead"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@ySZSU": {
+                    "type": "Select",
+                    "optionId": "@HBhwN"
+                  },
+                  "@YeVhB": {
+                    "type": "Select",
+                    "optionId": "@bWWye"
+                  },
+                  "@AqVLL": {
+                    "type": "Select",
+                    "optionId": "@RnLhi"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b86c5627-7303-48f0-9753-c57fefb3fe53",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Jamie Brooks Stock Associate 2026-04-19 Evening 3:00 PM 11:00 PM Warehouse Scheduled Restock delivery"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@ySZSU": {
+                    "type": "Select",
+                    "optionId": "@Dbzi_"
+                  },
+                  "@YeVhB": {
+                    "type": "Select",
+                    "optionId": "@LaENf"
+                  },
+                  "@AqVLL": {
+                    "type": "Select",
+                    "optionId": "@hBEFM"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0e597351-96f3-4c3b-844f-3ae5804db18f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Riley Davis Customer Support 2026-04-19 Night 11:00 PM 7:00 AM Main Store Time-Off Leave pending approval"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@ySZSU": {
+                    "type": "Select",
+                    "optionId": "@4r7Zi"
+                  },
+                  "@YeVhB": {
+                    "type": "Select",
+                    "optionId": "@bWWye"
+                  },
+                  "@AqVLL": {
+                    "type": "Select",
+                    "optionId": "@zdJ1h"
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "48606cbd-9f30-4397-b633-548ec7f95458": {
+            "id": "48606cbd-9f30-4397-b633-548ec7f95458",
+            "fieldPath": "/attributes/@ySZSU",
+            "rank": "z"
+          },
+          "a024d648-d859-4921-98ba-417e6c82ad80": {
+            "id": "a024d648-d859-4921-98ba-417e6c82ad80",
+            "fieldPath": "/attributes/@YeVhB",
+            "rank": "zV"
+          },
+          "40e86559-1755-44de-9dbe-caab18b7b229": {
+            "id": "40e86559-1755-44de-9dbe-caab18b7b229",
+            "fieldPath": "/attributes/@AqVLL",
+            "rank": "zk"
+          }
+        }
+      },
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "38bf1a1f-bc0d-42b1-8948-32648955cdca": {
+            "id": "38bf1a1f-bc0d-42b1-8948-32648955cdca",
+            "fieldPath": "/attributes/@ySZSU",
+            "rank": "V"
+          },
+          "b885d86c-de13-4288-90ee-f4addc574233": {
+            "id": "b885d86c-de13-4288-90ee-f4addc574233",
+            "fieldPath": "/attributes/@YeVhB",
+            "rank": "k"
+          },
+          "50b33df3-c2e2-4aea-bec9-8769a683210b": {
+            "id": "50b33df3-c2e2-4aea-bec9-8769a683210b",
+            "fieldPath": "/attributes/@AqVLL",
+            "rank": "s"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "762c7d1f-2af0-4b22-842c-54501a51d73a": {
+            "id": "762c7d1f-2af0-4b22-842c-54501a51d73a",
+            "fieldPath": "/attributes/@ySZSU",
+            "rank": "V"
+          },
+          "aff31e31-2bcb-4536-978a-b2cf2da7e412": {
+            "id": "aff31e31-2bcb-4536-978a-b2cf2da7e412",
+            "fieldPath": "/attributes/@YeVhB",
+            "rank": "k"
+          },
+          "e503f570-11bc-4342-9ead-22fc162f7118": {
+            "id": "e503f570-11bc-4342-9ead-22fc162f7118",
+            "fieldPath": "/attributes/@AqVLL",
+            "rank": "s"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "6dcab90e-93c9-4fc9-9eef-678b27c47118": {
+            "id": "6dcab90e-93c9-4fc9-9eef-678b27c47118",
+            "fieldPath": "/attributes/@ySZSU",
+            "rank": "V"
+          },
+          "961253a9-e584-4e2b-83fb-b099f40f87a0": {
+            "id": "961253a9-e584-4e2b-83fb-b099f40f87a0",
+            "fieldPath": "/attributes/@YeVhB",
+            "rank": "k"
+          },
+          "5793192c-854f-477f-b822-eea1a6483bf4": {
+            "id": "5793192c-854f-477f-b822-eea1a6483bf4",
+            "fieldPath": "/attributes/@AqVLL",
+            "rank": "s"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "53458334-7df5-468a-a55f-f68f4c707ba1": {
+            "id": "53458334-7df5-468a-a55f-f68f4c707ba1",
+            "fieldPath": "/attributes/@ySZSU",
+            "rank": "V"
+          },
+          "a962a016-4f62-4f5d-a2d6-e1f5f64ae72f": {
+            "id": "a962a016-4f62-4f5d-a2d6-e1f5f64ae72f",
+            "fieldPath": "/attributes/@YeVhB",
+            "rank": "k"
+          },
+          "d85e9e18-6fe4-474f-8545-6b3c61eaa8cb": {
+            "id": "d85e9e18-6fe4-474f-8545-6b3c61eaa8cb",
+            "fieldPath": "/attributes/@AqVLL",
+            "rank": "s"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "12325973-50ad-4b11-8bcb-57feea136363": {
+            "id": "12325973-50ad-4b11-8bcb-57feea136363",
+            "fieldPath": "/attributes/@ySZSU",
+            "rank": "z"
+          },
+          "a0027d17-5504-4ad1-92c0-46b525d1925a": {
+            "id": "a0027d17-5504-4ad1-92c0-46b525d1925a",
+            "fieldPath": "/attributes/@YeVhB",
+            "rank": "zV"
+          },
+          "4a1693f1-4279-4433-a048-b564edfb2d5b": {
+            "id": "4a1693f1-4279-4433-a048-b564edfb2d5b",
+            "fieldPath": "/attributes/@AqVLL",
+            "rank": "zk"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@ySZSU": {
+        "type": "Select",
+        "displayName": "ShiftType",
+        "description": "Shift classification explicitly listed in the example schedule.",
+        "options": {
+          "@4iKz7": {
+            "id": "@4iKz7",
+            "name": "Morning",
+            "rank": "1",
+            "description": "Morning shift",
+            "color": "#2563EB"
+          },
+          "@HBhwN": {
+            "id": "@HBhwN",
+            "name": "Afternoon",
+            "rank": "2",
+            "description": "Afternoon shift",
+            "color": "#D97706"
+          },
+          "@Dbzi_": {
+            "id": "@Dbzi_",
+            "name": "Evening",
+            "rank": "3",
+            "description": "Evening shift",
+            "color": "#7C3AED"
+          },
+          "@4r7Zi": {
+            "id": "@4r7Zi",
+            "name": "Night",
+            "rank": "4",
+            "description": "Night shift",
+            "color": "#1D4ED8"
+          }
+        }
+      },
+      "@YeVhB": {
+        "type": "Select",
+        "displayName": "WorkLocation",
+        "description": "Locations explicitly named for scheduled work.",
+        "options": {
+          "@bWWye": {
+            "id": "@bWWye",
+            "name": "Main Store",
+            "rank": "1",
+            "description": "Work location shown in schedule entries",
+            "color": "#047857"
+          },
+          "@LaENf": {
+            "id": "@LaENf",
+            "name": "Warehouse",
+            "rank": "2",
+            "description": "Work location shown in schedule entries",
+            "color": "#B45309"
+          }
+        }
+      },
+      "@AqVLL": {
+        "type": "Select",
+        "displayName": "RoleCategory",
+        "description": "Staff role classifications explicitly present in the example schedule.",
+        "options": {
+          "@v_rlL": {
+            "id": "@v_rlL",
+            "name": "Floor Associate",
+            "rank": "1",
+            "description": "Role shown in schedule entries",
+            "color": "#0F766E"
+          },
+          "@RnLhi": {
+            "id": "@RnLhi",
+            "name": "Shift Supervisor",
+            "rank": "2",
+            "description": "Role shown in schedule entries",
+            "color": "#4338CA"
+          },
+          "@hBEFM": {
+            "id": "@hBEFM",
+            "name": "Stock Associate",
+            "rank": "3",
+            "description": "Role shown in schedule entries",
+            "color": "#A16207"
+          },
+          "@zdJ1h": {
+            "id": "@zdJ1h",
+            "name": "Customer Support",
+            "rank": "4",
+            "description": "Role shown in schedule entries",
+            "color": "#BE185D"
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🔍"
+    },
+    "coverImageType": "background"
+  }
+}

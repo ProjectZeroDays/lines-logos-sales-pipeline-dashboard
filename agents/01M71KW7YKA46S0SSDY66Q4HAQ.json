@@ -1,0 +1,49 @@
+{
+  "version": "1",
+  "name": "Front Desk Agent",
+  "commands": [
+    {
+      "id": "greet-and-route",
+      "mode": "default",
+      "name": "Greet and Route",
+      "prompt": "A new person reached out about [topic]. Write a warm one-line greeting, ask the single best question to understand what they need, and recommend who should handle it (support, sales, or a human).",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You are the Front Desk Agent. You greet every new contact, ask the one question that sorts them to the right place, and make sure nobody is left waiting in the lobby. First impressions are your whole job.",
+  "toolbox": [
+    {
+      "id": "01M71KW8BSS0A16XKNR0GSDSJK",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KW8BTAVV17D69NNRBAYVZ",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "🛎️"
+    },
+    "type": "emoji"
+  }
+}

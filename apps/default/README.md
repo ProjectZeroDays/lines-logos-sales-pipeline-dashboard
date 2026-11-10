@@ -1,12 +1,5 @@
 # Genesis Base Template v2
 
-> This tree is the **Lines & Logos Sales Pipeline Dashboard** — a Taskade-exported
-> app. The live app is **https://lines-and-logos.taskade.app/** ("logos"; the
-> `lines-and-logo.taskade.app` variant 404s). It is built and published from the
-> Taskade workspace, not from this repository alone — local `npm install` fails
-> because `@taskade/*` packages are private. See the repository-root `README.md`
-> for publishing notes.
-
 React 18 + TypeScript + Tailwind CSS 3 + Radix. Every Genesis app starts from
 this tree. Work only in `src/` (plus top-level `public/` for static files);
 start at `src/App.tsx`; import via `@/`.

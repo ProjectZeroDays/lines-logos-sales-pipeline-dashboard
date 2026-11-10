@@ -2,7 +2,7 @@ import { lazy, useEffect, useState } from 'react';
 import { useAuth } from 'react-oidc-context';
 import { GenesisAuth, signInToApp, signUpToApp } from '@/lib/genesis-auth';
 import { BrowserRouter, NavLink, Route, Routes } from 'react-router-dom';
-import { Activity, BriefcaseBusiness, FolderHeart, House, Target, Users } from 'lucide-react';
+import { Activity, BriefcaseBusiness, FolderHeart, House, Users } from 'lucide-react';
 import { GenesisSection } from '@/lib/genesis';
 import { Toaster } from '@/components/ui/sonner';
 import { SalesAssistant } from '@/components/SalesAssistant';
@@ -11,14 +11,12 @@ const HomePage = lazy(() => import('@/pages/HomePage'));
 const LeadsPage = lazy(() => import('@/pages/LeadsPage'));
 const EstimatesPage = lazy(() => import('@/pages/EstimatesPage'));
 const WorkLibraryPage = lazy(() => import('@/pages/WorkLibraryPage'));
-const ReportsPage = lazy(() => import('@/pages/ReportsPage'));
 
 const navigation = [
   { to: '/', label: 'Overview', icon: House, end: true },
   { to: '/leads', label: 'Leads', icon: Users },
   { to: '/estimates', label: 'Estimates & jobs', icon: BriefcaseBusiness },
   { to: '/library', label: 'Work library', icon: FolderHeart },
-  { to: '/reports', label: 'Reports', icon: Target },
 ];
 
 function AppFrame() {
@@ -54,7 +52,6 @@ function AppFrame() {
           <Route path="/leads" element={<GenesisSection name="Leads"><LeadsPage /></GenesisSection>} />
           <Route path="/estimates" element={<GenesisSection name="Estimates and jobs"><EstimatesPage /></GenesisSection>} />
           <Route path="/library" element={<GenesisSection name="Work library"><WorkLibraryPage /></GenesisSection>} />
-          <Route path="/reports" element={<GenesisSection name="Reports"><ReportsPage /></GenesisSection>} />
           <Route path="*" element={<GenesisSection name="Overview"><HomePage /></GenesisSection>} />
         </Routes>
       </main>

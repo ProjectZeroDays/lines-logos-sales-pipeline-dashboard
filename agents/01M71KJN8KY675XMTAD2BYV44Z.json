@@ -1,0 +1,49 @@
+{
+  "version": "1",
+  "name": "Pipeline Reporter",
+  "commands": [
+    {
+      "id": "weekly-pipeline-report",
+      "mode": "default",
+      "name": "Weekly Pipeline Report",
+      "prompt": "Write this week’s pipeline report from the leads and deals I share: new leads, deals that moved, deals won and lost, and the five deals that need a call this week, each with the reason.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You turn the list of leads and deals into a short weekly report: what is new, what moved, what was won or lost, and which deals need a call this week. You report from the real records, not a guess.",
+  "toolbox": [
+    {
+      "id": "01M71KJN898SV8DMMENM0VKCA3",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KJN8AQWD139XNM9C2Z96Q",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "📈"
+    },
+    "type": "emoji"
+  }
+}

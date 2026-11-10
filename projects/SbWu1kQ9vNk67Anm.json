@@ -1,0 +1,1247 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "fcb24779-1ca7-40e1-acfa-d4ca011af530",
+        "text": {
+          "ops": [
+            {
+              "insert": "Quote & Estimate Tracker"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "0b5bcfb0-640a-4d5e-89dd-d49209bdda95",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Quotes"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "7f9da948-9399-452a-96cc-0ff2eff2fbd4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Quote Number Client Scope Amount Sent Date Valid Until Status Owner Follow-Up Date Notes"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "40c2ea12-bed4-4800-8d30-a2b95d0e4eb0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QT-2025-001 Northstar Labs Website redesign and accessibility updates $18,500 2025-01-06 2025-02-05 Accepted Alex Morgan 2025-01-13 Approved; schedule kickoff"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@R3aJa": {
+                    "type": "Select",
+                    "optionId": "@CoKu6"
+                  },
+                  "@crrNY": {
+                    "type": "Select",
+                    "optionId": "@8kcHF"
+                  },
+                  "@KOmf_": {
+                    "type": "Select",
+                    "optionId": "@fRHrd"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c20303c2-31e7-4321-882e-28773bf74553",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QT-2025-002 Cedar & Stone Co. Brand identity and packaging design $12,000 2025-01-10 2025-02-09 Sent Jordan Lee 2025-01-17 Awaiting feedback from marketing"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@R3aJa": {
+                    "type": "Select",
+                    "optionId": "@PcD0B"
+                  },
+                  "@crrNY": {
+                    "type": "Select",
+                    "optionId": "@fhjFX"
+                  },
+                  "@KOmf_": {
+                    "type": "Select",
+                    "optionId": "@KE_wX"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1c20ddb7-fab6-4ef2-a92b-b562760c5ab2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QT-2025-003 Harbor Health Patient portal maintenance, quarterly $7,200 2025-01-14 2025-02-13 Drafted Taylor Kim 2025-01-21 Review support hours before sending"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@R3aJa": {
+                    "type": "Select",
+                    "optionId": "@_KmJT"
+                  },
+                  "@crrNY": {
+                    "type": "Select",
+                    "optionId": "@onwbq"
+                  },
+                  "@KOmf_": {
+                    "type": "Select",
+                    "optionId": "@reqYG"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "749060f0-2f99-4c72-a0b5-0ac140880c0a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QT-2025-004 BrightPath Education Learning platform integration $24,800 2024-11-01 2024-11-30 Expired Casey Rivera 2025-01-20 Refresh pricing and confirm project timeline"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@R3aJa": {
+                    "type": "Select",
+                    "optionId": "@eXx8Y"
+                  },
+                  "@crrNY": {
+                    "type": "Select",
+                    "optionId": "@XXJEb"
+                  },
+                  "@KOmf_": {
+                    "type": "Select",
+                    "optionId": "@msu_w"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e98faa7f-a954-49a2-adc1-00e0c316ec31",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QT-2025-005 Juniper Retail Group E-commerce analytics setup $9,600 2025-01-08 2025-02-07 Declined Sam Patel 2025-01-22 Budget did not align; revisit next quarter"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@R3aJa": {
+                    "type": "Select",
+                    "optionId": "@31WHg"
+                  },
+                  "@crrNY": {
+                    "type": "Select",
+                    "optionId": "@Im-6J"
+                  },
+                  "@KOmf_": {
+                    "type": "Select",
+                    "optionId": "@aa7Lf"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4e5ebaa8-24cf-49ab-9bc4-701be5702bfa",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QT-2025-006 Summit Property Partners Property portfolio photography $5,400 2025-01-16 2025-02-15 Sent Alex Morgan 2025-01-23 Follow up with operations lead"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@R3aJa": {
+                    "type": "Select",
+                    "optionId": "@ZCKGf"
+                  },
+                  "@crrNY": {
+                    "type": "Select",
+                    "optionId": "@HqADg"
+                  },
+                  "@KOmf_": {
+                    "type": "Select",
+                    "optionId": "@fRHrd"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e10b31d2-a932-4173-a926-bd08427cff55",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QT-2025-007 Evergreen Foods Inventory forecasting dashboard $32,000 2025-01-20 2025-02-19 Drafted Jordan Lee 2025-01-24 Confirm data sources and assumptions"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@R3aJa": {
+                    "type": "Select",
+                    "optionId": "@79xWp"
+                  },
+                  "@crrNY": {
+                    "type": "Select",
+                    "optionId": "@w6Ojb"
+                  },
+                  "@KOmf_": {
+                    "type": "Select",
+                    "optionId": "@KE_wX"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "13f2d297-deaf-40cc-ba05-50fd142ef7c3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QT-2025-008 Bluebird Travel Booking flow optimization $14,750 2025-01-12 2025-02-11 Accepted Taylor Kim 2025-01-19 Signed; prepare project handoff"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@R3aJa": {
+                    "type": "Select",
+                    "optionId": "@aqYFy"
+                  },
+                  "@crrNY": {
+                    "type": "Select",
+                    "optionId": "@mkO9N"
+                  },
+                  "@KOmf_": {
+                    "type": "Select",
+                    "optionId": "@reqYG"
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e63aa349-7be6-4e71-b4be-a0445fae4372",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Custom Fields"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "15eb0b1c-9410-4601-8e91-5d23dd7e6b0b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Quote Number — Text"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "93e27650-ef1e-4819-b8a1-e1137c36b1a4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Client — Text"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2ac80970-4d94-4c6b-9896-54ccfd41e1ce",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Scope — Text"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5b795d33-2e4a-455e-a43e-d3ca992847be",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Amount — Number"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e4dc3826-36c6-4d2c-8909-27cb457939e6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sent Date — Date"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6246b2ea-5f88-4f77-8345-83c65e6cbfa0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Valid Until — Date"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fa2d2c62-d209-418d-a99d-3ee18823d703",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Status — Select"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "86b3f19a-6ce2-4a5b-aea1-bcceb0be6844",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Drafted"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "1f6573d4-e917-467a-abe5-f68e59a063ba",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Sent"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "03010f74-ec7a-48ee-860c-6b13604941ac",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Accepted"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e85db6ab-9e51-4a26-a7a0-6feb918f5648",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Declined"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2bb7e8b9-3d92-45c4-b0e0-7573e47c95cd",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Expired"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "24be7d6a-3449-4988-9fdd-08f619aa6c38",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Owner — Person"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9e5ee8f4-37c3-4c9d-8099-52d592968c97",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Follow-Up Date — Date"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "586a06b6-a143-44e2-843c-0b4f161f5400",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Notes — Text"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "8d4857f9-05b7-40b4-8b17-16b12668a983": {
+            "id": "8d4857f9-05b7-40b4-8b17-16b12668a983",
+            "fieldPath": "/attributes/@R3aJa",
+            "rank": "z"
+          },
+          "03026b35-bc3c-48d6-a74a-004a1db2d9e9": {
+            "id": "03026b35-bc3c-48d6-a74a-004a1db2d9e9",
+            "fieldPath": "/attributes/@crrNY",
+            "rank": "zV"
+          },
+          "6372b02e-e1a3-4d52-a4f5-3412eb40f3e3": {
+            "id": "6372b02e-e1a3-4d52-a4f5-3412eb40f3e3",
+            "fieldPath": "/attributes/@KOmf_",
+            "rank": "zk"
+          }
+        }
+      },
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "c6009a1f-c162-4bd7-8180-9a82e7e1ccae": {
+            "id": "c6009a1f-c162-4bd7-8180-9a82e7e1ccae",
+            "fieldPath": "/attributes/@R3aJa",
+            "rank": "V"
+          },
+          "4002ef1b-dcd0-4ebc-bc81-00e5d6fedac9": {
+            "id": "4002ef1b-dcd0-4ebc-bc81-00e5d6fedac9",
+            "fieldPath": "/attributes/@crrNY",
+            "rank": "k"
+          },
+          "70c519d3-026f-42cf-9770-869d44f61c73": {
+            "id": "70c519d3-026f-42cf-9770-869d44f61c73",
+            "fieldPath": "/attributes/@KOmf_",
+            "rank": "s"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "cef0b785-5757-44aa-a501-4f5ab60a9460": {
+            "id": "cef0b785-5757-44aa-a501-4f5ab60a9460",
+            "fieldPath": "/attributes/@R3aJa",
+            "rank": "V"
+          },
+          "c56acb98-e90e-4308-949b-44aa0a3167b9": {
+            "id": "c56acb98-e90e-4308-949b-44aa0a3167b9",
+            "fieldPath": "/attributes/@crrNY",
+            "rank": "k"
+          },
+          "04c49080-f4a9-42a3-8040-7a5408cd2bfe": {
+            "id": "04c49080-f4a9-42a3-8040-7a5408cd2bfe",
+            "fieldPath": "/attributes/@KOmf_",
+            "rank": "s"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "24d6c473-47fc-4032-846c-70ddb10f0e3b": {
+            "id": "24d6c473-47fc-4032-846c-70ddb10f0e3b",
+            "fieldPath": "/attributes/@R3aJa",
+            "rank": "V"
+          },
+          "638e8979-9045-4057-a901-6aa856d7e570": {
+            "id": "638e8979-9045-4057-a901-6aa856d7e570",
+            "fieldPath": "/attributes/@crrNY",
+            "rank": "k"
+          },
+          "dcfae830-521a-4af8-83d7-6395d5de647d": {
+            "id": "dcfae830-521a-4af8-83d7-6395d5de647d",
+            "fieldPath": "/attributes/@KOmf_",
+            "rank": "s"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "cf06041d-6cd3-40e2-a297-b24a56b69dcd": {
+            "id": "cf06041d-6cd3-40e2-a297-b24a56b69dcd",
+            "fieldPath": "/attributes/@R3aJa",
+            "rank": "V"
+          },
+          "1a8a09d5-131a-4f42-ab65-830bd7bc8a51": {
+            "id": "1a8a09d5-131a-4f42-ab65-830bd7bc8a51",
+            "fieldPath": "/attributes/@crrNY",
+            "rank": "k"
+          },
+          "f7d4d65c-9963-470d-98b5-572e1dca151c": {
+            "id": "f7d4d65c-9963-470d-98b5-572e1dca151c",
+            "fieldPath": "/attributes/@KOmf_",
+            "rank": "s"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "61d1578d-f346-4662-8e2f-3da42a9a6c59": {
+            "id": "61d1578d-f346-4662-8e2f-3da42a9a6c59",
+            "fieldPath": "/attributes/@R3aJa",
+            "rank": "z"
+          },
+          "801c77e5-698e-4f01-82dd-e5a03d4db41d": {
+            "id": "801c77e5-698e-4f01-82dd-e5a03d4db41d",
+            "fieldPath": "/attributes/@crrNY",
+            "rank": "zV"
+          },
+          "f7e06f67-5641-454a-82ad-f7c25901c17a": {
+            "id": "f7e06f67-5641-454a-82ad-f7c25901c17a",
+            "fieldPath": "/attributes/@KOmf_",
+            "rank": "zk"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@R3aJa": {
+        "type": "Select",
+        "displayName": "Client",
+        "description": "Client organization named in each quote entry.",
+        "options": {
+          "@CoKu6": {
+            "id": "@CoKu6",
+            "name": "Northstar Labs",
+            "rank": "1",
+            "description": "Client named for QT-2025-001.",
+            "color": "#2563EB"
+          },
+          "@PcD0B": {
+            "id": "@PcD0B",
+            "name": "Cedar & Stone Co.",
+            "rank": "2",
+            "description": "Client named for QT-2025-002.",
+            "color": "#7C3AED"
+          },
+          "@_KmJT": {
+            "id": "@_KmJT",
+            "name": "Harbor Health",
+            "rank": "3",
+            "description": "Client named for QT-2025-003.",
+            "color": "#0891B2"
+          },
+          "@eXx8Y": {
+            "id": "@eXx8Y",
+            "name": "BrightPath Education",
+            "rank": "4",
+            "description": "Client named for QT-2025-004.",
+            "color": "#16A34A"
+          },
+          "@31WHg": {
+            "id": "@31WHg",
+            "name": "Juniper Retail Group",
+            "rank": "5",
+            "description": "Client named for QT-2025-005.",
+            "color": "#D97706"
+          },
+          "@ZCKGf": {
+            "id": "@ZCKGf",
+            "name": "Summit Property Partners",
+            "rank": "6",
+            "description": "Client named for QT-2025-006.",
+            "color": "#DB2777"
+          },
+          "@79xWp": {
+            "id": "@79xWp",
+            "name": "Evergreen Foods",
+            "rank": "7",
+            "description": "Client named for QT-2025-007.",
+            "color": "#4D7C0F"
+          },
+          "@aqYFy": {
+            "id": "@aqYFy",
+            "name": "Bluebird Travel",
+            "rank": "8",
+            "description": "Client named for QT-2025-008.",
+            "color": "#9333EA"
+          }
+        }
+      },
+      "@crrNY": {
+        "type": "Select",
+        "displayName": "ScopeCategory",
+        "description": "Broad category derived from the stated scope of each quote.",
+        "options": {
+          "@8kcHF": {
+            "id": "@8kcHF",
+            "name": "Website",
+            "rank": "1",
+            "description": "Website redesign and accessibility updates.",
+            "color": "#2563EB"
+          },
+          "@fhjFX": {
+            "id": "@fhjFX",
+            "name": "Branding",
+            "rank": "2",
+            "description": "Brand identity and packaging design.",
+            "color": "#7C3AED"
+          },
+          "@onwbq": {
+            "id": "@onwbq",
+            "name": "Maintenance",
+            "rank": "3",
+            "description": "Patient portal maintenance.",
+            "color": "#0891B2"
+          },
+          "@XXJEb": {
+            "id": "@XXJEb",
+            "name": "PlatformIntegration",
+            "rank": "4",
+            "description": "Learning platform integration.",
+            "color": "#16A34A"
+          },
+          "@Im-6J": {
+            "id": "@Im-6J",
+            "name": "Analytics",
+            "rank": "5",
+            "description": "E-commerce analytics setup.",
+            "color": "#D97706"
+          },
+          "@HqADg": {
+            "id": "@HqADg",
+            "name": "Photography",
+            "rank": "6",
+            "description": "Property portfolio photography.",
+            "color": "#DB2777"
+          },
+          "@w6Ojb": {
+            "id": "@w6Ojb",
+            "name": "Forecasting",
+            "rank": "7",
+            "description": "Inventory forecasting dashboard.",
+            "color": "#4D7C0F"
+          },
+          "@mkO9N": {
+            "id": "@mkO9N",
+            "name": "Optimization",
+            "rank": "8",
+            "description": "Booking flow optimization.",
+            "color": "#9333EA"
+          }
+        }
+      },
+      "@KOmf_": {
+        "type": "Select",
+        "displayName": "Owner",
+        "description": "Person identified as the quote owner.",
+        "options": {
+          "@fRHrd": {
+            "id": "@fRHrd",
+            "name": "Alex Morgan",
+            "rank": "1",
+            "description": "Owner on QT-2025-001 and QT-2025-006.",
+            "color": "#2563EB"
+          },
+          "@KE_wX": {
+            "id": "@KE_wX",
+            "name": "Jordan Lee",
+            "rank": "2",
+            "description": "Owner on QT-2025-002 and QT-2025-007.",
+            "color": "#7C3AED"
+          },
+          "@reqYG": {
+            "id": "@reqYG",
+            "name": "Taylor Kim",
+            "rank": "3",
+            "description": "Owner on QT-2025-003 and QT-2025-008.",
+            "color": "#0891B2"
+          },
+          "@msu_w": {
+            "id": "@msu_w",
+            "name": "Casey Rivera",
+            "rank": "4",
+            "description": "Owner on QT-2025-004.",
+            "color": "#D97706"
+          },
+          "@aa7Lf": {
+            "id": "@aa7Lf",
+            "name": "Sam Patel",
+            "rank": "5",
+            "description": "Owner on QT-2025-005.",
+            "color": "#DB2777"
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🚀"
+    },
+    "coverImageType": "background"
+  }
+}

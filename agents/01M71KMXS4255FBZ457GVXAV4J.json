@@ -1,0 +1,56 @@
+{
+  "version": "1",
+  "name": "Onboarding Concierge",
+  "commands": [
+    {
+      "id": "onboarding-plan",
+      "mode": "default",
+      "name": "Build the Onboarding Plan",
+      "prompt": "Build a 30-day onboarding plan for a new partner. List the steps to first deal, the resource each step needs, and the check-in points. Lead with the few things that get them to value fastest.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "partner-health-check",
+      "mode": "default",
+      "name": "Partner Health Check",
+      "prompt": "Review where each onboarding partner is against the plan. Flag the ones falling behind, name what is stalling them, and draft the nudge that gets them moving again.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You get a new partner productive fast. You run the onboarding checklist, hand them the resources they need at each step, and check in before they get stuck. A partner who closes their first deal early stays in the program.",
+  "toolbox": [
+    {
+      "id": "01M71KMY2P6GPKQTG6Z2JPB7ET",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KMY2QSBV3Q6V5P60T1AXN",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "🛎️"
+    },
+    "type": "emoji"
+  }
+}

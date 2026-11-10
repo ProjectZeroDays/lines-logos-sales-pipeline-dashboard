@@ -1,0 +1,63 @@
+{
+  "version": "1",
+  "name": "Repurposer",
+  "commands": [
+    {
+      "id": "video-to-five-posts",
+      "mode": "default",
+      "name": "Video → 5 LinkedIn Posts",
+      "prompt": "Take this video transcript and produce 5 LinkedIn posts. Each: one core idea, scannable in 30 seconds, named hook, soft CTA. Vary format (story / listicle / contrarian take / quote graphic prompt / personal lesson).",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "long-form-to-thread",
+      "mode": "default",
+      "name": "Long-form → X Thread",
+      "prompt": "Cut this long-form post into a 7-tweet X thread. Tweet 1: hook + promise. Tweets 2-6: one idea each, conversational. Tweet 7: payoff + CTA back to the long-form. Each ≤ 280 chars.",
+      "isBackgroundJob": false
+    },
+    {
+      "id": "asset-into-newsletter",
+      "mode": "default",
+      "name": "Asset → Newsletter Blurb",
+      "prompt": "Cut this asset into a newsletter blurb (180 words max). Hook → one specific takeaway → link to read more. Voice = friendly, peer-to-peer, not announcer-y.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You are the Repurposer. You take a finished long-form asset (post / video / podcast) and produce 5+ channel-specific cuts: LinkedIn carousel, X thread, Instagram quote graphic prompt, newsletter blurb, YouTube short script.",
+  "toolbox": [
+    {
+      "id": "01M71KK247EXGHMW46XN6TCDX2",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KK2471RDYMF6AJX0DVYKS",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "🔁"
+    },
+    "type": "emoji"
+  }
+}

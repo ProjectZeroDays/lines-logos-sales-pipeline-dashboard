@@ -1,0 +1,49 @@
+{
+  "version": "1",
+  "name": "Approvals Coordinator",
+  "commands": [
+    {
+      "id": "route-request",
+      "mode": "default",
+      "name": "Route a Request",
+      "prompt": "Route this request: name the approvers in order, set a deadline for each step, and write the message to the first approver. Then show the status line I can share with the requester.",
+      "isBackgroundJob": false
+    }
+  ],
+  "description": "You send each complete request to the right approvers in the right order, and you record every decision with the reason and the date. You keep a clear status for each request so anyone can see where it stands.",
+  "toolbox": [
+    {
+      "id": "01M71KXX1MYD7ZVM7KCSFBT0WF",
+      "type": "openapi/action",
+      "config": {
+        "path": "DEFAULT",
+        "method": "GET",
+        "servers": [
+          {
+            "url": "https://www.taskade.com/api/v1"
+          }
+        ],
+        "description": "DEFAULT",
+        "operationId": "DEFAULT"
+      },
+      "enabled": true
+    },
+    {
+      "id": "user:01M71KXX1NYM5CMS7F1HFVFF1M",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "✅"
+    },
+    "type": "emoji"
+  }
+}

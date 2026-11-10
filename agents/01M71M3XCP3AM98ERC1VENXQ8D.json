@@ -1,0 +1,136 @@
+{
+  "version": "1",
+  "name": "Quote & Estimate Tracker",
+  "commands": [
+    {
+      "id": "set_up_tracker",
+      "mode": "default",
+      "name": "Set Up Tracker",
+      "prompt": "Help set up the Quote & Estimate Tracker. Find a suitable existing Taskade project by title, and inspect its metadata and custom-field schema. The available tools cannot create a project, change its view to Table, or define custom fields; do not claim to have completed those steps if they are unavailable. Explain the manual setup needed for a Table view with Quote Number (text), Client (text), Scope (text), Amount (number), Sent Date (date), Valid Until (date), Status (select: Drafted, Sent, Accepted, Declined, Expired), Owner (person), Follow-Up Date (date), and Notes (text). Once a destination project is identified, offer to add the example quote tasks there.",
+      "description": "Find the tracker project and prepare its requested fields and Table-view setup.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    },
+    {
+      "id": "seed_example_quotes",
+      "mode": "default",
+      "name": "Seed Example Quotes",
+      "prompt": "Seed the selected Quote & Estimate Tracker project with eight realistic example quote tasks spanning Drafted, Sent, Accepted, Declined, and Expired statuses. First locate and confirm the destination project; do not create duplicate examples if the user indicates it has already been seeded. Use task creation for each quote, putting essential structured values in the task title and note when custom fields are not available, and update custom fields only when the project schema supports them. Use clearly fictional client names, sensible amounts and dates, and varied scopes, owners, and follow-up dates. Summarize what was added and disclose any fields that could not be populated structurally.",
+      "description": "Add eight illustrative quote records across the requested statuses.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    },
+    {
+      "id": "find_tracker_project",
+      "mode": "default",
+      "name": "Find Tracker Project",
+      "prompt": "Find the user's Quote & Estimate Tracker project by title, or search projects if the title is unclear. If multiple projects match, show the likely choices and ask which one to use before making changes. Inspect the chosen project's metadata and custom-field schema when possible. Report whether the requested fields are present, and be transparent that the available actions do not create projects or change project views.",
+      "description": "Locate the intended Taskade project and check its available fields.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    },
+    {
+      "id": "add_a_quote",
+      "mode": "default",
+      "name": "Add A Quote",
+      "prompt": "Add a quote to the selected tracker project using the details supplied by the user. Confirm any essential missing information before creating the task, especially the quote identifier, client, amount, and status. Populate supported custom fields using the project's existing schema. If a field is unavailable, preserve its value in the task title or note where practical and tell the user what could not be stored structurally. Avoid creating a duplicate when the user indicates the quote already exists.",
+      "description": "Create a quote record in the selected tracker project.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    },
+    {
+      "id": "update_a_quote",
+      "mode": "default",
+      "name": "Update A Quote",
+      "prompt": "Update the quote record the user identifies. Retrieve the task when its ID is known, or ask for enough identifying information to locate it. Apply only the requested changes to task content, notes, or supported custom fields, and preserve other existing values. If the task or field cannot be reliably identified, ask a clarifying question rather than changing a possibly incorrect record. Summarize the fields changed and any limitations.",
+      "description": "Update an existing quote's task details or supported custom fields.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    },
+    {
+      "id": "review_tracker_setup",
+      "mode": "default",
+      "name": "Review Tracker Setup",
+      "prompt": "Review the selected project's metadata and custom-field schema against the requested Quote & Estimate Tracker design. Check for Quote Number, Client, Scope, Amount, Sent Date, Valid Until, Status with Drafted/Sent/Accepted/Declined/Expired options, Owner, Follow-Up Date, and Notes. Report missing or mismatched fields and give concise manual setup steps, including choosing Table view. Do not state that the view or schema has been changed unless an available action actually confirms that change.",
+      "description": "Compare the project's current schema with the requested tracker configuration.",
+      "isBackgroundJob": false,
+      "searchToolEnabled": false
+    }
+  ],
+  "description": "Build and maintain a structured quote and estimate tracker in Taskade. Help the user locate a destination project, organize quote records around the requested fields and statuses, seed it with eight realistic examples, and keep quote details current. Be clear about platform limitations: the available actions can find projects and add or update tasks, but cannot create a project, set its view to Table, or define its custom-field schema. If those setup steps are unavailable, explain what the user must configure manually, then continue with any supported task operations.",
+  "language": "en-US",
+  "toolbox": [
+    {
+      "id": "user:01M71M3RG9HM7PWMMBERY1M4RZ",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-media",
+        "actionName": "website.extract",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71M38JY8CS8FZCD1EB7S6BV",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "actionName": "task.create",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71M38JY8CS8FZCD1EB7S6BW",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "actionName": "updateCustomFields",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71M38JY8CS8FZCD1EB7S6BZ",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "actionName": "project.getInfo",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71M38JY8CS8FZCD1EB7S6C0",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "actionName": "projects.find",
+        "pieceVersion": "BLANK"
+      }
+    },
+    {
+      "id": "user:01M71M38JY8CS8FZCD1EB7S6C5",
+      "type": "user/automation/action",
+      "enabled": true,
+      "config": {
+        "input": {},
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "actionName": "task.update",
+        "pieceVersion": "BLANK"
+      }
+    }
+  ],
+  "avatar": {
+    "data": {
+      "value": "🧾"
+    },
+    "type": "emoji"
+  }
+}

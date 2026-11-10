@@ -1,0 +1,833 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "120f8b5e-aa90-4f93-bed2-522ea88c598a",
+        "text": {
+          "ops": [
+            {
+              "insert": "Appointment Book"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "61f86557-7cea-4da5-9df1-881a48b3ed18",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Appointments"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "73ec9408-f8f8-4968-a94f-b9325f3e9dc0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Client Service Date Time Duration Staff Status Price Notes"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3533b8fd-e70d-41a2-a409-efdcb4db765c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ava Martinez Signature Facial 2025-06-10 9:00 AM 60 Jordan Lee Booked 120 First-time client"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@KLQKi": {
+                    "type": "Select",
+                    "optionId": "@_Ke76"
+                  },
+                  "@7kyn7": {
+                    "type": "Select",
+                    "optionId": "@PTDxn"
+                  },
+                  "@cnCOF": {
+                    "type": "Select",
+                    "optionId": "@igCPP"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9d74b9a9-b82d-4041-97e4-0875c5a5b85d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Noah Williams Deep Tissue Massage 2025-06-10 10:30 AM 90 Taylor Morgan Confirmed 165 Prefers firm pressure"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@KLQKi": {
+                    "type": "Select",
+                    "optionId": "@14xzX"
+                  },
+                  "@7kyn7": {
+                    "type": "Select",
+                    "optionId": "@E4HKH"
+                  },
+                  "@cnCOF": {
+                    "type": "Select",
+                    "optionId": "@JjrR6"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b0c3b8c-941d-4fcd-9faa-b5ba1801b3e2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Mia Chen Haircut & Blowout 2025-06-10 1:00 PM 75 Casey Rivera Completed 95 Added conditioning treatment"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@KLQKi": {
+                    "type": "Select",
+                    "optionId": "@_SJnt"
+                  },
+                  "@7kyn7": {
+                    "type": "Select",
+                    "optionId": "@xLt-P"
+                  },
+                  "@cnCOF": {
+                    "type": "Select",
+                    "optionId": "@41IDW"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "25e41356-d6e2-4e79-94f5-14c51d18b645",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ethan Patel Sports Massage 2025-06-11 11:00 AM 60 Taylor Morgan No-Show 130 No response to follow-up"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@KLQKi": {
+                    "type": "Select",
+                    "optionId": "@w5MPD"
+                  },
+                  "@7kyn7": {
+                    "type": "Select",
+                    "optionId": "@IsLq_"
+                  },
+                  "@cnCOF": {
+                    "type": "Select",
+                    "optionId": "@JjrR6"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7675fd10-6594-4ada-a5f4-88ea48b35027",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sofia Johnson Gel Manicure 2025-06-11 2:30 PM 45 Alex Kim Cancelled 55 Client rescheduled"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@KLQKi": {
+                    "type": "Select",
+                    "optionId": "@hrqyy"
+                  },
+                  "@7kyn7": {
+                    "type": "Select",
+                    "optionId": "@tOWt2"
+                  },
+                  "@cnCOF": {
+                    "type": "Select",
+                    "optionId": "@9dIHB"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "46bc3c03-1bac-45b9-8db9-90de580ccd05",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Liam Thompson Hydrating Facial 2025-06-12 9:30 AM 60 Jordan Lee Confirmed 115 Avoid fragrance"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@KLQKi": {
+                    "type": "Select",
+                    "optionId": "@tNl_u"
+                  },
+                  "@7kyn7": {
+                    "type": "Select",
+                    "optionId": "@E4HKH"
+                  },
+                  "@cnCOF": {
+                    "type": "Select",
+                    "optionId": "@igCPP"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3ea26044-57f7-426d-b40c-c123a2153801",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Isabella Garcia Color Consultation 2025-06-12 12:00 PM 30 Casey Rivera Booked 40 Bring inspiration photos"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@KLQKi": {
+                    "type": "Select",
+                    "optionId": "@VHl9e"
+                  },
+                  "@7kyn7": {
+                    "type": "Select",
+                    "optionId": "@PTDxn"
+                  },
+                  "@cnCOF": {
+                    "type": "Select",
+                    "optionId": "@41IDW"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e086cd83-576c-42d6-8bb9-c531fec3b260",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Oliver Brown Swedish Massage 2025-06-13 4:00 PM 60 Taylor Morgan Completed 125 Requested a quiet room"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@KLQKi": {
+                    "type": "Select",
+                    "optionId": "@-QKP_"
+                  },
+                  "@7kyn7": {
+                    "type": "Select",
+                    "optionId": "@xLt-P"
+                  },
+                  "@cnCOF": {
+                    "type": "Select",
+                    "optionId": "@JjrR6"
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "f9ae4bd1-92ae-4c85-b523-8a1c291ff45c": {
+            "id": "f9ae4bd1-92ae-4c85-b523-8a1c291ff45c",
+            "fieldPath": "/attributes/@KLQKi",
+            "rank": "z"
+          },
+          "dc3bb98d-c637-4e55-86e7-f3ad0599f2fb": {
+            "id": "dc3bb98d-c637-4e55-86e7-f3ad0599f2fb",
+            "fieldPath": "/attributes/@7kyn7",
+            "rank": "zV"
+          },
+          "7e6d59db-d9c7-424f-8042-88d1ee04a3e0": {
+            "id": "7e6d59db-d9c7-424f-8042-88d1ee04a3e0",
+            "fieldPath": "/attributes/@cnCOF",
+            "rank": "zk"
+          }
+        }
+      },
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "fba567c2-4659-4245-b1de-805ae2fcc1f9": {
+            "id": "fba567c2-4659-4245-b1de-805ae2fcc1f9",
+            "fieldPath": "/attributes/@KLQKi",
+            "rank": "V"
+          },
+          "044dce9c-a4c0-4c18-a23f-898870eeb783": {
+            "id": "044dce9c-a4c0-4c18-a23f-898870eeb783",
+            "fieldPath": "/attributes/@7kyn7",
+            "rank": "k"
+          },
+          "aa646025-afcb-4189-a9b2-7027c84183e5": {
+            "id": "aa646025-afcb-4189-a9b2-7027c84183e5",
+            "fieldPath": "/attributes/@cnCOF",
+            "rank": "s"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "df87d8cf-1fd3-48a1-97a4-c538d9364143": {
+            "id": "df87d8cf-1fd3-48a1-97a4-c538d9364143",
+            "fieldPath": "/attributes/@KLQKi",
+            "rank": "V"
+          },
+          "7a6956c2-e2b0-4d9d-9e2b-c979eeb0c481": {
+            "id": "7a6956c2-e2b0-4d9d-9e2b-c979eeb0c481",
+            "fieldPath": "/attributes/@7kyn7",
+            "rank": "k"
+          },
+          "a7a683df-3730-4e8e-b261-08b3612e205f": {
+            "id": "a7a683df-3730-4e8e-b261-08b3612e205f",
+            "fieldPath": "/attributes/@cnCOF",
+            "rank": "s"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "a9392376-bce8-4b26-99f8-52db437e98f6": {
+            "id": "a9392376-bce8-4b26-99f8-52db437e98f6",
+            "fieldPath": "/attributes/@KLQKi",
+            "rank": "V"
+          },
+          "5d679974-66d2-433a-b337-5040b517ac4c": {
+            "id": "5d679974-66d2-433a-b337-5040b517ac4c",
+            "fieldPath": "/attributes/@7kyn7",
+            "rank": "k"
+          },
+          "9508a85c-6b71-4fcf-84d3-0b68ca670784": {
+            "id": "9508a85c-6b71-4fcf-84d3-0b68ca670784",
+            "fieldPath": "/attributes/@cnCOF",
+            "rank": "s"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "fd28a7e2-d9a1-4352-bc91-b637273afcbe": {
+            "id": "fd28a7e2-d9a1-4352-bc91-b637273afcbe",
+            "fieldPath": "/attributes/@KLQKi",
+            "rank": "V"
+          },
+          "86182b4f-4291-4159-bfeb-0a6631fddec4": {
+            "id": "86182b4f-4291-4159-bfeb-0a6631fddec4",
+            "fieldPath": "/attributes/@7kyn7",
+            "rank": "k"
+          },
+          "473e6aaf-f2fb-4500-ba0e-e89746bbcad6": {
+            "id": "473e6aaf-f2fb-4500-ba0e-e89746bbcad6",
+            "fieldPath": "/attributes/@cnCOF",
+            "rank": "s"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "9d98d443-de6a-465b-a0d9-b25203ae86a6": {
+            "id": "9d98d443-de6a-465b-a0d9-b25203ae86a6",
+            "fieldPath": "/attributes/@KLQKi",
+            "rank": "z"
+          },
+          "d7286bb3-cb98-450b-a9e8-b571b6a36285": {
+            "id": "d7286bb3-cb98-450b-a9e8-b571b6a36285",
+            "fieldPath": "/attributes/@7kyn7",
+            "rank": "zV"
+          },
+          "3f7b78ca-f7a5-4197-81ef-c2370e40a20f": {
+            "id": "3f7b78ca-f7a5-4197-81ef-c2370e40a20f",
+            "fieldPath": "/attributes/@cnCOF",
+            "rank": "zk"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@KLQKi": {
+        "type": "Select",
+        "displayName": "ServiceType",
+        "description": "Type of appointment service listed in each appointment record.",
+        "options": {
+          "@_Ke76": {
+            "id": "@_Ke76",
+            "name": "Signature Facial",
+            "rank": "1",
+            "description": "Facial service",
+            "color": "#5B8FF9"
+          },
+          "@14xzX": {
+            "id": "@14xzX",
+            "name": "Deep Tissue Massage",
+            "rank": "2",
+            "description": "Massage service",
+            "color": "#5AD8A6"
+          },
+          "@_SJnt": {
+            "id": "@_SJnt",
+            "name": "Haircut & Blowout",
+            "rank": "3",
+            "description": "Hair service",
+            "color": "#F6BD16"
+          },
+          "@w5MPD": {
+            "id": "@w5MPD",
+            "name": "Sports Massage",
+            "rank": "4",
+            "description": "Massage service",
+            "color": "#E8684A"
+          },
+          "@hrqyy": {
+            "id": "@hrqyy",
+            "name": "Gel Manicure",
+            "rank": "5",
+            "description": "Manicure service",
+            "color": "#6DC8EC"
+          },
+          "@tNl_u": {
+            "id": "@tNl_u",
+            "name": "Hydrating Facial",
+            "rank": "6",
+            "description": "Facial service",
+            "color": "#9270CA"
+          },
+          "@VHl9e": {
+            "id": "@VHl9e",
+            "name": "Color Consultation",
+            "rank": "7",
+            "description": "Consultation service",
+            "color": "#FF9D4D"
+          },
+          "@-QKP_": {
+            "id": "@-QKP_",
+            "name": "Swedish Massage",
+            "rank": "8",
+            "description": "Massage service",
+            "color": "#269A99"
+          }
+        }
+      },
+      "@7kyn7": {
+        "type": "Select",
+        "displayName": "AppointmentStatus",
+        "description": "Booking outcome/status stated for the appointment.",
+        "options": {
+          "@PTDxn": {
+            "id": "@PTDxn",
+            "name": "Booked",
+            "rank": "1",
+            "description": "Appointment is booked",
+            "color": "#5B8FF9"
+          },
+          "@E4HKH": {
+            "id": "@E4HKH",
+            "name": "Confirmed",
+            "rank": "2",
+            "description": "Appointment is confirmed",
+            "color": "#5AD8A6"
+          },
+          "@xLt-P": {
+            "id": "@xLt-P",
+            "name": "Completed",
+            "rank": "3",
+            "description": "Appointment completed",
+            "color": "#269A99"
+          },
+          "@IsLq_": {
+            "id": "@IsLq_",
+            "name": "No-Show",
+            "rank": "4",
+            "description": "Client did not attend",
+            "color": "#E8684A"
+          },
+          "@tOWt2": {
+            "id": "@tOWt2",
+            "name": "Cancelled",
+            "rank": "5",
+            "description": "Appointment cancelled",
+            "color": "#9270CA"
+          }
+        }
+      },
+      "@cnCOF": {
+        "type": "Select",
+        "displayName": "AssignedStaff",
+        "description": "Staff member listed as providing or assigned to the appointment.",
+        "options": {
+          "@igCPP": {
+            "id": "@igCPP",
+            "name": "Jordan Lee",
+            "rank": "1",
+            "description": "Staff listed on appointment",
+            "color": "#5B8FF9"
+          },
+          "@JjrR6": {
+            "id": "@JjrR6",
+            "name": "Taylor Morgan",
+            "rank": "2",
+            "description": "Staff listed on appointment",
+            "color": "#5AD8A6"
+          },
+          "@41IDW": {
+            "id": "@41IDW",
+            "name": "Casey Rivera",
+            "rank": "3",
+            "description": "Staff listed on appointment",
+            "color": "#F6BD16"
+          },
+          "@9dIHB": {
+            "id": "@9dIHB",
+            "name": "Alex Kim",
+            "rank": "4",
+            "description": "Staff listed on appointment",
+            "color": "#9270CA"
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📍"
+    },
+    "coverImageType": "background"
+  }
+}

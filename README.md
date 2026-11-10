@@ -6,7 +6,7 @@
 
 ![Basketball Courts](https://img.shields.io/badge/%F0%9F%8F%80_Basketball_Courts-Court%20Floors%20%26%20Logos-17324D?style=flat-square)
 ![Volleyball Courts](https://img.shields.io/badge/%F0%9F%8F%90_Volleyball_Courts-Court%20Floors%20%26%20Logos-244A68?style=flat-square)
-![Tennis Courts](https://img.shields.io/badge/%F0%9F%8E%BE_Tennis_Courts-Court%20Surfaces-355B78?style=flat-square)
+![Tennis Ball Courts](https://img.shields.io/badge/%F0%9F%8E%BE_Tennis_Ball_Courts-Court%20Surfaces-355B78?style=flat-square)
 ![Pickleball Courts](https://img.shields.io/badge/%F0%9F%8F%93_Pickleball_Courts-Court%20Surfaces-476C83?style=flat-square)
 ![Court Logos](https://img.shields.io/badge/%F0%9F%8E%A8_Court_Logos-Custom%20Design-8B6E3F?style=flat-square)
 ![Vinyl Graphics](https://img.shields.io/badge/%F0%9F%AA%A7_Vinyl_Graphics-Floors%20%7C%20Stickers%20%7C%20Fleet-34495E?style=flat-square)

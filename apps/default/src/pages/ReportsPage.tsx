@@ -9,11 +9,15 @@ import { calculateStageMetrics, calculateWinRate, formatPercent } from '@/lib/sa
 import type { Deal, StageMetrics } from '@/types/sales';
 
 const SOURCE_CONFIG = {
-  inbound: { label: 'Inbound', color: '#3b82f6' },
-  outbound: { label: 'Outbound', color: '#8b5cf6' },
-  referral: { label: 'Referral', color: '#10b981' },
-  partner: { label: 'Partner', color: '#f59e0b' },
-};
+  inbound: { label: 'Inbound', chart: 1 },
+  outbound: { label: 'Outbound', chart: 2 },
+  referral: { label: 'Referral', chart: 3 },
+  partner: { label: 'Partner', chart: 4 },
+} as const;
+
+// Tailwind JIT cannot see computed class names, so chart tokens are mapped verbatim.
+const CHART_BG = { 1: 'bg-chart-1', 2: 'bg-chart-2', 3: 'bg-chart-3', 4: 'bg-chart-4', 5: 'bg-chart-5' } as const;
+const CHART_FILL = { 1: 'hsl(var(--chart-1))', 2: 'hsl(var(--chart-2))', 3: 'hsl(var(--chart-3))', 4: 'hsl(var(--chart-4))', 5: 'hsl(var(--chart-5))' } as const;
 
 const SOURCE_ORDER = ['inbound', 'outbound', 'referral', 'partner'] as const;
 
@@ -51,6 +55,7 @@ function toDeal(row: ReturnType<typeof useLiveNodes>['nodes'][number]): Deal {
 interface SourceRow {
   source: string;
   label: string;
+  chart: number;
   count: number;
   value: number;
   won: number;
@@ -76,11 +81,11 @@ export default function ReportsPage() {
   const sourceMetrics = useMemo(() => {
     const map = new Map<string, SourceRow>();
     SOURCE_ORDER.forEach((s) =>
-      map.set(s, { source: s, label: SOURCE_CONFIG[s as keyof typeof SOURCE_CONFIG].label, count: 0, value: 0, won: 0, lost: 0 }),
+      map.set(s, { source: s, label: SOURCE_CONFIG[s].label, chart: SOURCE_CONFIG[s].chart, count: 0, value: 0, won: 0, lost: 0 }),
     );
     deals.forEach((d) => {
       if (!map.has(d.source)) {
-        map.set(d.source, { source: d.source, label: d.source, count: 0, value: 0, won: 0, lost: 0 });
+        map.set(d.source, { source: d.source, label: d.source, chart: 1, count: 0, value: 0, won: 0, lost: 0 });
       }
       const m = map.get(d.source)!;
       m.count += 1;
@@ -149,7 +154,7 @@ export default function ReportsPage() {
                 />
                 <Bar dataKey="count" radius={[0, 8, 8, 0]}>
                   {sourceMetrics.map((entry) => (
-                    <Cell key={`cell-${entry.source}`} fill={SOURCE_CONFIG[entry.source as keyof typeof SOURCE_CONFIG]?.color ?? '#64748b'} />
+                    <Cell key={`cell-${entry.source}`} fill={CHART_FILL[entry.chart as keyof typeof CHART_FILL] ?? CHART_FILL[1]} />
                   ))}
                 </Bar>
               </BarChart>
@@ -159,7 +164,7 @@ export default function ReportsPage() {
             {sourceMetrics.map((s) => (
               <div key={s.source} className="flex items-center justify-between text-sm">
                 <div className="flex items-center gap-2">
-                  <span className="w-3 h-3 rounded-full" style={{ backgroundColor: SOURCE_CONFIG[s.source as keyof typeof SOURCE_CONFIG]?.color ?? '#64748b' }} />
+                  <span className={`w-3 h-3 rounded-full ${CHART_BG[s.chart as keyof typeof CHART_BG] ?? CHART_BG[1]}`} />
                   <span className="text-white">{s.label}</span>
                 </div>
                 <div className="text-right text-white/60">
@@ -200,7 +205,7 @@ export default function ReportsPage() {
                 />
                 <Bar dataKey="rate" radius={[0, 8, 8, 0]}>
                   {sourceMetrics.map((entry) => (
-                    <Cell key={`win-${entry.source}`} fill={SOURCE_CONFIG[entry.source as keyof typeof SOURCE_CONFIG]?.color ?? '#64748b'} />
+                    <Cell key={`win-${entry.source}`} fill={CHART_FILL[entry.chart as keyof typeof CHART_FILL] ?? CHART_FILL[1]} />
                   ))}
                 </Bar>
               </BarChart>
@@ -213,7 +218,7 @@ export default function ReportsPage() {
               return (
                 <div key={s.source} className="flex items-center justify-between text-sm">
                   <div className="flex items-center gap-2">
-                    <span className="w-3 h-3 rounded-full" style={{ backgroundColor: SOURCE_CONFIG[s.source as keyof typeof SOURCE_CONFIG]?.color ?? '#64748b' }} />
+                    <span className={`w-3 h-3 rounded-full ${CHART_BG[s.chart as keyof typeof CHART_BG] ?? CHART_BG[1]}`} />
                     <span className="text-white">{s.label}</span>
                   </div>
                   <div className="text-right text-white/60">
@@ -247,8 +252,7 @@ export default function ReportsPage() {
                 contentStyle={{ backgroundColor: 'rgba(0,0,0,0.9)', border: '1px solid rgba(255,255,255,0.1)', borderRadius: '12px', color: 'white' }}
                 formatter={(value: number) => [`${Math.round(value)} deals`, 'Month']}
               />
-              <Line type="monotone" dataKey="count" stroke="#3b82f6" strokeWidth={3} dot={false} />
-              <Cell key="count" fill="#3b82f6" />
+              <Line type="monotone" dataKey="count" stroke="hsl(var(--chart-1))" strokeWidth={3} dot={false} />
             </LineChart>
           </ResponsiveContainer>
         )}

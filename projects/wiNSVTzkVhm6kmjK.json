@@ -209,26 +209,6 @@
             "id": "/attributes/@notes2",
             "fieldPath": "/attributes/@notes2",
             "rank": "zzzzs"
-          },
-          "5c2ca176-2500-433f-8919-dea0c129a8ba": {
-            "id": "5c2ca176-2500-433f-8919-dea0c129a8ba",
-            "fieldPath": "/attributes/@smsc1",
-            "rank": "zzzzw"
-          },
-          "24546447-f963-4e00-8582-5baab1693740": {
-            "id": "24546447-f963-4e00-8582-5baab1693740",
-            "fieldPath": "/attributes/@emlsd",
-            "rank": "zzzzy"
-          },
-          "b44900df-63db-4cde-8732-df75711da774": {
-            "id": "b44900df-63db-4cde-8732-df75711da774",
-            "fieldPath": "/attributes/@fudft",
-            "rank": "zzzzz"
-          },
-          "5334dd69-5a52-4efc-b853-5d3997f2566b": {
-            "id": "5334dd69-5a52-4efc-b853-5d3997f2566b",
-            "fieldPath": "/attributes/@ce7a8",
-            "rank": "zzzzzV"
           }
         }
       },
@@ -416,26 +396,6 @@
             "id": "/attributes/@notes2",
             "fieldPath": "/attributes/@notes2",
             "rank": "zzzzs"
-          },
-          "3e887231-4431-416b-a4ef-b495c67210ef": {
-            "id": "3e887231-4431-416b-a4ef-b495c67210ef",
-            "fieldPath": "/attributes/@smsc1",
-            "rank": "zzzzw"
-          },
-          "84550b67-02d8-46b3-bfb2-d3f691614edc": {
-            "id": "84550b67-02d8-46b3-bfb2-d3f691614edc",
-            "fieldPath": "/attributes/@emlsd",
-            "rank": "zzzzy"
-          },
-          "6d74f0e7-dc70-4845-a123-35d9912f1dfd": {
-            "id": "6d74f0e7-dc70-4845-a123-35d9912f1dfd",
-            "fieldPath": "/attributes/@fudft",
-            "rank": "zzzzz"
-          },
-          "fd6cff11-1628-43a2-a28d-7e71f311a04b": {
-            "id": "fd6cff11-1628-43a2-a28d-7e71f311a04b",
-            "fieldPath": "/attributes/@ce7a8",
-            "rank": "zzzzzV"
           }
         }
       },
@@ -623,26 +583,6 @@
             "id": "/attributes/@notes2",
             "fieldPath": "/attributes/@notes2",
             "rank": "zzzzs"
-          },
-          "a419ca70-f591-4bd6-8f8d-2a038d4cbd94": {
-            "id": "a419ca70-f591-4bd6-8f8d-2a038d4cbd94",
-            "fieldPath": "/attributes/@smsc1",
-            "rank": "zzzzw"
-          },
-          "34734c90-d6f5-487e-9bbc-da9d017c0080": {
-            "id": "34734c90-d6f5-487e-9bbc-da9d017c0080",
-            "fieldPath": "/attributes/@emlsd",
-            "rank": "zzzzy"
-          },
-          "316459ad-2c08-4939-b4c0-76c3c7ac2d7b": {
-            "id": "316459ad-2c08-4939-b4c0-76c3c7ac2d7b",
-            "fieldPath": "/attributes/@fudft",
-            "rank": "zzzzz"
-          },
-          "6527faf1-ffc8-4050-90d5-97937bdda834": {
-            "id": "6527faf1-ffc8-4050-90d5-97937bdda834",
-            "fieldPath": "/attributes/@ce7a8",
-            "rank": "zzzzzV"
           }
         }
       },
@@ -830,26 +770,6 @@
             "id": "/attributes/@notes2",
             "fieldPath": "/attributes/@notes2",
             "rank": "zzzzs"
-          },
-          "37cd4031-3f93-4b19-be2b-e5f102b2ff66": {
-            "id": "37cd4031-3f93-4b19-be2b-e5f102b2ff66",
-            "fieldPath": "/attributes/@smsc1",
-            "rank": "zzzzw"
-          },
-          "67ebbd4b-27a1-4ff9-bcd3-27dd3f07ba87": {
-            "id": "67ebbd4b-27a1-4ff9-bcd3-27dd3f07ba87",
-            "fieldPath": "/attributes/@emlsd",
-            "rank": "zzzzy"
-          },
-          "cd90948f-f83a-4d10-9374-18256a364417": {
-            "id": "cd90948f-f83a-4d10-9374-18256a364417",
-            "fieldPath": "/attributes/@fudft",
-            "rank": "zzzzz"
-          },
-          "0554e961-199e-48c8-b670-88a2d9e50203": {
-            "id": "0554e961-199e-48c8-b670-88a2d9e50203",
-            "fieldPath": "/attributes/@ce7a8",
-            "rank": "zzzzzV"
           }
         }
       },
@@ -1073,26 +993,6 @@
             "fieldPath": "/attributes/@notes2",
             "rank": "zzzzs",
             "hidden": false
-          },
-          "9967b34c-65d8-4f22-8036-1ac6618c76c7": {
-            "id": "9967b34c-65d8-4f22-8036-1ac6618c76c7",
-            "fieldPath": "/attributes/@smsc1",
-            "rank": "zzzzw"
-          },
-          "8bb80967-0d22-436c-8eeb-b570c3924b89": {
-            "id": "8bb80967-0d22-436c-8eeb-b570c3924b89",
-            "fieldPath": "/attributes/@emlsd",
-            "rank": "zzzzy"
-          },
-          "61a252f9-3473-4a21-aa30-a810b6f36c0d": {
-            "id": "61a252f9-3473-4a21-aa30-a810b6f36c0d",
-            "fieldPath": "/attributes/@fudft",
-            "rank": "zzzzz"
-          },
-          "8b5bb681-d92e-40d5-af1a-73fb9e9e83d4": {
-            "id": "8b5bb681-d92e-40d5-af1a-73fb9e9e83d4",
-            "fieldPath": "/attributes/@ce7a8",
-            "rank": "zzzzzV"
           }
         }
       },
@@ -1316,135 +1216,6 @@
             "fieldPath": "/attributes/@notes2",
             "rank": "zzzzs",
             "hidden": false
-          },
-          "b5c4fe39-f379-49cd-a11e-c411b04dc422": {
-            "id": "b5c4fe39-f379-49cd-a11e-c411b04dc422",
-            "fieldPath": "/attributes/@smsc1",
-            "rank": "zzzzw"
-          },
-          "c5e20ffa-6267-4603-940f-77189abe1ceb": {
-            "id": "c5e20ffa-6267-4603-940f-77189abe1ceb",
-            "fieldPath": "/attributes/@emlsd",
-            "rank": "zzzzy"
-          },
-          "86b6ead8-e081-45ca-bed6-0a5fc5d8ab07": {
-            "id": "86b6ead8-e081-45ca-bed6-0a5fc5d8ab07",
-            "fieldPath": "/attributes/@fudft",
-            "rank": "zzzzz"
-          },
-          "144a0cfd-eb64-4d53-acf0-7336b1ffcb57": {
-            "id": "144a0cfd-eb64-4d53-acf0-7336b1ffcb57",
-            "fieldPath": "/attributes/@ce7a8",
-            "rank": "zzzzzV"
-          }
-        }
-      },
-      "actionsheet": {
-        "id": "actionsheet",
-        "type": "actionsheet",
-        "rank": "F",
-        "columns": {
-          "/text": {
-            "id": "/text",
-            "fieldPath": "/text",
-            "rank": "7",
-            "width": 480
-          },
-          "/attributes/agent": {
-            "id": "/attributes/agent",
-            "fieldPath": "/attributes/agent",
-            "rank": "A",
-            "hidden": true
-          },
-          "/attributes/date": {
-            "id": "/attributes/date",
-            "fieldPath": "/attributes/date",
-            "rank": "F"
-          },
-          "/attributes/assignee": {
-            "id": "/attributes/assignee",
-            "fieldPath": "/attributes/assignee",
-            "rank": "N"
-          },
-          "/attributes/comment": {
-            "id": "/attributes/comment",
-            "fieldPath": "/attributes/comment",
-            "rank": "V",
-            "hidden": true
-          },
-          "/attributes/reaction": {
-            "id": "/attributes/reaction",
-            "fieldPath": "/attributes/reaction",
-            "rank": "c",
-            "hidden": true
-          },
-          "/attributes/timer": {
-            "id": "/attributes/timer",
-            "fieldPath": "/attributes/timer",
-            "rank": "k",
-            "hidden": true
-          },
-          "/attributes/media": {
-            "id": "/attributes/media",
-            "fieldPath": "/attributes/media",
-            "rank": "s",
-            "hidden": true
-          },
-          "/attributes/created/at": {
-            "id": "/attributes/created/at",
-            "fieldPath": "/attributes/created/at",
-            "rank": "t",
-            "hidden": true
-          },
-          "/attributes/created/by": {
-            "id": "/attributes/created/by",
-            "fieldPath": "/attributes/created/by",
-            "rank": "u",
-            "hidden": true
-          },
-          "/attributes/updated/at": {
-            "id": "/attributes/updated/at",
-            "fieldPath": "/attributes/updated/at",
-            "rank": "vF",
-            "hidden": true
-          },
-          "/attributes/updated/by": {
-            "id": "/attributes/updated/by",
-            "fieldPath": "/attributes/updated/by",
-            "rank": "wF",
-            "hidden": true
-          },
-          "/attributes/completed/at": {
-            "id": "/attributes/completed/at",
-            "fieldPath": "/attributes/completed/at",
-            "rank": "x",
-            "hidden": true
-          },
-          "/attributes/completed/by": {
-            "id": "/attributes/completed/by",
-            "fieldPath": "/attributes/completed/by",
-            "rank": "y",
-            "hidden": true
-          },
-          "ff9336a1-2c1e-4cb5-ab08-76ad5d4dd658": {
-            "id": "ff9336a1-2c1e-4cb5-ab08-76ad5d4dd658",
-            "fieldPath": "/attributes/@smsc1",
-            "rank": "z"
-          },
-          "018af52e-38d9-44b6-852e-b84e862ef77b": {
-            "id": "018af52e-38d9-44b6-852e-b84e862ef77b",
-            "fieldPath": "/attributes/@emlsd",
-            "rank": "zV"
-          },
-          "565439df-9cc4-4a02-b7a5-3578b5347c27": {
-            "id": "565439df-9cc4-4a02-b7a5-3578b5347c27",
-            "fieldPath": "/attributes/@fudft",
-            "rank": "zk"
-          },
-          "9d619b09-1089-4380-9bda-ae8f722d5945": {
-            "id": "9d619b09-1089-4380-9bda-ae8f722d5945",
-            "fieldPath": "/attributes/@ce7a8",
-            "rank": "zs"
           }
         }
       }
@@ -1483,10 +1254,6 @@
             "code": "USD"
           }
         }
-      },
-      "@fudft": {
-        "type": "DateTime",
-        "title": "Follow-Up Drafted Date"
       },
       "@potd2": {
         "type": "DateTime",
@@ -1554,30 +1321,6 @@
           }
         }
       },
-      "@smsc1": {
-        "type": "Select",
-        "displayName": "SMS Consent",
-        "options": {
-          "sms-opted-in": {
-            "id": "sms-opted-in",
-            "name": "Opted in",
-            "color": "#16a34a",
-            "rank": "0"
-          },
-          "sms-not-opted-in": {
-            "id": "sms-not-opted-in",
-            "name": "Not opted in",
-            "color": "#dc2626",
-            "rank": "1"
-          },
-          "sms-unknown": {
-            "id": "sms-unknown",
-            "name": "Unknown",
-            "color": "#64748b",
-            "rank": "2"
-          }
-        }
-      },
       "@cmp02": {
         "type": "string",
         "displayName": "Company"
@@ -1634,10 +1377,6 @@
         "type": "DateTime",
         "title": "Next Follow-up Date"
       },
-      "@ce7a8": {
-        "type": "DateTime",
-        "title": "Follow-Up Draft Attempt Date"
-      },
       "@done2": {
         "type": "DateTime",
         "title": "Completed Date"
@@ -1653,10 +1392,6 @@
       "@lostd2": {
         "type": "DateTime",
         "title": "Lost Date"
-      },
-      "@emlsd": {
-        "type": "DateTime",
-        "title": "Email Sent Date"
       },
       "@lead2": {
         "type": "DateTime",

@@ -1,0 +1,827 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "5fd49ceb-6041-4e68-81c4-2752fa3d8606",
+        "text": {
+          "ops": [
+            {
+              "insert": "Customer Feedback & Reviews Log"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "c4b9cefc-4b40-412c-a444-0cf20f134306",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Feedback Entries"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "723b3428-7de6-4570-aac7-e00dc8d7c91e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Customer Source Rating Sentiment Comment Date Follow-Up Needed Owner Resolution"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "98d78344-1231-4145-836a-051114d79ae9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ava Thompson Google 5 Positive Friendly staff and quick service. 2025-02-03 No Maya Chen —"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@WubdS": {
+                    "type": "Select",
+                    "optionId": "@dm6Iq"
+                  },
+                  "@5fncE": {
+                    "type": "Select",
+                    "optionId": "@FV0UI"
+                  },
+                  "@qdXO3": {
+                    "type": "Select",
+                    "optionId": "@LkRyc"
+                  },
+                  "@hUEeb": ""
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e2236b61-2cf4-4299-a163-58b063097298",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Daniel Brooks Yelp 2 Negative Order arrived late and was missing an item. 2025-02-05 Yes Jordan Lee Apologized and issued a refund for the missing item."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@WubdS": {
+                    "type": "Select",
+                    "optionId": "@OxFaz"
+                  },
+                  "@5fncE": {
+                    "type": "Select",
+                    "optionId": "@PKxqR"
+                  },
+                  "@qdXO3": {
+                    "type": "Select",
+                    "optionId": "@fvmtG"
+                  },
+                  "@hUEeb": "Apologized and issued a refund for the missing item."
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "537b0411-c8b3-45e9-8c05-9864493e61d2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sofia Ramirez Email 4 Positive Helpful support team resolved my question quickly. 2025-02-07 No Priya Patel —"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@WubdS": {
+                    "type": "Select",
+                    "optionId": "@dm6Iq"
+                  },
+                  "@5fncE": {
+                    "type": "Select",
+                    "optionId": "@FV0UI"
+                  },
+                  "@qdXO3": {
+                    "type": "Select",
+                    "optionId": "@Yaax7"
+                  },
+                  "@hUEeb": ""
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0e7a0fae-ec38-4793-b592-da7330086d9b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ethan Wilson In-Person 3 Neutral Product was good, but checkout took longer than expected. 2025-02-10 Yes Chris Morgan Shared feedback with the store operations team."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@WubdS": {
+                    "type": "Select",
+                    "optionId": "@n6gNi"
+                  },
+                  "@5fncE": {
+                    "type": "Select",
+                    "optionId": "@PKxqR"
+                  },
+                  "@qdXO3": {
+                    "type": "Select",
+                    "optionId": "@cQIg8"
+                  },
+                  "@hUEeb": "Shared feedback with the store operations team."
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "25d6ce9f-bff4-473a-894e-61260c5d9054",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Olivia Chen Survey 5 Positive Great experience from start to finish. 2025-02-12 No Alex Rivera —"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@WubdS": {
+                    "type": "Select",
+                    "optionId": "@dm6Iq"
+                  },
+                  "@5fncE": {
+                    "type": "Select",
+                    "optionId": "@FV0UI"
+                  },
+                  "@qdXO3": {
+                    "type": "Select",
+                    "optionId": "@lCjH-"
+                  },
+                  "@hUEeb": ""
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "05167d77-5e8d-4788-afd1-2a7126fb0cac",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Noah Davis Google 1 Negative Received a damaged product and could not reach support. 2025-02-14 Yes Maya Chen Replacement arranged; support team contacted the customer."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@WubdS": {
+                    "type": "Select",
+                    "optionId": "@OxFaz"
+                  },
+                  "@5fncE": {
+                    "type": "Select",
+                    "optionId": "@PKxqR"
+                  },
+                  "@qdXO3": {
+                    "type": "Select",
+                    "optionId": "@LkRyc"
+                  },
+                  "@hUEeb": "Replacement arranged; support team contacted the customer."
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "016c23b1-8544-4956-9c79-973eca4c728b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Isabella Martinez Yelp 3 Neutral Good selection, though some items were out of stock. 2025-02-17 No Jordan Lee —"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@WubdS": {
+                    "type": "Select",
+                    "optionId": "@n6gNi"
+                  },
+                  "@5fncE": {
+                    "type": "Select",
+                    "optionId": "@FV0UI"
+                  },
+                  "@qdXO3": {
+                    "type": "Select",
+                    "optionId": "@fvmtG"
+                  },
+                  "@hUEeb": ""
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3e8a6819-3bb1-406b-ae9c-1e9017822cc6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Liam Anderson Email 2 Negative Billing issue has not been resolved after two contacts. 2025-02-19 Yes Priya Patel Billing specialist assigned to investigate and follow up."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@WubdS": {
+                    "type": "Select",
+                    "optionId": "@OxFaz"
+                  },
+                  "@5fncE": {
+                    "type": "Select",
+                    "optionId": "@PKxqR"
+                  },
+                  "@qdXO3": {
+                    "type": "Select",
+                    "optionId": "@Yaax7"
+                  },
+                  "@hUEeb": "Billing specialist assigned to investigate and follow up."
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "07d0f5c5-197c-48b3-aecc-7748730c0e11": {
+            "id": "07d0f5c5-197c-48b3-aecc-7748730c0e11",
+            "fieldPath": "/attributes/@WubdS",
+            "rank": "z"
+          },
+          "5f3ba9d8-5297-4429-aab2-fcdca0520059": {
+            "id": "5f3ba9d8-5297-4429-aab2-fcdca0520059",
+            "fieldPath": "/attributes/@5fncE",
+            "rank": "zV"
+          },
+          "4389c41b-bd30-4305-9318-069655f58efc": {
+            "id": "4389c41b-bd30-4305-9318-069655f58efc",
+            "fieldPath": "/attributes/@qdXO3",
+            "rank": "zk"
+          },
+          "0737413d-09ca-4907-adbf-569314f528a6": {
+            "id": "0737413d-09ca-4907-adbf-569314f528a6",
+            "fieldPath": "/attributes/@hUEeb",
+            "rank": "zs"
+          }
+        }
+      },
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "92ba6fc2-a337-49e6-bd41-9be66a381714": {
+            "id": "92ba6fc2-a337-49e6-bd41-9be66a381714",
+            "fieldPath": "/attributes/@WubdS",
+            "rank": "V"
+          },
+          "6b429663-6f40-4c24-8551-bc50f41de95a": {
+            "id": "6b429663-6f40-4c24-8551-bc50f41de95a",
+            "fieldPath": "/attributes/@5fncE",
+            "rank": "k"
+          },
+          "7423a17c-fa1f-4295-bd29-f6635e134272": {
+            "id": "7423a17c-fa1f-4295-bd29-f6635e134272",
+            "fieldPath": "/attributes/@qdXO3",
+            "rank": "s"
+          },
+          "309eac02-bae3-4ba0-ac08-a19d0cccf313": {
+            "id": "309eac02-bae3-4ba0-ac08-a19d0cccf313",
+            "fieldPath": "/attributes/@hUEeb",
+            "rank": "w"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "b993bc92-e7fd-4b8d-b841-11780f3a9fb7": {
+            "id": "b993bc92-e7fd-4b8d-b841-11780f3a9fb7",
+            "fieldPath": "/attributes/@WubdS",
+            "rank": "V"
+          },
+          "80745a61-3941-47d3-97f0-24fd3c722225": {
+            "id": "80745a61-3941-47d3-97f0-24fd3c722225",
+            "fieldPath": "/attributes/@5fncE",
+            "rank": "k"
+          },
+          "78e38e34-5f96-4aa1-bdcd-d2d0beeec2c2": {
+            "id": "78e38e34-5f96-4aa1-bdcd-d2d0beeec2c2",
+            "fieldPath": "/attributes/@qdXO3",
+            "rank": "s"
+          },
+          "0d3b9e68-ec86-428a-9117-cd133450bfc0": {
+            "id": "0d3b9e68-ec86-428a-9117-cd133450bfc0",
+            "fieldPath": "/attributes/@hUEeb",
+            "rank": "w"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "c47655f4-0657-4e3a-b5e1-c3413397011a": {
+            "id": "c47655f4-0657-4e3a-b5e1-c3413397011a",
+            "fieldPath": "/attributes/@WubdS",
+            "rank": "V"
+          },
+          "868b56d8-638e-4aa0-849d-10dd9b8cf5fd": {
+            "id": "868b56d8-638e-4aa0-849d-10dd9b8cf5fd",
+            "fieldPath": "/attributes/@5fncE",
+            "rank": "k"
+          },
+          "316ee5db-2e7b-4d66-9331-96aabec26340": {
+            "id": "316ee5db-2e7b-4d66-9331-96aabec26340",
+            "fieldPath": "/attributes/@qdXO3",
+            "rank": "s"
+          },
+          "cc1957a8-9c6b-41e0-817a-05bcf667e606": {
+            "id": "cc1957a8-9c6b-41e0-817a-05bcf667e606",
+            "fieldPath": "/attributes/@hUEeb",
+            "rank": "w"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "8a8850b3-7805-4195-b7ca-48681b36f2b8": {
+            "id": "8a8850b3-7805-4195-b7ca-48681b36f2b8",
+            "fieldPath": "/attributes/@WubdS",
+            "rank": "V"
+          },
+          "6992f2f9-3acb-46c8-8c10-1f63141f9efe": {
+            "id": "6992f2f9-3acb-46c8-8c10-1f63141f9efe",
+            "fieldPath": "/attributes/@5fncE",
+            "rank": "k"
+          },
+          "06df57a9-bbb1-4609-95c4-c17aa96eaca6": {
+            "id": "06df57a9-bbb1-4609-95c4-c17aa96eaca6",
+            "fieldPath": "/attributes/@qdXO3",
+            "rank": "s"
+          },
+          "d68a6677-b1c6-467b-b476-e77957b60e21": {
+            "id": "d68a6677-b1c6-467b-b476-e77957b60e21",
+            "fieldPath": "/attributes/@hUEeb",
+            "rank": "w"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "6e59de6e-746e-4c30-9d63-722da5d3f6aa": {
+            "id": "6e59de6e-746e-4c30-9d63-722da5d3f6aa",
+            "fieldPath": "/attributes/@WubdS",
+            "rank": "z"
+          },
+          "c8d523d6-5f9e-4fed-882a-9ed50ff5857b": {
+            "id": "c8d523d6-5f9e-4fed-882a-9ed50ff5857b",
+            "fieldPath": "/attributes/@5fncE",
+            "rank": "zV"
+          },
+          "ec7d4cf8-6d07-4a7a-a406-7dafb76b1cfd": {
+            "id": "ec7d4cf8-6d07-4a7a-a406-7dafb76b1cfd",
+            "fieldPath": "/attributes/@qdXO3",
+            "rank": "zk"
+          },
+          "0f4f7e20-7827-4cdc-aae0-a449c4f31bb9": {
+            "id": "0f4f7e20-7827-4cdc-aae0-a449c4f31bb9",
+            "fieldPath": "/attributes/@hUEeb",
+            "rank": "zs"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@WubdS": {
+        "type": "Select",
+        "displayName": "Sentiment",
+        "description": "Customer feedback sentiment stated in each entry.",
+        "options": {
+          "@dm6Iq": {
+            "id": "@dm6Iq",
+            "name": "Positive",
+            "rank": "1",
+            "description": "Feedback explicitly labeled positive.",
+            "color": "#2E7D32"
+          },
+          "@n6gNi": {
+            "id": "@n6gNi",
+            "name": "Neutral",
+            "rank": "2",
+            "description": "Feedback explicitly labeled neutral.",
+            "color": "#757575"
+          },
+          "@OxFaz": {
+            "id": "@OxFaz",
+            "name": "Negative",
+            "rank": "3",
+            "description": "Feedback explicitly labeled negative.",
+            "color": "#C62828"
+          }
+        }
+      },
+      "@5fncE": {
+        "type": "Select",
+        "displayName": "FollowUpNeeded",
+        "description": "Whether the feedback entry explicitly indicates follow-up is needed.",
+        "options": {
+          "@PKxqR": {
+            "id": "@PKxqR",
+            "name": "Yes",
+            "rank": "1",
+            "description": "Follow-up is explicitly marked as needed.",
+            "color": "#2E7D32"
+          },
+          "@FV0UI": {
+            "id": "@FV0UI",
+            "name": "No",
+            "rank": "2",
+            "description": "Follow-up is explicitly marked as not needed.",
+            "color": "#757575"
+          }
+        }
+      },
+      "@qdXO3": {
+        "type": "Select",
+        "displayName": "FeedbackSource",
+        "description": "Channel through which the customer feedback was received.",
+        "options": {
+          "@LkRyc": {
+            "id": "@LkRyc",
+            "name": "Google",
+            "rank": "1",
+            "description": "Feedback source listed as Google.",
+            "color": "#1565C0"
+          },
+          "@fvmtG": {
+            "id": "@fvmtG",
+            "name": "Yelp",
+            "rank": "2",
+            "description": "Feedback source listed as Yelp.",
+            "color": "#1565C0"
+          },
+          "@Yaax7": {
+            "id": "@Yaax7",
+            "name": "Email",
+            "rank": "3",
+            "description": "Feedback source listed as Email.",
+            "color": "#1565C0"
+          },
+          "@cQIg8": {
+            "id": "@cQIg8",
+            "name": "In-Person",
+            "rank": "4",
+            "description": "Feedback source listed as In-Person.",
+            "color": "#1565C0"
+          },
+          "@lCjH-": {
+            "id": "@lCjH-",
+            "name": "Survey",
+            "rank": "5",
+            "description": "Feedback source listed as Survey.",
+            "color": "#1565C0"
+          }
+        }
+      },
+      "@hUEeb": {
+        "type": "string",
+        "displayName": "ResolutionDetails",
+        "description": "Free-form resolution action described in feedback entries, where present."
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📡"
+    },
+    "coverImageType": "background"
+  }
+}

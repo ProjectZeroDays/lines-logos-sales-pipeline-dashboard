@@ -1,0 +1,859 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "99bd5b5b-d04e-4095-8b1d-7ae3fd5b48b9",
+        "text": {
+          "ops": [
+            {
+              "insert": "Client Portal Tracker"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "6bca9756-734e-4965-bc69-444814b17f7c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Client Accounts"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "dabd65a6-79cf-4ded-971c-cb6c45068237",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Client Status Plan Monthly Value Account Owner Next Deliverable Next Touch Renewal Date Notes"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "44eb72be-6e45-4584-b989-424df0fae0c2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Northstar Studio Onboarding Growth $3,500 Maya Chen Brand discovery deck 2025-04-08 2026-04-01 Kickoff complete; awaiting brand assets."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@C_IMd": {
+                    "type": "Select",
+                    "optionId": "@YmvJL"
+                  },
+                  "@az7_8": 3500,
+                  "@dCvoI": "Brand discovery deck",
+                  "@ny4m9": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2025-04-08",
+                      "time": "00:00:00",
+                      "timezone": "America/Chicago"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6f074b55-9f44-4900-a84c-cfc7575bb11e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Greenway Health Active Pro $6,000 Jordan Lee April campaign report 2025-04-10 2025-11-15 Strong engagement; scope is on track."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@C_IMd": {
+                    "type": "Select",
+                    "optionId": "@n_c7g"
+                  },
+                  "@az7_8": 6000,
+                  "@dCvoI": "April campaign report",
+                  "@ny4m9": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2025-04-10",
+                      "time": "00:00:00",
+                      "timezone": "America/Chicago"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e3b73634-44e3-4731-80bd-b68a934b9faa",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Harbor & Pine At-Risk Growth $2,800 Priya Patel Website performance review 2025-04-07 2025-06-30 Response times have slowed; align on priorities."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@C_IMd": {
+                    "type": "Select",
+                    "optionId": "@YmvJL"
+                  },
+                  "@az7_8": 2800,
+                  "@dCvoI": "Website performance review",
+                  "@ny4m9": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2025-04-07",
+                      "time": "00:00:00",
+                      "timezone": "America/Chicago"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ecb4d232-1e86-4ccf-8c79-9a565e2a78bd",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SummitWorks Paused Starter $1,200 Alex Rivera Resume paid search campaign 2025-05-01 2025-09-01 Campaign paused pending client budget approval."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@C_IMd": {
+                    "type": "Select",
+                    "optionId": "@aBeMP"
+                  },
+                  "@az7_8": 1200,
+                  "@dCvoI": "Resume paid search campaign",
+                  "@ny4m9": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2025-05-01",
+                      "time": "00:00:00",
+                      "timezone": "America/Chicago"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cd03ddaf-4b4a-4afe-bd7b-e576f21be504",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "BrightPath Learning Churned Pro $0 Morgan Blake Closeout summary 2025-04-12 2025-03-31 Contract ended; archive access after closeout."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@C_IMd": {
+                    "type": "Select",
+                    "optionId": "@n_c7g"
+                  },
+                  "@az7_8": 0,
+                  "@dCvoI": "Closeout summary",
+                  "@ny4m9": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2025-04-12",
+                      "time": "00:00:00",
+                      "timezone": "America/Chicago"
+                    }
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8d60eecf-9fa9-4634-886a-ee82a555a981",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cedar & Coast Active Enterprise $8,500 Taylor Kim Q2 content calendar 2025-04-11 2026-01-31 Expansion opportunity for analytics support."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": "text"
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@C_IMd": {
+                    "type": "Select",
+                    "optionId": "@SdPTh"
+                  },
+                  "@az7_8": 8500,
+                  "@dCvoI": "Q2 content calendar",
+                  "@ny4m9": {
+                    "type": "DateTime",
+                    "dateTime": {
+                      "date": "2025-04-11",
+                      "time": "00:00:00",
+                      "timezone": "America/Chicago"
+                    }
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "cade922a-f3d0-4120-8052-d9e009265c9b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Status Options"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "95325406-9f4a-4281-b76a-0ecf79e62a10",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Onboarding"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "359f9445-6cad-42d4-a6a5-8dbee25ff626",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Active"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "691b5b7b-7731-48ac-96da-281c1a3aaa49",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "At-Risk"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "339ce7c8-0570-47a6-b627-75ff8dfe5454",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Paused"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ca03278c-f730-42a4-be3f-611357959cab",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Churned"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "4caa6df1-d2d0-4456-ab28-534192ed351e": {
+            "id": "4caa6df1-d2d0-4456-ab28-534192ed351e",
+            "fieldPath": "/attributes/@C_IMd",
+            "rank": "z"
+          },
+          "8235aea8-5b8c-4352-9fe2-2255bd5276be": {
+            "id": "8235aea8-5b8c-4352-9fe2-2255bd5276be",
+            "fieldPath": "/attributes/@az7_8",
+            "rank": "zV"
+          },
+          "d3df11b9-e7df-430d-b4c8-6a48e951e25a": {
+            "id": "d3df11b9-e7df-430d-b4c8-6a48e951e25a",
+            "fieldPath": "/attributes/@dCvoI",
+            "rank": "zk"
+          },
+          "9765ff70-dc6a-490d-8f77-fe3ac47f5032": {
+            "id": "9765ff70-dc6a-490d-8f77-fe3ac47f5032",
+            "fieldPath": "/attributes/@ny4m9",
+            "rank": "zs"
+          }
+        }
+      },
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "a57567d4-090d-4962-9997-fef61d5dd7b1": {
+            "id": "a57567d4-090d-4962-9997-fef61d5dd7b1",
+            "fieldPath": "/attributes/@C_IMd",
+            "rank": "V"
+          },
+          "02ab72b6-7e11-4eca-9b9d-7bddccb8f675": {
+            "id": "02ab72b6-7e11-4eca-9b9d-7bddccb8f675",
+            "fieldPath": "/attributes/@az7_8",
+            "rank": "k"
+          },
+          "5cc88338-8ceb-4b10-8b6f-53b4d9c13d5e": {
+            "id": "5cc88338-8ceb-4b10-8b6f-53b4d9c13d5e",
+            "fieldPath": "/attributes/@dCvoI",
+            "rank": "s"
+          },
+          "5ccdc284-7403-40a2-9305-bcdeabcabd03": {
+            "id": "5ccdc284-7403-40a2-9305-bcdeabcabd03",
+            "fieldPath": "/attributes/@ny4m9",
+            "rank": "w"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "b5d64300-fcb3-4c25-97f8-13dcff5e7be9": {
+            "id": "b5d64300-fcb3-4c25-97f8-13dcff5e7be9",
+            "fieldPath": "/attributes/@C_IMd",
+            "rank": "V"
+          },
+          "8be59b58-b7bc-4277-81d4-a170e3262038": {
+            "id": "8be59b58-b7bc-4277-81d4-a170e3262038",
+            "fieldPath": "/attributes/@az7_8",
+            "rank": "k"
+          },
+          "ef4d3d56-0469-40b9-be99-fa02bc682571": {
+            "id": "ef4d3d56-0469-40b9-be99-fa02bc682571",
+            "fieldPath": "/attributes/@dCvoI",
+            "rank": "s"
+          },
+          "6018f81b-2332-41d0-8379-6ea8702afee6": {
+            "id": "6018f81b-2332-41d0-8379-6ea8702afee6",
+            "fieldPath": "/attributes/@ny4m9",
+            "rank": "w"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "e2f7cea7-f10f-45db-bc05-37ef308af6ab": {
+            "id": "e2f7cea7-f10f-45db-bc05-37ef308af6ab",
+            "fieldPath": "/attributes/@C_IMd",
+            "rank": "V"
+          },
+          "8e03ae3f-3c11-4289-83e9-3a0529fb933d": {
+            "id": "8e03ae3f-3c11-4289-83e9-3a0529fb933d",
+            "fieldPath": "/attributes/@az7_8",
+            "rank": "k"
+          },
+          "c24fb9ad-e02c-408b-b1cd-eab2de07595a": {
+            "id": "c24fb9ad-e02c-408b-b1cd-eab2de07595a",
+            "fieldPath": "/attributes/@dCvoI",
+            "rank": "s"
+          },
+          "0072ef62-8a54-406e-8495-c75cfbdd9914": {
+            "id": "0072ef62-8a54-406e-8495-c75cfbdd9914",
+            "fieldPath": "/attributes/@ny4m9",
+            "rank": "w"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "07dcad59-e25b-4c09-af8b-225301aad9d7": {
+            "id": "07dcad59-e25b-4c09-af8b-225301aad9d7",
+            "fieldPath": "/attributes/@C_IMd",
+            "rank": "V"
+          },
+          "29f9473f-a22a-44c0-9adb-453173083217": {
+            "id": "29f9473f-a22a-44c0-9adb-453173083217",
+            "fieldPath": "/attributes/@az7_8",
+            "rank": "k"
+          },
+          "4d97d9fd-bfc4-425a-8003-09ac250f7ed8": {
+            "id": "4d97d9fd-bfc4-425a-8003-09ac250f7ed8",
+            "fieldPath": "/attributes/@dCvoI",
+            "rank": "s"
+          },
+          "aace58f1-d190-4428-8617-805d57a5832a": {
+            "id": "aace58f1-d190-4428-8617-805d57a5832a",
+            "fieldPath": "/attributes/@ny4m9",
+            "rank": "w"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "c8a5250b-25ed-4e0c-a75d-f1d08737c632": {
+            "id": "c8a5250b-25ed-4e0c-a75d-f1d08737c632",
+            "fieldPath": "/attributes/@C_IMd",
+            "rank": "z"
+          },
+          "05f64235-9736-446e-b8d4-9a75a35e565b": {
+            "id": "05f64235-9736-446e-b8d4-9a75a35e565b",
+            "fieldPath": "/attributes/@az7_8",
+            "rank": "zV"
+          },
+          "10292e63-ca03-41f3-b31a-1e8fdd2f0e72": {
+            "id": "10292e63-ca03-41f3-b31a-1e8fdd2f0e72",
+            "fieldPath": "/attributes/@dCvoI",
+            "rank": "zk"
+          },
+          "5ac68260-b26f-4e4d-ac01-c452735a2e79": {
+            "id": "5ac68260-b26f-4e4d-ac01-c452735a2e79",
+            "fieldPath": "/attributes/@ny4m9",
+            "rank": "zs"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@C_IMd": {
+        "type": "Select",
+        "displayName": "Plan",
+        "description": "Service plan assigned to each client account.",
+        "options": {
+          "@aBeMP": {
+            "id": "@aBeMP",
+            "name": "Starter",
+            "rank": "1",
+            "description": "Starter plan",
+            "color": "#2E7D32"
+          },
+          "@YmvJL": {
+            "id": "@YmvJL",
+            "name": "Growth",
+            "rank": "2",
+            "description": "Growth plan",
+            "color": "#1565C0"
+          },
+          "@n_c7g": {
+            "id": "@n_c7g",
+            "name": "Pro",
+            "rank": "3",
+            "description": "Pro plan",
+            "color": "#6A1B9A"
+          },
+          "@SdPTh": {
+            "id": "@SdPTh",
+            "name": "Enterprise",
+            "rank": "4",
+            "description": "Enterprise plan",
+            "color": "#EF6C00"
+          }
+        }
+      },
+      "@az7_8": {
+        "type": "number",
+        "displayName": "MonthlyValue",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@dCvoI": {
+        "type": "string",
+        "displayName": "NextDeliverable",
+        "description": "The next deliverable listed for the client account."
+      },
+      "@ny4m9": {
+        "type": "DateTime",
+        "title": "NextTouchDate",
+        "description": "Date of the next client touch, as listed in the table."
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📋"
+    },
+    "coverImageType": "background"
+  }
+}
